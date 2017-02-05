@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><actividad tipo="Test">
+	
+<!-- Parte generica -->	
+	<!-- Indica que color de fondo se le pondra al flash (por defecto 0x8993A0) -->
+	<color_fondo>0x8199d0</color_fondo>
+	<!-- Indica que color se le pondra a los elementos del flash (por defecto 0x728F61) -->
+	<color_botones>0xF3F3F3</color_botones>
+    <!-- Indica que color de fondo se le pondra al html5 (por defecto 0x7cb139) -->
+	<color_fondo_h>0x8199d0</color_fondo_h>
+	<!-- Indica que color se le pondra a los elementos del html5 (por defecto 0xFCA800) -->
+	<color_botones_h>0xF3F3F3</color_botones_h>
+    <!-- Indica el logo personalizado si lo hay -->
+    <logoPersonalizado>no</logoPersonalizado>
+	
+	<!-- Parametros nuevos - dic 2012 -->
+	<autor>Gabriel Durán</autor>
+	<descripcionUsuario>A partir das formas do perfecto de indicativo, atopa a base (ou bases) do verbo que che vai servir para construír todos os tempos do pasado</descripcionUsuario>
+    <descripcionUsuarioLimpio>A partir das formas do perfecto de indicativo, atopa a base (ou bases) do verbo que che vai servir para construír todos os tempos do pasado</descripcionUsuarioLimpio>
+	<origen_recursos></origen_recursos><xorigen_recursos>https://d3c41a1a64ri6i.cloudfront.net/recursos/87/2786538/</xorigen_recursos>
+	
+	<globalFeedback>1</globalFeedback>
+	
+	<!-- Indica si se mostrara al alumno la respuesta correcta o no, en caso de que el alumno no supere el ejercicio -->
+	<correccion>si</correccion>
+	<!-- Indica si la respuesta del alumno debe ser igual a la respuesta correcta en lo referente a las mayusculas y acentos, solo en el caso de que la forma de completar sea escrita -->
+	<sensible_mayusculas>no</sensible_mayusculas>
+	<sensible_acentos>no</sensible_acentos>
+	<!-- Indica si tiene un tiempo maximo para realizar la actividad, estara definido en segundos -->
+	<tiempo maximo="0">no</tiempo>
+     <registro>
+		<!-- Indica el tipo de registro:
+		- script -> registro a traves de un script (php, jsp, etx)
+		- scorm -> registreo a traves de scorp
+		-->
+		<tipo>scorm</tipo>
+		<!-- Indica la url del scrip, en caso de que el tipo sea script	-->
+		<url></url>
+		<!-- Indica los parametros a pasar al script, en caso de que el tipo sea script	-->
+		<parametros>
+			<!-- La etiqueta nombre contiene el nombre del parametro a pasar -->
+			<!-- La etiqueta valor contiene el valor al que hace referencia el parametro (buscara el nombre de la varible en flash):
+			- SCORE: puntuacion de la actividad, en porcentaje
+			- TIME: tiempo de la actividad, en segundos
+			- URL: direccion de la actividad
+			-->
+			<parametro id="1">
+				<nombre>score</nombre>
+				<valor>SCORE</valor>
+			</parametro>
+			<parametro id="2">
+				<nombre>time</nombre>
+				<valor>TIME</valor>
+			</parametro>
+			<parametro id="3">
+				<nombre>url</nombre>
+				<valor>URL</valor>
+			</parametro>
+		</parametros>
+	</registro>
+    
+<!-- Parte especifica -->
+	<titulo>Instrucións</titulo>
+	<tituloActividad>Onde está a base verbal?</tituloActividad>
+	<enunciado>Responde a estas preguntas</enunciado>
+    <!-- parametro solo para la importación a ADR -->
+    <enunciado_edu>Onde está a base verbal?</enunciado_edu>
+    
+	<!-- Indica la forma de realizar la actividad, es decir la ayuda de la actividad -->
+	<descripcion>Responde ás preguntas do test. Pode parecer que deba responder a algunhas preguntas para ir ao seguinte. Cando chegar ao final das preguntas, pode dar para acabar coa actividade, para que poidan ser corrixidos ea súa puntuación.</descripcion>
+	<!-- Indica el porcentaje de preguntas que deberan seran correctas para superar la actividad -->
+	<porcentaje_superar_actividad>50</porcentaje_superar_actividad>
+	<preguntas>
+		<!-- El atributo tipo indica las posibles preguntas que el profesor ha definido, hacen referencia a los cuatro tipos de preguntas:
+		- Respuesta escrita
+		- Respuesta escrita amplia
+		- Respuesta unica
+		- Respuesta multiple
+		-->
+                
+                        
+		<pregunta id="1" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: houbera, houberas, houbera,... Tamén no pretérito perfecto de subxuntivo telo igual: houbese, houbeses, houbese,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'haber' é: houben, houbeches, houbo, houbemos, houbestes, houberon. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">ho-</opcion>
+        		
+                <opcion resp="0">hou-</opcion>
+        		
+                <opcion resp="1">houb-</opcion>
+        		
+                <opcion resp="0">hab-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="2" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: fixera, fixeras, fixera,... Igual que sucede no pretérito perfecto de subxuntivo telo igual: fixese, fixeses, fixese,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'facer' é: fixen, fixeches, fixo, fixemos, fixestes e fixeron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">fa-</opcion>
+        		
+                <opcion resp="0">fi-</opcion>
+        		
+                <opcion resp="1">fix-</opcion>
+        		
+                <opcion resp="0">fo-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="3" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: puidera, puideras, puidera,... Tamén no pretérito perfecto de subxuntivo telo igual: puidese, puideses, puidese,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'poder' é: puiden, puideches, puido, puidemos, puidestes e puideron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">puid-</opcion>
+        		
+                <opcion resp="0">pod-</opcion>
+        		
+                <opcion resp="0">puide-</opcion>
+        		
+                <opcion resp="0">po-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="4" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: coubera, couberas, coubera,... Tamén no pretérito perfecto de subxuntivo telo igual: coubese, coubeses, coubese,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'caber' é: couben, coubeches, coubo, coubemos, coubestes e couberon. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">ca-</opcion>
+        		
+                <opcion resp="0">cabe-</opcion>
+        		
+                <opcion resp="1">coub-</opcion>
+        		
+                <opcion resp="0">c-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="5" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: estivera, estiveras, estivera,... Tamén no pretérito perfecto de subxuntivo telo igual: estivese, estiveses, estivesen,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O pretérito de indicativo do verbo 'estar' é: estiven, estiveches, estivo, estivemos, estivestes e estiveron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">est-</opcion>
+        		
+                <opcion resp="0">este-</opcion>
+        		
+                <opcion resp="1">estiv-</opcion>
+        		
+                <opcion resp="0">estea-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="6" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: quixera, quixeras, quixera,... Tamén no pretérito perfecto de subxuntivo telo igual: quixese, quixeses, quixese,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'querer' é: quixen, quixeches, quixo, quixemos, quixestes e quixerron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">quix-</opcion>
+        		
+                <opcion resp="0">q-</opcion>
+        		
+                <opcion resp="0">quei-</opcion>
+        		
+                <opcion resp="0">qui-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="7" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: tivera, tiveras, tivera,... Tamén no pretérito perfecto de subxuntivo telo igual: tivese, tiveses, tivese,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'ter' é: tiven, tiveches, tivo, tivemos, tivestes e tiveron. Cal será a base (ou bases) do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">te-</opcion>
+        		
+                <opcion resp="0">ti-</opcion>
+        		
+                <opcion resp="1">tiv-</opcion>
+        		
+                <opcion resp="0">t-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="8" tipo="unica" obligatoria="no" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Xa sabes que a base do verbo 'ter' para os tempos de pasado é: tiv-. Como se fará a 1ª persoa do sing do pluscuamperfecto (-era, eras,...) e do pretérito de subxuntivo (-ese, -eses,...)?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">tiviera (pluscuamperfecto) e tiviese (pretérito de subxuntivo)</opcion>
+        		
+                <opcion resp="1">tivera (pluscuamperfecto) e tivese (pretérito de subxuntivo)</opcion>
+        		
+                <opcion resp="0">tuviera (pluscuamperfecto) e tuviese (pretérito de subxuntivo)</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="9" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: fora, foras, fora,... Tamén no pretérito perfecto de subxuntivo telo igual: fose, foses, fose,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'ser' é: fun, fuches, foi, fomos, fostes e foron. Cal será a base (ou bases) do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">fu-</opcion>
+        		
+                <opcion resp="0">foi-</opcion>
+        		
+                <opcion resp="1">fo-</opcion>
+        		
+                <opcion resp="0">fun-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="10" tipo="unica" obligatoria="no" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Xa sabes que a base do verbo 'ser' para os tempos de pasado é: fo-. Como se fará a 1ª persoa do sing do pluscuamperfecto (-ra, ras,...) e do pretérito de subxuntivo (-se, -ses,...)?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">foara (pluscuamperfecto) e foase (pretérito de subxuntivo)</opcion>
+        		
+                <opcion resp="0">foera (pluscuamperfecto) e foese (pretérito de subxuntivo)</opcion>
+        		
+                <opcion resp="1">fora (pluscuamperfecto) e fose (pretérito de subxuntivo)</opcion>
+        					</opciones>
+		</pregunta>
+                	</preguntas>
+    
+    	<!-- Indica el numero de posibles preguntas que el profesor ha definido para el ejercicio -->
+	<numero_preguntas_totales>10</numero_preguntas_totales>
+	<!-- Indica el numero de preguntas que apareceran, seleccionadas de forma aleatoria -->
+	<numero_preguntas_visibles>10</numero_preguntas_visibles>
+	<orden_preguntas>ALEATORIO</orden_preguntas>
+    <!-- Indica el tipo de ordenacion usado-->
+	<puntos>100</puntos>
+    <!-- Indica los margenes para la puntuación por valoración-->
+    <margenes activo='no'>
+                            	</margenes>
+    
+    <idioma>
+
+		<txtPuntos>Puntuación</txtPuntos>
+		<txtTiempo>Tempo</txtTiempo>
+		<txtTiempoRestante>Tempo Restante</txtTiempoRestante>
+		<txtResultado>Resultado</txtResultado>
+		<txtPreguntas>Preguntas</txtPreguntas>
+		<txtHasAprobado>Aprobou!!</txtHasAprobado>
+		<txtHasSuspendido>Non superou a actividad</txtHasSuspendido>
+		<txtPorcentajeMinimo1>É necesario acadar un </txtPorcentajeMinimo1>
+		<txtPorcentajeMinimo2> para aprobar</txtPorcentajeMinimo2>
+		<txtContestadas>respondeu</txtContestadas>
+		<txtNoContestadas>Sen resposta</txtNoContestadas>
+		<txtNumObligatoria1>Contestou</txtNumObligatoria1>
+		<txtNumObligatoria2>pregunta obrigatoria</txtNumObligatoria2>
+		<txtNumObligatorias1>Contestou</txtNumObligatorias1>
+		<txtNumObligatorias2>preguntas obrigatorias</txtNumObligatorias2>
+		<txtTuPuntuacionEs>A súa puntuación é</txtTuPuntuacionEs>
+		<txtMal>Mal</txtMal>
+		<txtBien>Ben</txtBien>
+		<txtObligatoria>pregunta obrigatoria</txtObligatoria>
+		<txtProgreso>Progreso</txtProgreso>
+		<txtFinalizar>Final</txtFinalizar>
+		<txtVerCorregir>Vexa a corrección</txtVerCorregir>
+		
+		<txtRespuestaIncorrecta>Resposta incorrecta</txtRespuestaIncorrecta>
+		<txtTituloActividadNoSuperada>Actividade non superada</txtTituloActividadNoSuperada>
+		<txtActividadNoSuperada>Non superou a porcentaxe de acertos para pasar esa actividade.</txtActividadNoSuperada>
+		<txtTituloActividadSuperada>Actividade Pasado</txtTituloActividadSuperada>
+		<txtActividadSuperada>Parabéns ten superado a actividade</txtActividadSuperada>
+		<txtTiempoSuperado>Superou o tempo máximo para esta actividade</txtTiempoSuperado>
+		<txtCerrar>Pechar</txtCerrar>
+		<txtRespuestaCorrecta>Resposta correcta</txtRespuestaCorrecta>
+		<txtOtrasRespuestas>Outras respostas</txtOtrasRespuestas>
+		<txtTituloRespuestaCorrecta>Resposta correcta</txtTituloRespuestaCorrecta>
+		<txtBoxRespuestaCorrecta>Parabéns ten superado a actividade</txtBoxRespuestaCorrecta>
+		<txtPosiblesRespuestas>Posibles respostas</txtPosiblesRespuestas>
+		<txtTuRespuesta>A súa resposta</txtTuRespuesta>
+
+   		<txtSensibleMayusculas>É sensible a maiúsculas.</txtSensibleMayusculas>
+		<txtNoSensibleMayusculas>Non diferencia entre maiúsculas e minúsculas.</txtNoSensibleMayusculas>
+		<txtSensibleAcentos>Sensible a acentos.</txtSensibleAcentos>
+		<txtNoSensibleAcentos>Non é sensíbel a acentos.</txtNoSensibleAcentos>
+
+		<txtTituloErrorAudio>Erro en Actividade</txtTituloErrorAudio>
+		<txtErrorAudioSoportado>Audio non atopado ou non soportado polo teu navegador</txtErrorAudioSoportado>
+		
+		<txtAceptar>Aceptar</txtAceptar>
+		<txtTiempoMaximo>Tempo máximo</txtTiempoMaximo>
+		<txtSensible>Sensible</txtSensible>
+		<txtMayusculasMinusculas>Case Superior/Inferior</txtMayusculasMinusculas>
+		<txtAcentos>Acentos</txtAcentos>
+		<txtComenzar>Comenzar</txtComenzar>
+		<txtAutor>Autor</txtAutor>
+		<txtAyuda>Axuda</txtAyuda>
+		<txtMostrarMas>Amosar máis</txtMostrarMas>
+		<txtMostrarMenos>Amosar menos</txtMostrarMenos>
+		<txtReiniciar>Reinicie</txtReiniciar>
+		<txtVolverJugar>Xogar outra vez</txtVolverJugar>
+		<txtResponder>Responder</txtResponder>
+		<txtRegistrarse>Rexistrarse</txtRegistrarse>
+		<txtAcceder>Acceder</txtAcceder>
+		<txtCompartirResultado>Comparte os resultados</txtCompartirResultado>
+		<txtPantallaCompleta>Pantalla completa</txtPantallaCompleta>
+		<txtImprimir>Imprimir</txtImprimir>
+		<txtSiguiente>Seguinte</txtSiguiente>
+		<txtAnterior>Anterior</txtAnterior>
+		<txtInfoAdicional>Información adicional</txtInfoAdicional>
+		
+	</idioma>
+
+</actividad>

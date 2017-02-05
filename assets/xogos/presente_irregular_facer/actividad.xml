@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><actividad tipo="RelacionarColumnas">
+<!-- Parte generica -->
+	<!-- Indica que color de fondo se le pondra al flash (por defecto 0x8993A0) -->
+	<color_fondo>0x8199d0</color_fondo>
+	<!-- Indica que color se le pondra a los elementos del flash (por defecto 0x728F61) -->
+	<color_botones>0xF3F3F3</color_botones>
+    <!-- Indica que color de fondo se le pondra al html5 (por defecto 0x7cb139) -->
+	<color_fondo_h>0x8199d0</color_fondo_h>
+	<!-- Indica que color se le pondra a los elementos del html5 (por defecto 0xFCA800) -->
+	<color_botones_h>0xF3F3F3</color_botones_h>
+    <!-- Indica el logo personalizado si lo hay -->
+    <logoPersonalizado>no</logoPersonalizado>
+	<!-- Indica si se mostrara al alumno la respuesta correcta o no, en caso de que el alumno no supere el ejercicio -->
+	<correccion>si</correccion>
+	<numero_intentos>3</numero_intentos>
+	<!-- Indica si tiene un tiempo maximo para realizar la actividad, estaria definido en segundos -->
+	<tiempo maximo="0">no</tiempo>
+	
+	<!-- Parametros nuevos - dic 2012 -->
+	<autor>Gabriel Durán</autor>
+	<descripcionUsuario>Relaciona as formas verbais coas respectivas persoas</descripcionUsuario>
+    <descripcionUsuarioLimpio>Relaciona as formas verbais coas respectivas persoas</descripcionUsuarioLimpio>
+	<origen_recursos></origen_recursos><xorigen_recursos>https://d3c41a1a64ri6i.cloudfront.net/recursos/87/2799491/</xorigen_recursos>
+	
+      <registro>
+		<!-- Indica el tipo de registro:
+		- script -> registro a traves de un script (php, jsp, etx)
+		- scorm -> registreo a traves de scorp
+		-->
+		<tipo>scorm</tipo>
+		<!-- Indica la url del scrip, en caso de que el tipo sea script	-->
+		<url></url>
+		<!-- Indica los parametros a pasar al script, en caso de que el tipo sea script	-->
+		<parametros>
+			<!-- La etiqueta nombre contiene el nombre del parametro a pasar -->
+			<!-- La etiqueta valor contiene el valor al que hace referencia el parametro (buscara el nombre de la varible en flash):
+			- SCORE: puntuacion de la actividad, en porcentaje
+			- TIME: tiempo de la actividad, en segundos
+			- URL: direccion de la actividad
+			-->
+			<parametro id="1">
+				<nombre>score</nombre>
+				<valor>SCORE</valor>
+			</parametro>
+			<parametro id="2">
+				<nombre>time</nombre>
+				<valor>TIME</valor>
+			</parametro>
+			<parametro id="3">
+				<nombre>url</nombre>
+				<valor>URL</valor>
+			</parametro>
+		</parametros>
+	</registro>
+    
+<!-- Parte especifica -->
+	<titulo>Instrucións</titulo>
+	<!-- Indica la forma de realizar la actividad, es decir la ayuda de la actividad -->
+	<descripcion>Fornar as parellas correctamente. Para este clic sobre un dos elementos da primeira columna e, a continuación, sobre un dos elementos da segunda columna. Deben completar os pares para completar o exercicio.</descripcion>
+	<enunciado>Relaciona estos elementos</enunciado>
+    <!-- parametro solo para la importación a ADR -->
+    <enunciado_edu>Adiviña o presente</enunciado_edu>
+    
+	<tituloApli>Adiviña o presente</tituloApli>
+    <parejas>
+    		<pareja id="1">
+			<elementoA tipo="TEXTO">1ª persoa do singular (eu)</elementoA>
+            <elementoB tipo="TEXTO">Fago</elementoB>
+		</pareja>
+    		<pareja id="2">
+			<elementoA tipo="TEXTO">2ª persoa do singular (ti)</elementoA>
+            <elementoB tipo="TEXTO">Fas</elementoB>
+		</pareja>
+    		<pareja id="3">
+			<elementoA tipo="TEXTO">3ª persoa do singular (el ou ela)</elementoA>
+            <elementoB tipo="TEXTO">Fai</elementoB>
+		</pareja>
+    		<pareja id="4">
+			<elementoA tipo="TEXTO">1ª persoa do plural (nós)</elementoA>
+            <elementoB tipo="TEXTO">Facemos</elementoB>
+		</pareja>
+    		<pareja id="5">
+			<elementoA tipo="TEXTO">2ª persoa do plural (vós)</elementoA>
+            <elementoB tipo="TEXTO">Facedes</elementoB>
+		</pareja>
+    		<pareja id="6">
+			<elementoA tipo="TEXTO">3ª persoa do plural (eles ou elas)</elementoA>
+            <elementoB tipo="TEXTO">Fan</elementoB>
+		</pareja>
+        </parejas>
+	<puntos>100</puntos>
+	<puntos_resta>33</puntos_resta>
+    
+	<idioma>
+		<nIntentos>Número de intentos</nIntentos>
+		<txtPuntos>Puntuación</txtPuntos>
+		<txtTiempo>Tempo</txtTiempo>
+		<txtTiempoRestante>Tempo Restante</txtTiempoRestante>
+		<txtTituloActividadNoSuperada>Actividade non superada</txtTituloActividadNoSuperada>
+		<txtTiempoSuperado>Superou o tempo máximo para esta actividade</txtTiempoSuperado>
+		<txtTituloRespuestaCorrecta>Resposta correcta</txtTituloRespuestaCorrecta>
+		<txtCerrar>Pechar</txtCerrar>
+    	<txtSuperadoNumeroIntentos>Superou o número de intentos da actividade</txtSuperadoNumeroIntentos>
+		<txtTituloActividadSuperada>Actividade Pasado</txtTituloActividadSuperada>
+		<txtActividadSuperada>Parabéns ten superado a actividade</txtActividadSuperada>
+		<txtRespuestaIncorrecta>Non completou correctamente o grupo</txtRespuestaIncorrecta>
+  		<txtTituloRespuestaIncorrecta>Resposta incorrecta</txtTituloRespuestaIncorrecta>
+  		
+  		<txtGrupoCorrecto>Grupo Certo</txtGrupoCorrecto>
+		<txtBoxRespuestaCorrecta>Parabéns ten superado a actividade</txtBoxRespuestaCorrecta>
+		<txtTituloSuperadoNumeroIntentos>Actividade non superada</txtTituloSuperadoNumeroIntentos>    
+			
+		<txtAceptar>Aceptar</txtAceptar>
+		<txtTiempoMaximo>Tempo máximo</txtTiempoMaximo>
+		<txtSensible>Sensible</txtSensible>
+		<txtMayusculasMinusculas>Case Superior/Inferior</txtMayusculasMinusculas>
+		<txtAcentos>Acentos</txtAcentos>
+		<txtComenzar>Comenzar</txtComenzar>
+		<txtAutor>Autor</txtAutor>
+		<txtAyuda>Axuda</txtAyuda>
+		<txtMostrarMas>Amosar máis</txtMostrarMas>
+		<txtMostrarMenos>Amosar menos</txtMostrarMenos>
+		<txtReiniciar>Reinicie</txtReiniciar>
+		<txtVolverJugar>Xogar outra vez</txtVolverJugar>
+		<txtResponder>Responder</txtResponder>
+		<txtRegistrarse>Rexistrarse</txtRegistrarse>
+		<txtAcceder>Acceder</txtAcceder>
+		<txtCompartirResultado>Comparte os resultados</txtCompartirResultado>
+		<txtPantallaCompleta>Pantalla completa</txtPantallaCompleta>
+		<txtImprimir>Imprimir</txtImprimir>
+		<txtGrupo>Grupo</txtGrupo>
+		<txtHuecos>Buratos</txtHuecos>
+		<txtNormal>Normal</txtNormal>
+		<txtElementos>Elementos</txtElementos>
+		<txtTradicional>Tradicional</txtTradicional>
+	</idioma>
+
+</actividad>

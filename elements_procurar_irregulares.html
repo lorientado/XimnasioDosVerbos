@@ -1,0 +1,373 @@
+<!DOCTYPE HTML>
+
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <title>ConX</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+</head>
+<body>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Header -->
+    <header id="header">
+        <a href="index.html" class="logo"><strong>CONX</strong></a>
+        <nav>
+            <a href="#menu">Menú</a>
+        </nav>
+    </header>
+
+    <!-- Menu -->
+    <nav id="menu">
+        <ul class="links">
+            <!-- <li><a href="index.html">Home</a></li>
+            <li><a href="landing.html">Landing</a></li>
+            <li><a href="generic.html">Generic</a></li>
+            <li><a href="elements.html">Elements</a></li> -->
+
+            <h4>Procurar</h4>
+            <ul>
+                <a href="elements_procurar_alternancia.html">Alternancia vocalica</a>
+            </ul>
+            <ul>
+                <a href="elements_procurar_irregulares.html">Verbos irregulares</a>
+            </ul>
+            <h4>Trucos</h4>
+            <ul>
+                <a href="generic_2_trucos_alternancia.html">Alternancia vocalica</a>
+            </ul>
+            <ul>
+                <a href="generic_2_trucos_tema_perfecto.html">Verbos irregulares</a>
+            </ul>
+            <h4>Adestramento</h4>
+            <ul>
+                <a href="adestramento_alternancia.html">Alternancia vocalica</a>
+            </ul>
+            <ul>
+                <a href="adestramento_perfecto.html">Verbos irregulares</a>
+            </ul>
+            <h4>Xogos</h4>
+            <ul>
+                <a href="xogos_alternancia.html">Alternancia vocálica</a>
+            </ul>
+            <ul>
+                <a href="xogos_perfecto.html">Verbos irregulares</a>
+            </ul>
+            <h4>Créditos</h4>
+            <a href="index.html#creditos">Quen somos?</a>
+        </ul>
+    </nav>
+
+    <!-- Main -->
+    <div id="main" class="alt">
+
+        <!-- One -->
+        <section id="one">
+            <div class="inner">
+                <header class="major">
+                    <h1>Procura de verbos</h1>
+                </header>
+
+                <!-- Content -->
+
+
+                <style>
+                    * {
+                        box-sizing: border-box;
+                    }
+
+                    #myInput {
+                        background-image: url('/css/searchicon.png');
+                        background-position: 10px 12px;
+                        background-repeat: no-repeat;
+                        width: 100%;
+                        font-size: 16px;
+                        padding: 12px 20px 12px 40px;
+                        border: 1px solid #edeaea;
+                        margin-bottom: 12px;
+
+                    }
+
+                    #myUL {
+                        list-style-type: none;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    #myUL li a {
+                        border: 1px solid #edeaea;
+                        margin-top: -1px; /* Prevent double borders */
+                        background-color: #f6f6f6;
+                        padding: 12px;
+                        text-decoration: none;
+                        font-size: 16px;
+                        color: black;
+                        display: block
+                    }
+
+                    #myUL li a.header {
+                        background-color: #edeaea;
+                        cursor: default;
+                    }
+
+                    #myUL li a:hover:not(.header) {
+                        background-color: #edeaea;
+                    }
+
+                </style>
+                </head>
+                <p>
+                <table>
+                    <tbody>
+                    <tr>
+                        <td bgcolor="#31395B" style="width: 80%; text-align:right;line-height: 2.3; padding-bottom: 8px; word-break:break-all;">
+                            <font size="2"><a href="elements_procurar_irregulares.html#instrucions">Instrucións de uso</a><br>
+                                <a href="generic_2_trucos_tema_perfecto.html#practica">Trucos para aprendelos axiña?</a><br>
+                            </font> </td>
+                    </tr>
+                    </tbody>
+                </table>
+
+                <input style="color" type="text" id="myInput" onkeyup="myFunction()" placeholder="Insire un verbo..." title="Type in a name">
+
+                <ul id="myUL">
+
+
+
+                    <li><a style="text-align:center" href="#">Abster</a></li>
+                    <li><a style="text-align:center" href="#">Abstraer</a></li>
+                    <li><a style="text-align:center" href="#">Advir</a></li>
+                    <li><a style="text-align:center" href="#">Afacer</a></li>
+                    <li><a style="text-align:center" href="#">Andar</a></li>
+                    <li><a style="text-align:center" href="#">Antepoñer</a></li>
+                    <li><a style="text-align:center" href="#">Antepor</a></li>
+                    <li><a style="text-align:center" href="#">Apoñer</a></li>
+                    <li><a style="text-align:center" href="#">Apor</a></li>
+                    <li><a style="text-align:center" href="#">Arrepoñer</a></li>
+                    <li><a style="text-align:center" href="#">Arrepor</a></li>
+                    <li><a style="text-align:center" href="#">Ater</a></li>
+                    <li><a style="text-align:center" href="#">Atraer</a></li>
+                    <li><a style="text-align:center" href="#">Avir</a></li>
+                    <li><a style="text-align:center" href="#">Bendicir</a></li>
+                    <li><a style="text-align:center" href="#">Caber</a></li>
+                    <li><a style="text-align:center" href="#">Caer</a></li>
+                    <li><a style="text-align:center" href="#">Compoñer</a></li>
+                    <li><a style="text-align:center" href="#">Compor</a></li>
+                    <li><a style="text-align:center" href="#">Conter</a></li>
+                    <li><a style="text-align:center" href="#">Contradicir</a></li>
+                    <li><a style="text-align:center" href="#">Contraer</a></li>
+                    <li><a style="text-align:center" href="#">Contrafacer</a></li>
+                    <li><a style="text-align:center" href="#">Contrapoñer</a></li>
+                    <li><a style="text-align:center" href="#">Contrapor</a></li>
+                    <li><a style="text-align:center" href="#">Contravir</a></li>
+                    <li><a style="text-align:center" href="#">Convir</a></li>
+                    <li><a style="text-align:center" href="#">Crer</a></li>
+                    <li><a style="text-align:center" href="#">Dar</a></li>
+                    <li><a style="text-align:center" href="#">Depoñer</a></li>
+                    <li><a style="text-align:center" href="#">Depor</a></li>
+                    <li><a style="text-align:center" href="#">Desafacer</a></li>
+                    <li><a style="text-align:center" href="#">Desapoñer</a></li>
+                    <li><a style="text-align:center" href="#">Desapor</a></li>
+                    <li><a style="text-align:center" href="#">Desavir</a></li>
+                    <li><a style="text-align:center" href="#">Descompoñer</a></li>
+                    <li><a style="text-align:center" href="#">Descompor</a></li>
+                    <li><a style="text-align:center" href="#">Descontraer</a></li>
+                    <li><a style="text-align:center" href="#">Desconvir</a></li>
+                    <li><a style="text-align:center" href="#">Descrer</a></li>
+                    <li><a style="text-align:center" href="#">Desdicir</a></li>
+                    <li><a style="text-align:center" href="#">Desfacer</a></li>
+                    <li><a style="text-align:center" href="#">Desouvir</a></li>
+                    <li><a style="text-align:center" href="#">Deter</a></li>
+                    <li><a style="text-align:center" href="#">Detraer</a></li>
+                    <li><a style="text-align:center" href="#">Devir</a></li>
+                    <li><a style="text-align:center" href="#">Dicir</a></li>
+                    <li><a style="text-align:center" href="#">Dispoñer</a></li>
+                    <li><a style="text-align:center" href="#">Dispor</a></li>
+                    <li><a style="text-align:center" href="#">Distraer</a></li>
+                    <li><a style="text-align:center" href="#">Entreouvir</a></li>
+                    <li><a style="text-align:center" href="#">Entreter</a></li>
+                    <li><a style="text-align:center" href="#">Equivaler</a></li>
+                    <li><a style="text-align:center" href="#">Estar</a></li>
+                    <li><a style="text-align:center" href="#">Expoñer</a></li>
+                    <li><a style="text-align:center" href="#">Expor</a></li>
+                    <li><a style="text-align:center" href="#">Extraer</a></li>
+                    <li><a style="text-align:center" href="#">Facer</a></li>
+                    <li><a style="text-align:center" href="#">Haber</a></li>
+                    <li><a style="text-align:center" href="#">Impoñer</a></li>
+                    <li><a style="text-align:center" href="#">Impor</a></li>
+                    <li><a style="text-align:center" href="#">Incluír</a></li>
+                    <li><a style="text-align:center" href="#">Indispoñer</a></li>
+                    <li><a style="text-align:center" href="#">Indispor</a></li>
+                    <li><a style="text-align:center" href="#">Interpoñer</a></li>
+                    <li><a style="text-align:center" href="#">Interpor</a></li>
+                    <li><a style="text-align:center" href="#">Intervir</a></li>
+                    <li><a style="text-align:center" href="#">Ir</a></li>
+                    <li><a style="text-align:center" href="#">Ler</a></li>
+                    <li><a style="text-align:center" href="#">Maldicir</a></li>
+                    <li><a style="text-align:center" href="#">Malparir</a></li>
+                    <li><a style="text-align:center" href="#">Maltraer</a></li>
+                    <li><a style="text-align:center" href="#">Manter</a></li>
+                    <li><a style="text-align:center" href="#">Obter</a></li>
+                    <li><a style="text-align:center" href="#">Opoñer</a></li>
+                    <li><a style="text-align:center" href="#">Opor</a></li>
+                    <li><a style="text-align:center" href="#">Ouvir</a></li>
+                    <li><a style="text-align:center" href="#">Parir</a></li>
+                    <li><a style="text-align:center" href="#">Partir</a></li>
+                    <li><a style="text-align:center" href="#">Poder</a></li>
+                    <li><a style="text-align:center" href="#">Poñer</a></li>
+                    <li><a style="text-align:center" href="#">Pór</a></li>
+                    <li><a style="text-align:center" href="#">Pospoñer</a></li>
+                    <li><a style="text-align:center" href="#">Pospor</a></li>
+                    <li><a style="text-align:center" href="#">Pracer</a></li>
+                    <li><a style="text-align:center" href="#">Precaver</a></li>
+                    <li><a style="text-align:center" href="#">Predicir</a></li>
+                    <li><a style="text-align:center" href="#">Predispoñer</a></li>
+                    <li><a style="text-align:center" href="#">Predispor</a></li>
+                    <li><a style="text-align:center" href="#">Presupoñer</a></li>
+                    <li><a style="text-align:center" href="#">Presupor</a></li>
+                    <li><a style="text-align:center" href="#">Prever</a></li>
+                    <li><a style="text-align:center" href="#">Previr</a></li>
+                    <li><a style="text-align:center" href="#">Propoñer</a></li>
+                    <li><a style="text-align:center" href="#">Propor</a></li>
+                    <li><a style="text-align:center" href="#">Prover</a></li>
+                    <li><a style="text-align:center" href="#">Provir</a></li>
+                    <li><a style="text-align:center" href="#">Querer</a></li>
+                    <li><a style="text-align:center" href="#">Rarefacer</a></li>
+                    <li><a style="text-align:center" href="#">Recompoñer</a></li>
+                    <li><a style="text-align:center" href="#">Recompor</a></li>
+                    <li><a style="text-align:center" href="#">Reconvir</a></li>
+                    <li><a style="text-align:center" href="#">Refacer</a></li>
+                    <li><a style="text-align:center" href="#">Reimpoñer</a></li>
+                    <li><a style="text-align:center" href="#">Reimpor</a></li>
+                    <li><a style="text-align:center" href="#">Reler</a></li>
+                    <li><a style="text-align:center" href="#">Repoñer</a></li>
+                    <li><a style="text-align:center" href="#">Repor</a></li>
+                    <li><a style="text-align:center" href="#">Reter</a></li>
+                    <li><a style="text-align:center" href="#">Retraer</a></li>
+                    <li><a style="text-align:center" href="#">Retrotaer</a></li>
+                    <li><a style="text-align:center" href="#">Rir</a></li>
+                    <li><a style="text-align:center" href="#">Saber</a></li>
+                    <li><a style="text-align:center" href="#">Saír</a></li>
+                    <li><a style="text-align:center" href="#">Satisfacer</a></li>
+                    <li><a style="text-align:center" href="#">Ser</a></li>
+                    <li><a style="text-align:center" href="#">Sobrepoñer</a></li>
+                    <li><a style="text-align:center" href="#">Sobrepor</a></li>
+                    <li><a style="text-align:center" href="#">Sobreser</a></li>
+                    <li><a style="text-align:center" href="#">Sobrevir</a></li>
+                    <li><a style="text-align:center" href="#">Sorrir</a></li>
+                    <li><a style="text-align:center" href="#">Soster</a></li>
+                    <li><a style="text-align:center" href="#">Subexpoñer</a></li>
+                    <li><a style="text-align:center" href="#">Subexpor</a></li>
+                    <li><a style="text-align:center" href="#">Subtraer</a></li>
+                    <li><a style="text-align:center" href="#">Superpoñer</a></li>
+                    <li><a style="text-align:center" href="#">Superpor</a></li>
+                    <li><a style="text-align:center" href="#">Supoñer</a></li>
+                    <li><a style="text-align:center" href="#">Supor</a></li>
+                    <li><a style="text-align:center" href="#">Ter</a></li>
+                    <li><a style="text-align:center" href="#">Traducir</a></li>
+                    <li><a style="text-align:center" href="#">Traer</a></li>
+                    <li><a style="text-align:center" href="#">Traspoñer</a></li>
+                    <li><a style="text-align:center" href="#">Traspor</a></li>
+                    <li><a style="text-align:center" href="#">Tumefacer</a></li>
+                    <li><a style="text-align:center" href="#">Valer</a></li>
+                    <li><a style="text-align:center" href="#">Varrer</a></li>
+                    <li><a style="text-align:center" href="#">Ver</a></li>
+                    <li><a style="text-align:center" href="#">Vir</a></li>
+                    <li><a style="text-align:center" href="#">Xustapoñer</a></li>
+                    <li><a style="text-align:center" href="#">Xustapor</a></li>
+
+
+
+                </ul>
+                <script>
+                    function myFunction() {
+                        var input, filter, ul, li, a, i;
+                        input = document.getElementById("myInput");
+                        filter = input.value.toUpperCase();
+                        ul = document.getElementById("myUL");
+                        li = ul.getElementsByTagName("li");
+                        for (i = 0; i < li.length; i++) {
+                            a = li[i].getElementsByTagName("a")[0];
+                            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                                li[i].style.display = "";
+                            } else {
+                                li[i].style.display = "none";
+
+                            }
+                        }
+                    }
+                </script>
+
+
+                <p>
+                </p>
+
+                <header class="major">
+                    <h2 id="instrucions">Instrucións de uso</h2>
+                </header>
+                <p>Neste ximnasio poñemos as estadas para que ti sexas capaz de usar os verbos irregulares. Aprender e
+                    facer: vai ser a nosa filosofía para que consigas dominar estes verbos.<br>
+                Malia as súas dificultades, estes verbos teñen mudanzas que seguen certos padróns que facilitan a súa aprendizaxe.
+                    Na sección de <a href="generic_2_trucos_tema_perfecto.html#practica"><b><i>Trucos</i></b>, tes
+                        todas as mañas para que progreses como un foguete</a> &#127879.<br></p>
+                <p>
+                    Basicamente, os cambios deste tipo de verbos residen na <b><a href="generic_2_trucos_alternancia.html#baseverbal">base dos verbos</a></b>.
+                    Algúns tempos verbais van compartir unha determinada base verbal, total ou parcialmente, mentres que outras formas verbais terán outra
+                    en común.<br>
+                    Seguindo este criterio, podemos dividir os tempos verbais en dous grandes grupos:
+                <ul>
+                    <li type="disc"><b>Os <i>tempos do presente</i></b> reúnen os
+                        seguintes tempos verbais: <b>presente de indicativo</b>, <b>copretérito</b>
+                        (ou <b>pretérito imperfecto</b>), <b>futuro</b>, <b>pospretérito</b>
+                        (ou <b>condicional</b>), <b>presente de subxuntivo</b>, <b>imperativo</b>,
+                        <b>infinitivo</b>, <b>xerundio</b>, <b>participio</b>.</li>
+                    <li type="disc"><b>Os <i>tempos do pasado</i></b> agrupan os
+                        seguintes tempos verbais: o <b>pretérito</b> (ou <b>indefinido</b>),
+                        o <b>antepretérito</b> (ou <b>pluscuamperfecto</b>), o <b>pretérito
+                            de subxuntivo</b> (ou <b>subxuntivo II</b>) e o <b>futuro de
+                            subxuntivo</b>.</li>
+                </ul>
+                Por mor disto, na nosa base de datos só van aparecer dous tempos verbais chave: o <b>presente de
+                    indicativo</b> e o <b>perfecto de indicativo</b>. Tan só con isto, vas ser capaz de construír todas
+                as formas verbais. <br>
+                Para rematar, imos marcar as vogais abertas <a href="elements_procurar.html#ollo1"><b>/<font color="#5bd6ff">ɛ</font>/</b>
+                    e <b>/<font color="#5bd6ff">ɔ</font>/</b></a> do seguinte xeito:
+                </p>
+                <table>
+                    <tbody>
+                    <tr style="text-align: center;">
+                        <td>
+                            <b><font size="4"><font color="#FFFF00">S</font><font
+                                    color="#5bd6ff">ɛ</font><font
+                                    color="#FFFF00">rv</font><font
+                                    color="#fcfcfe">es</font></b></font>
+                        </td>
+                        <td>
+                            <b><font size="4"><font color="#FFFF00">S</font><font
+                                    color="#5bd6ff">ɔ</font><font
+                                    color="#FFFF00">b</font><font
+                                    color="#fcfcfe">es</font></font></b>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+            <!-- Scripts -->
+            <script src="assets/js/jquery.min.js"></script>
+            <script src="assets/js/jquery.scrolly.min.js"></script>
+            <script src="assets/js/jquery.scrollex.min.js"></script>
+            <script src="assets/js/skel.min.js"></script>
+            <script src="assets/js/util.js"></script>
+            <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+            <script src="assets/js/main.js"></script>
+
+</body>
+</html>

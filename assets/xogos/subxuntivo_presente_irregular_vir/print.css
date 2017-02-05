@@ -1,0 +1,9 @@
+*{margin:0;padding:0}a
+img{border:none}body{background-color:#FFF;color:#111;font-family:"Segoe UI",Segoe,Optima,Candara,"DejaVu Sans",Calibri,Arial,sans-serif;font-size:12pt}#all{padding:12pt 3%}.clear{clear:both}#actividad{position:relative;text-align:center}.datosActividad{font-size:11px;padding:4pt 1.5% 0 0;text-align:right}.logo{float:left;padding:3pt 0 0 1.5%}#header{padding:1pt 0 20pt}h1{font:bold 18px/20px "Segoe UI", Segoe, Optima, Candara, "DejaVu Sans",Calibri,Arial,sans-serif;padding-bottom:2px}a{text-decoration:none;color:#618a2c}#textoAutor{margin-right:4px}.txtExplicacion{font-size:9pt;line-height:30pt;text-align:left;font-weight:bold;border-top:1px dashed #111}#palabrasDisponibles,#palabrasOrdenar{text-align:center;font-size:0}#palabrasDisponibles{padding:10px
+0 30px}#palabrasOrdenar{padding-top:9px}.cuadroPalabras{display:inline-block;height:30px;margin:5px
+2px}.cajaPalabras{line-height:21pt;padding:0
+14px;background-color:#fff;color:#333;border-radius:4px;font-weight:bold;font-size:10pt;border:2px
+solid #333}.huecoPalabras
+.cajaPalabras{display:none}#textoCompletar{line-height:20pt;font-size:10pt;text-align:justify;padding-top:20px}.huecos{display:inline-block;width:110px;height:15px;margin:0
+1px -5px;border-bottom:1px solid #838589}.cuadroPalabras{vertical-align:middle}#actividad{max-width:60em;margin:0
+auto}#publiActividad{width:100%;text-align:center;float:left;margin-top:20px;margin-bottom:30px}

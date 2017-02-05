@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entrada>
+    <infinitivo>rir</infinitivo>
+    <presente_ind>
+        <eu>Río</eu>
+        <ti>Ris</ti>
+        <el_ou_ela>Ri</el_ou_ela>
+        <nós>Rimos</nós>
+        <vós>Rides</vós>
+        <eles_ou_elas>Rin</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>rin</eu>
+        <ti>riches</ti>
+        <el_ou_ela>riu</el_ou_ela>
+        <nós>rimos</nós>
+        <vós>ristes</vós>
+        <eles_ou_elas>riron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>querer</infinitivo>
+    <presente_ind>
+        <eu>Qu<b>E</b>ro</eu>
+        <ti>Qu<b>E</b>res</ti>
+        <el_ou_ela>Qu<b>E</b>re</el_ou_ela>
+        <nós>Queremos</nós>
+        <vós>Queredes</vós>
+        <eles_ou_elas>Qu<b>E</b>ren</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>quixen</eu>
+        <ti>quix<b>E</b>ches</ti>
+        <el_ou_ela>quixo</el_ou_ela>
+        <nós>quix<b>E</b>mos</nós>
+        <vós>quix<b>E</b>stes</vós>
+        <eles_ou_elas>quix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>provir</infinitivo>
+    <presente_ind>
+        <eu>Proveño</eu>
+        <ti>Prov<b>É</b>s</ti>
+        <el_ou_ela>Prov<b>É</b>n</el_ou_ela>
+        <nós>Provimos</nós>
+        <vós>Provides ou provindes</vós>
+        <eles_ou_elas>Prov<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>provín</eu>
+        <ti>proviñ<b>E</b>ches</ti>
+        <el_ou_ela>proveu ou prov<b>E</b>u</el_ou_ela>
+        <nós>proviñ<b>E</b>mos</nós>
+        <vós>proviñ<b>E</b>stes</vós>
+        <eles_ou_elas>proviñ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>prover</infinitivo>
+    <presente_ind>
+        <eu>Provexo</eu>
+        <ti>Provés</ti>
+        <el_ou_ela>Prové</el_ou_ela>
+        <nós>Provemos</nós>
+        <vós>Provedes</vós>
+        <eles_ou_elas>Provén</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>provín</eu>
+        <ti>proviches</ti>
+        <el_ou_ela>proveu</el_ou_ela>
+        <nós>provemos</nós>
+        <vós>provestes</vós>
+        <eles_ou_elas>proveron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>previr</infinitivo>
+    <presente_ind>
+        <eu>Preveño</eu>
+        <ti>Prev<b>É</b>s</ti>
+        <el_ou_ela>Prev<b>É</b>n</el_ou_ela>
+        <nós>Previmos</nós>
+        <vós>Prevides ou previndes</vós>
+        <eles_ou_elas>Prev<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>prevín</eu>
+        <ti>peviñ<b>E</b>ches</ti>
+        <el_ou_ela>preveu ou prev<b>E</b>u</el_ou_ela>
+        <nós>previñ<b>E</b>mos</nós>
+        <vós>previñ<b>E</b>stes</vós>
+        <eles_ou_elas>previñ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>prever</infinitivo>
+    <presente_ind>
+        <eu>Prevexo</eu>
+        <ti>Prevés</ti>
+        <el_ou_ela>Prevé</el_ou_ela>
+        <nós>Prevemos</nós>
+        <vós>Prevedes</vós>
+        <eles_ou_elas>Prevén</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>prevín</eu>
+        <ti>previches</ti>
+        <el_ou_ela>previu</el_ou_ela>
+        <nós>previmos</nós>
+        <vós>previstes</vós>
+        <eles_ou_elas>previron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>predicir</infinitivo>
+    <presente_ind>
+        <eu>Predigo</eu>
+        <ti>Predís</ti>
+        <el_ou_ela>Predí</el_ou_ela>
+        <nós>Predicimos</nós>
+        <vós>Predicides</vós>
+        <eles_ou_elas>Predín</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>predixen</eu>
+        <ti>predix<b>E</b>ches</ti>
+        <el_ou_ela>predixo</el_ou_ela>
+        <nós>predix<b>E</b>mos</nós>
+        <vós>predix<b>E</b>stes</vós>
+        <eles_ou_elas>predix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>pracer</infinitivo>
+    <presente_ind>
+        <eu>Prazo</eu>
+        <ti>Praces</ti>
+        <el_ou_ela>Prace</el_ou_ela>
+        <nós>Pracemos</nós>
+        <vós>Pracedes</vós>
+        <eles_ou_elas>Pracen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>prouguen</eu>
+        <ti>prougu<b>E</b>ches</ti>
+        <el_ou_ela>prougo</el_ou_ela>
+        <nós>prougu<b>E</b>mos</nós>
+        <vós>prougu<b>E</b>stes</vós>
+        <eles_ou_elas>prougu<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>pór</infinitivo>
+    <presente_ind>
+        <eu>Poño</eu>
+        <ti>P<b>O</b>s</ti>
+        <el_ou_ela>P<b>O</b>n</el_ou_ela>
+        <nós>Pomos</nós>
+        <vós>Pondes</vós>
+        <eles_ou_elas>P<b>O</b>n</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>puxen</eu>
+        <ti>pux<b>E</b>ches</ti>
+        <el_ou_ela>puxo</el_ou_ela>
+        <nós>pux<b>E</b>mos</nós>
+        <vós>pux<b>E</b>stes</vós>
+        <eles_ou_elas>pux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>poñer</infinitivo>
+    <presente_ind>
+        <eu>Poño</eu>
+        <ti>P<b>O</b>s</ti>
+        <el_ou_ela>P<b>O</b>n</el_ou_ela>
+        <nós>Poñemos</nós>
+        <vós>Poñedes</vós>
+        <eles_ou_elas>P<b>O</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>puxen</eu>
+        <ti>pux<b>E</b>ches</ti>
+        <el_ou_ela>puxo</el_ou_ela>
+        <nós>pux<b>E</b>mos</nós>
+        <vós>pux<b>E</b>stes</vós>
+        <eles_ou_elas>pux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>poder</infinitivo>
+    <presente_ind>
+        <eu>P<b>O</b>do</eu>
+        <ti>P<b>O</b>des</ti>
+        <el_ou_ela>P<b>o</b>de</el_ou_ela>
+        <nós>Podemos</nós>
+        <vós>Podedes</vós>
+        <eles_ou_elas>P<b>O</b>den</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>puiden</eu>
+        <ti>puid<b>E</b>ches</ti>
+        <el_ou_ela>puido</el_ou_ela>
+        <nós>puid<b>E</b>mos</nós>
+        <vós>puid<b>E</b>stes</vós>
+        <eles_ou_elas>puid<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>partir</infinitivo>
+    <presente_ind>
+        <eu>Parto</eu>
+        <ti>Partes</ti>
+        <el_ou_ela>Parte</el_ou_ela>
+        <nós>Partimos</nós>
+        <vós>Partides</vós>
+        <eles_ou_elas>Parten</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>partín</eu>
+        <ti>partiches</ti>
+        <el_ou_ela>partiu</el_ou_ela>
+        <nós>partimos</nós>
+        <vós>partistes</vós>
+        <eles_ou_elas>partiron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>manter</infinitivo>
+    <presente_ind>
+        <eu>Manteño</eu>
+        <ti>Mant<b>É</b>s</ti>
+        <el_ou_ela>Mant<b>É</b>n</el_ou_ela>
+        <nós>Mantemos</nós>
+        <vós>Mantedes ou mantendes</vós>
+        <eles_ou_elas>Mant<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>mantiven</eu>
+        <ti>mantiv<b>E</b>ches</ti>
+        <el_ou_ela>mantivo</el_ou_ela>
+        <nós>mantiv<b>E</b>mos</nós>
+        <vós>mantiv<b>E</b>stes</vós>
+        <eles_ou_elas>mantiv<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>ler</infinitivo>
+    <presente_ind>
+        <eu>Leo</eu>
+        <ti>Les</ti>
+        <el_ou_ela>Le</el_ou_ela>
+        <nós>Lemos</nós>
+        <vós>Ledes</vós>
+        <eles_ou_elas>Len</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>lin</eu>
+        <ti>liches</ti>
+        <el_ou_ela>leu</el_ou_ela>
+        <nós>lemos</nós>
+        <vós>lestes</vós>
+        <eles_ou_elas>leron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>ir</infinitivo>
+    <presente_ind>
+        <eu>Vou</eu>
+        <ti>Vas</ti>
+        <el_ou_ela>Vai</el_ou_ela>
+        <nós>Imos</nós>
+        <vós>Ides</vós>
+        <eles_ou_elas>Van</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>fun</eu>
+        <ti>fuches</ti>
+        <el_ou_ela>foi</el_ou_ela>
+        <nós>fomos</nós>
+        <vós>fostes</vós>
+        <eles_ou_elas>foron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>intervir</infinitivo>
+    <presente_ind>
+        <eu>Interveño</eu>
+        <ti>Interv<b>É</b>s</ti>
+        <el_ou_ela>Interv<b>É</b>n</el_ou_ela>
+        <nós>Intervimos</nós>
+        <vós>Intervides ou intervindes</vós>
+        <eles_ou_elas>Interv<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>intervín</eu>
+        <ti>interviñ<b>E</b>ches</ti>
+        <el_ou_ela>interv<b>E</b>u</el_ou_ela>
+        <nós>interviñ<b>E</b>mos</nós>
+        <vós>interviñ<b>E</b>stes</vós>
+        <eles_ou_elas>interviñ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>incluír</infinitivo>
+    <presente_ind>
+        <eu>Inclúo</eu>
+        <ti>Inclúes</ti>
+        <el_ou_ela>Inclúe</el_ou_ela>
+        <nós>Incluímos</nós>
+        <vós>Incluídes</vós>
+        <eles_ou_elas>Inclúen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>incluín</eu>
+        <ti>incluíches</ti>
+        <el_ou_ela>incluíu</el_ou_ela>
+        <nós>incluímos</nós>
+        <vós>incluístes</vós>
+        <eles_ou_elas>incluíron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>haber</infinitivo>
+    <presente_ind>
+        <eu>Hei</eu>
+        <ti>Has</ti>
+        <el_ou_ela>Ha ou hai</el_ou_ela>
+        <nós>Habemos</nós>
+        <vós>Habedes</vós>
+        <eles_ou_elas>Han</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>houben</eu>
+        <ti>houb<b>E</b>ches</ti>
+        <el_ou_ela>houbo</el_ou_ela>
+        <nós>houb<b>E</b>mos</nós>
+        <vós>houb<b>E</b>stes</vós>
+        <eles_ou_elas>houb<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>facer</infinitivo>
+    <presente_ind>
+        <eu>Fago</eu>
+        <ti>Fas</ti>
+        <el_ou_ela>Fai</el_ou_ela>
+        <nós>Facemos</nós>
+        <vós>Facedes</vós>
+        <eles_ou_elas>Fan</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>fixen</eu>
+        <ti>fix<b>E</b>ches</ti>
+        <el_ou_ela>fixo</el_ou_ela>
+        <nós>fix<b>E</b>mos</nós>
+        <vós>fix<b>E</b>stes</vós>
+        <eles_ou_elas>fix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>estar</infinitivo>
+    <presente_ind>
+        <eu>Estou</eu>
+        <ti>Estás</ti>
+        <el_ou_ela>Está</el_ou_ela>
+        <nós>Estamos</nós>
+        <vós>Estades</vós>
+        <eles_ou_elas>Están</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>estiven</eu>
+        <ti>estiv<b>E</b>ches</ti>
+        <el_ou_ela>estivo</el_ou_ela>
+        <nós>estiv<b>E</b>mos</nós>
+        <vós>estiv<b>E</b>stes</vós>
+        <eles_ou_elas>estiv<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>dispoñer</infinitivo>
+    <presente_ind>
+        <eu>Dispoño</eu>
+        <ti>Disp<b>Ó</b>s</ti>
+        <el_ou_ela>Disp<b>Ó</b>n</el_ou_ela>
+        <nós>Dispoñemos</nós>
+        <vós>Dispoñedes</vós>
+        <eles_ou_elas>Disp<b>O</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>dispuxen</eu>
+        <ti>dispux<b>E</b>ches</ti>
+        <el_ou_ela>dispuxo</el_ou_ela>
+        <nós>dispux<b>E</b>mos</nós>
+        <vós>dispux<b>E</b>stes</vós>
+        <eles_ou_elas>dispux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>dicir</infinitivo>
+    <presente_ind>
+        <eu>Digo</eu>
+        <ti>Dis</ti>
+        <el_ou_ela>Di</el_ou_ela>
+        <nós>Dicimos</nós>
+        <vós>Dicides</vós>
+        <eles_ou_elas>Din</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>dixen</eu>
+        <ti>dix<b>E</b>ches</ti>
+        <el_ou_ela>dixo</el_ou_ela>
+        <nós>dix<b>E</b>mos</nós>
+        <vós>dix<b>E</b>stes</vós>
+        <eles_ou_elas>dix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>deter</infinitivo>
+    <presente_ind>
+        <eu>Deteño</eu>
+        <ti>Det<b>É</b>s</ti>
+        <el_ou_ela>Det<b>É</b>n</el_ou_ela>
+        <nós>Detemos</nós>
+        <vós>Detedes ou detendes</vós>
+        <eles_ou_elas>Det<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>detiven</eu>
+        <ti>detiv<b>E</b>ches</ti>
+        <el_ou_ela>detivo</el_ou_ela>
+        <nós>detiv<b>E</b>mos</nós>
+        <vós>detiv<b>E</b>stes</vós>
+        <eles_ou_elas>detiv<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>desfacer</infinitivo>
+    <presente_ind>
+        <eu>Desfago</eu>
+        <ti>Desfás</ti>
+        <el_ou_ela>Desfai</el_ou_ela>
+        <nós>Desfacemos</nós>
+        <vós>Desfacedes</vós>
+        <eles_ou_elas>Desfán</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>desfixen</eu>
+        <ti>desfix<b>E</b>ches</ti>
+        <el_ou_ela>desfixo</el_ou_ela>
+        <nós>desfix<b>E</b>mos</nós>
+        <vós>desfix<b>E</b>stes</vós>
+        <eles_ou_elas>desfix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>dar</infinitivo>
+    <presente_ind>
+        <eu>Dou</eu>
+        <ti>Dás</ti>
+        <el_ou_ela>Dá</el_ou_ela>
+        <nós>Damos</nós>
+        <vós>Dades</vós>
+        <eles_ou_elas>Dan</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>dei</eu>
+        <ti>d<b>E</b>ches</ti>
+        <el_ou_ela>d<b>E</b>u</el_ou_ela>
+        <nós>d<b>E</b>mos</nós>
+        <vós>d<b>E</b>stes</vós>
+        <eles_ou_elas>d<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>contradicir</infinitivo>
+    <presente_ind>
+        <eu>Contradigo</eu>
+        <ti>Contradís</ti>
+        <el_ou_ela>Contradí</el_ou_ela>
+        <nós>Contradicimos</nós>
+        <vós>Contradicides</vós>
+        <eles_ou_elas>Contradín</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>contradixen</eu>
+        <ti>contradix<b>E</b>ches</ti>
+        <el_ou_ela>contradixo</el_ou_ela>
+        <nós>contradix<b>E</b>mos</nós>
+        <vós>contradix<b>E</b>stes</vós>
+        <eles_ou_elas>contradix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>conter</infinitivo>
+    <presente_ind>
+        <eu>Conteño</eu>
+        <ti>Cont<b>É</b>s</ti>
+        <el_ou_ela>Cont<b>É</b>n</el_ou_ela>
+        <nós>Contemos</nós>
+        <vós>Contedes ou contendes</vós>
+        <eles_ou_elas>Cont<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>contiven</eu>
+        <ti>contiv<b>E</b>ches</ti>
+        <el_ou_ela>contivo</el_ou_ela>
+        <nós>contiv<b>E</b>mos</nós>
+        <vós>contiv<b>E</b>stes</vós>
+        <eles_ou_elas>contiv<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>compoñer</infinitivo>
+    <presente_ind>
+        <eu>Compoño</eu>
+        <ti>Comp<b>Ó</b>s</ti>
+        <el_ou_ela>Comp<b>Ó</b>n</el_ou_ela>
+        <nós>Compoñemos</nós>
+        <vós>Compoñedes</vós>
+        <eles_ou_elas>Comp<b>O</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>compuxen</eu>
+        <ti>compux<b>E</b>ches</ti>
+        <el_ou_ela>compuxo</el_ou_ela>
+        <nós>compux<b>E</b>mos</nós>
+        <vós>compux<b>E</b>stes</vós>
+        <eles_ou_elas>compux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>caer</infinitivo>
+    <presente_ind>
+        <eu>Caio</eu>
+        <ti>Caes</ti>
+        <el_ou_ela>Cae</el_ou_ela>
+        <nós>Caemos</nós>
+        <vós>Caedes</vós>
+        <eles_ou_elas>Caen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>caín</eu>
+        <ti>caíches</ti>
+        <el_ou_ela>caeu</el_ou_ela>
+        <nós>caemos</nós>
+        <vós>caestes</vós>
+        <eles_ou_elas>caeron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>caber</infinitivo>
+    <presente_ind>
+        <eu>Caibo</eu>
+        <ti>Cabes</ti>
+        <el_ou_ela>Cabe</el_ou_ela>
+        <nós>Cabemos</nós>
+        <vós>Cabedes</vós>
+        <eles_ou_elas>Caben</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>couben</eu>
+        <ti>coub<b>E</b>ches</ti>
+        <el_ou_ela>coubo</el_ou_ela>
+        <nós>coub<b>E</b>mos</nós>
+        <vós>coub<b>E</b>stes</vós>
+        <eles_ou_elas>coub<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>andar</infinitivo>
+    <presente_ind>
+        <eu>Ando</eu>
+        <ti>Andas</ti>
+        <el_ou_ela>Anda</el_ou_ela>
+        <nós>Andamos</nós>
+        <vós>Andades</vós>
+        <eles_ou_elas>Andan</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>andei</eu>
+        <ti>andaches</ti>
+        <el_ou_ela>andou</el_ou_ela>
+        <nós>andamos</nós>
+        <vós>andastes</vós>
+        <eles_ou_elas>andaron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>vir</infinitivo>
+    <presente_ind>
+        <eu>Veño</eu>
+        <ti>V<b>É</b>s</ti>
+        <el_ou_ela>V<b>É</b>n</el_ou_ela>
+        <nós>Vimos</nós>
+        <vós>Vindes ou vides</vós>
+        <eles_ou_elas>V<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>Vin</eu>
+        <ti>Viñ<b>E</b>ches</ti>
+        <el_ou_ela>V<b>E</b>u</el_ou_ela>
+        <nós>Viñ<b>E</b>mos</nós>
+        <vós>Viñ<b>E</b>stes</vós>
+        <eles_ou_elas>Viñ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>ver</infinitivo>
+    <presente_ind>
+        <eu>Vexo</eu>
+        <ti>Ves</ti>
+        <el_ou_ela>Ve</el_ou_ela>
+        <nós>Vemos</nós>
+        <vós>Vedes</vós>
+        <eles_ou_elas>Ven</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>vin</eu>
+        <ti>viches</ti>
+        <el_ou_ela>viu</el_ou_ela>
+        <nós>vimos</nós>
+        <vós>vistes</vós>
+        <eles_ou_elas>viron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>varrer</infinitivo>
+    <presente_ind>
+        <eu>Varro</eu>
+        <ti>Varres</ti>
+        <el_ou_ela>Varre</el_ou_ela>
+        <nós>Varremos</nós>
+        <vós>Varredes</vós>
+        <eles_ou_elas>Varren</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>varrín</eu>
+        <ti>varriches</ti>
+        <el_ou_ela>varreu</el_ou_ela>
+        <nós>varremos</nós>
+        <vós>varrestes</vós>
+        <eles_ou_elas>varreron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>traer</infinitivo>
+    <presente_ind>
+        <eu>Traio</eu>
+        <ti>Traes</ti>
+        <el_ou_ela>Trae</el_ou_ela>
+        <nós>Traemos</nós>
+        <vós>Traedes</vós>
+        <eles_ou_elas>Traen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>trouxen</eu>
+        <ti>troux<b>E</b>ches</ti>
+        <el_ou_ela>trouxo</el_ou_ela>
+        <nós>troux<b>E</b>mos</nós>
+        <vós>troux<b>E</b>stes</vós>
+        <eles_ou_elas>troux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>traducir</infinitivo>
+    <presente_ind>
+        <eu>Traduzo</eu>
+        <ti>Traduces</ti>
+        <el_ou_ela>Traduce</el_ou_ela>
+        <nós>Traducimos</nós>
+        <vós>Traducides</vós>
+        <eles_ou_elas>Traducen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>traducín</eu>
+        <ti>traduciches</ti>
+        <el_ou_ela>traduciu</el_ou_ela>
+        <nós>traducimos</nós>
+        <vós>traducistes</vós>
+        <eles_ou_elas>traduciron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>ter</infinitivo>
+    <presente_ind>
+        <eu>Teño</eu>
+        <ti>T<b>E</b>s</ti>
+        <el_ou_ela>T<b>E</b>n</el_ou_ela>
+        <nós>Temos</nós>
+        <vós>Tendes ou tedes</vós>
+        <eles_ou_elas>T<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>tiven</eu>
+        <ti>tiv<b>E</b>ches</ti>
+        <el_ou_ela>tivo</el_ou_ela>
+        <nós>tiv<b>E</b>mos</nós>
+        <vós>tiv<b>E</b>stes</vós>
+        <eles_ou_elas>tiv<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>ser</infinitivo>
+    <presente_ind>
+        <eu>Son</eu>
+        <ti><b>E</b>s</ti>
+        <el_ou_ela><b>É</b></el_ou_ela>
+        <nós>Somos</nós>
+        <vós>Sodes</vós>
+        <eles_ou_elas>Son</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>fun</eu>
+        <ti>fuches</ti>
+        <el_ou_ela>foi</el_ou_ela>
+        <nós>fomos</nós>
+        <vós>fostes</vós>
+        <eles_ou_elas>foron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>satisfacer</infinitivo>
+    <presente_ind>
+        <eu>Satisfago</eu>
+        <ti>Satisfás</ti>
+        <el_ou_ela>Satisfai</el_ou_ela>
+        <nós>Satisfacemos</nós>
+        <vós>Satisfacedes</vós>
+        <eles_ou_elas>Satisfán</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>satisfixen</eu>
+        <ti>satisfix<b>E</b>ches</ti>
+        <el_ou_ela>satisfixo</el_ou_ela>
+        <nós>satisfix<b>E</b>mos</nós>
+        <vós>satisfix<b>E</b>stes</vós>
+        <eles_ou_elas>satisfix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>saír</infinitivo>
+    <presente_ind>
+        <eu>Saio</eu>
+        <ti>Saes</ti>
+        <el_ou_ela>Sae</el_ou_ela>
+        <nós>Saímos</nós>
+        <vós>Saídes</vós>
+        <eles_ou_elas>Saen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>saín</eu>
+        <ti>saíches</ti>
+        <el_ou_ela>saíu</el_ou_ela>
+        <nós>saímos</nós>
+        <vós>saístes</vós>
+        <eles_ou_elas>saíron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>saber</infinitivo>
+    <presente_ind>
+        <eu>Sei</eu>
+        <ti>Sabes</ti>
+        <el_ou_ela>Sabe</el_ou_ela>
+        <nós>Sabemos</nós>
+        <vós>Sabedes</vós>
+        <eles_ou_elas>Saben</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>souben</eu>
+        <ti>soub<b>E</b>ches</ti>
+        <el_ou_ela>soubo</el_ou_ela>
+        <nós>soub<b>E</b>mos</nós>
+        <vós>soub<b>E</b>stes</vós>
+        <eles_ou_elas>soub<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Abster</infinitivo>
+    <presente_ind>
+        <eu>Absteño</eu>
+        <ti>Abst<b>É</b>s</ti>
+        <el_ou_ela>Abst<b>É</b>n</el_ou_ela>
+        <nós>Abstemos</nós>
+        <vós>Abstedes ou abstendes</vós>
+        <eles_ou_elas>Abst<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>Abstiven</eu>
+        <ti>Abstiv<b>E</b>ches</ti>
+        <el_ou_ela>Abstivo</el_ou_ela>
+        <nós>Abstiv<b>E</b>mos</nós>
+        <vós>Abstiv<b>E</b>stes</vós>
+        <eles_ou_elas>Abstiv<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Abstraer</infinitivo>
+    <presente_ind>
+        <eu>Abstraio</eu>
+        <ti>Abstraes</ti>
+        <el_ou_ela>Abstrae</el_ou_ela>
+        <nós>Abstraemos</nós>
+        <vós>Abstraedes</vós>
+        <eles_ou_elas>Abstraen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>Abstraín</eu>
+        <ti>Abstraíches</ti>
+        <el_ou_ela>Abstraeu</el_ou_ela>
+        <nós>Abstraemos</nós>
+        <vós>Abstraestes</vós>
+        <eles_ou_elas>Abstraeron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Advir</infinitivo>
+    <presente_ind>
+        <eu>Adveño</eu>
+        <ti>Adv<b>É</b>s</ti>
+        <el_ou_ela>Adv<b>É</b>n</el_ou_ela>
+        <nós>Advimos</nós>
+        <vós>Advides ou advindes</vós>
+        <eles_ou_elas>Adv<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>Advín</eu>
+        <ti>Adviñ<b>E</b>ches</ti>
+        <el_ou_ela>Adv<b>E</b>u</el_ou_ela>
+        <nós>Adviñ<b>E</b>mos</nós>
+        <vós>Adviñ<b>E</b>stes</vós>
+        <eles_ou_elas>Adviñ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Afacer</infinitivo>
+    <presente_ind>
+        <eu>Afago</eu>
+        <ti>Afás</ti>
+        <el_ou_ela>Afai</el_ou_ela>
+        <nós>Afacemos</nós>
+        <vós>Afacedes</vós>
+        <eles_ou_elas>Afán</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>Afixen</eu>
+        <ti>Afix<b>E</b>ches</ti>
+        <el_ou_ela>Afixo</el_ou_ela>
+        <nós>Afix<b>E</b>mos</nós>
+        <vós>Afix<b>E</b>stes</vós>
+        <eles_ou_elas>Afix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Antepoñer</infinitivo>
+    <presente_ind>
+        <eu>Antepoño</eu>
+        <ti>Antep<b>Ó</b>s</ti>
+        <el_ou_ela>Antep<b>Ó</b>n</el_ou_ela>
+        <nós>Antepoñemos</nós>
+        <vós>antepoñedes</vós>
+        <eles_ou_elas>antep<b>O</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>antepuxen</eu>
+        <ti>antepux<b>E</b>ches</ti>
+        <el_ou_ela>antepuxo</el_ou_ela>
+        <nós>antepux<b>E</b>mos</nós>
+        <vós>antepux<b>E</b>stes</vós>
+        <eles_ou_elas>antepux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Antepor</infinitivo>
+    <presente_ind>
+        <eu>antepoño</eu>
+        <ti>antep<b>Ó</b>s</ti>
+        <el_ou_ela>antep<b>Ó</b>n</el_ou_ela>
+        <nós>antepomos</nós>
+        <vós>antepondes</vós>
+        <eles_ou_elas>antep<b>Ó</b>n</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>antepuxen</eu>
+        <ti>antepux<b>E</b>ches</ti>
+        <el_ou_ela>antepuxo</el_ou_ela>
+        <nós>antepux<b>E</b>mos</nós>
+        <vós>antepux<b>E</b></vós>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Apoñer</infinitivo>
+    <presente_ind>
+        <eu>apoño</eu>
+        <ti>ap<b>Ó</b>s</ti>
+        <el_ou_ela>ap<b>Ó</b>n</el_ou_ela>
+        <nós>apoñemos</nós>
+        <vós>apoñedes</vós>
+        <eles_ou_elas>ap<b>O</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>apuxen</eu>
+        <ti>apux<b>E</b>ches</ti>
+        <el_ou_ela>apuxo</el_ou_ela>
+        <nós>apux<b>E</b>mos</nós>
+        <vós>apux<b>E</b>stes</vós>
+        <eles_ou_elas>apux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Apor</infinitivo>
+    <presente_ind>
+        <eu>apoño</eu>
+        <ti>ap<b>Ó</b>s</ti>
+        <el_ou_ela>ap<b>Ó</b>n</el_ou_ela>
+        <nós>apomos</nós>
+        <vós>apondes</vós>
+        <eles_ou_elas>ap<b>Ó</b>n</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>apuxen</eu>
+        <ti>apux<b>E</b>ches</ti>
+        <el_ou_ela>apuxo</el_ou_ela>
+        <nós>apux<b>E</b>mos</nós>
+        <vós>apux<b>E</b>stes</vós>
+        <eles_ou_elas>apux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Arrepoñer</infinitivo>
+    <presente_ind>
+        <eu>arrepoño</eu>
+        <ti>arrep<b>Ó</b>s</ti>
+        <el_ou_ela>arrep<b>Ó</b>n</el_ou_ela>
+        <nós>arrepoñemos</nós>
+        <vós>arrepoñedes</vós>
+        <eles_ou_elas>arrep<b>O</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>arrepuxen</eu>
+        <ti>arrepux<b>E</b>ches</ti>
+        <el_ou_ela>arrepuxo</el_ou_ela>
+        <nós>arrepux<b>E</b>mos</nós>
+        <vós>arrepux<b>E</b>stes</vós>
+        <eles_ou_elas>arrepux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Arrepor</infinitivo>
+    <presente_ind>
+        <eu>arrepoño</eu>
+        <ti>arrep<b>Ó</b>s</ti>
+        <el_ou_ela>arrep<b>Ó</b>n</el_ou_ela>
+        <nós>arrepomos</nós>
+        <vós>arrepondes</vós>
+        <eles_ou_elas>arrep<b>Ó</b>n</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>arrepuxen</eu>
+        <ti>arrepux<b>E</b>ches</ti>
+        <el_ou_ela>arrepuxo</el_ou_ela>
+        <nós>arrepux<b>E</b>mos</nós>
+        <vós>arrepux<b>E</b>stes</vós>
+        <eles_ou_elas>arrepux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Ater</infinitivo>
+    <presente_ind>
+        <eu>ateño</eu>
+        <ti>at<b>É</b>s</ti>
+        <el_ou_ela>at<b>É</b>n</el_ou_ela>
+        <nós>atemos</nós>
+        <vós>atedes ou atendes</vós>
+        <eles_ou_elas>at<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>ativen</eu>
+        <ti>ativ<b>E</b>ches</ti>
+        <el_ou_ela>ativo</el_ou_ela>
+        <nós>ativ<b>E</b>mos</nós>
+        <vós>ativ<b>E</b>stes</vós>
+        <eles_ou_elas>ativ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Atraer</infinitivo>
+    <presente_ind>
+        <eu>atraio</eu>
+        <ti>atraes</ti>
+        <el_ou_ela>atrae</el_ou_ela>
+        <nós>atraemos</nós>
+        <vós>atraedes</vós>
+        <eles_ou_elas>atraen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>atraín</eu>
+        <ti>atraíches</ti>
+        <el_ou_ela>atraeu</el_ou_ela>
+        <nós>atraemos</nós>
+        <vós>atraestes</vós>
+        <eles_ou_elas>atraeron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Avir</infinitivo>
+    <presente_ind>
+        <eu>aveño</eu>
+        <ti>av<b>É</b>s</ti>
+        <el_ou_ela>av<b>É</b>n</el_ou_ela>
+        <nós>avimos</nós>
+        <vós>avides ou avindes</vós>
+        <eles_ou_elas>av<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>avín</eu>
+        <ti>aviñ<b>E</b>ches</ti>
+        <el_ou_ela>av<b>E</b>u</el_ou_ela>
+        <nós>aviñ<b>E</b>mos</nós>
+        <vós>aviñ<b>E</b>stes</vós>
+        <eles_ou_elas>aviñ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Bendicir</infinitivo>
+    <presente_ind>
+        <eu>bendigo ou bendizo</eu>
+        <ti>bendís ou bendices</ti>
+        <el_ou_ela>bendí ou bendice</el_ou_ela>
+        <nós>bendicimos</nós>
+        <vós>bendicides</vós>
+        <eles_ou_elas>bendín ou bendicen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>bendixen ou bendicín</eu>
+        <ti>bendix<b>E</b>ches ou bendiciches</ti>
+        <el_ou_ela>bendixo ou bendiciu</el_ou_ela>
+        <nós>bendix<b>E</b>mos ou bendicimos</nós>
+        <vós>bendix<b>E</b>stes ou bendicistes</vós>
+        <eles_ou_elas>bendix<b>E</b>ron ou bendiciron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Compor</infinitivo>
+    <presente_ind>
+        <eu>compoño</eu>
+        <ti>comp<b>Ó</b>s</ti>
+        <el_ou_ela>comp<b>Ó</b>n</el_ou_ela>
+        <nós>compomos</nós>
+        <vós>compondes</vós>
+        <eles_ou_elas>comp<b>Ó</b>n</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>compuxen</eu>
+        <ti>compux<b>E</b>ches</ti>
+        <el_ou_ela>compuxo</el_ou_ela>
+        <nós>compux<b>E</b>mos</nós>
+        <vós>compux<b>E</b>stes</vós>
+        <eles_ou_elas>compux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Contraer</infinitivo>
+    <presente_ind>
+        <eu>contraio</eu>
+        <ti>contraes</ti>
+        <el_ou_ela>contrae</el_ou_ela>
+        <nós>contraemos</nós>
+        <vós>contraedes</vós>
+        <eles_ou_elas>contraen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>contraín</eu>
+        <ti>contraíches</ti>
+        <el_ou_ela>contraeu</el_ou_ela>
+        <nós>contraemos</nós>
+        <vós>contraestes</vós>
+        <eles_ou_elas>contraeron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Contrafacer</infinitivo>
+    <presente_ind>
+        <eu>contrafago</eu>
+        <ti>contrafás</ti>
+        <el_ou_ela>contrafai</el_ou_ela>
+        <nós>contrafacemos</nós>
+        <vós>contrafacedes</vós>
+        <eles_ou_elas>contrafán</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>contrafixen</eu>
+        <ti>contrafix<b>E</b>ches</ti>
+        <el_ou_ela>contrafixo</el_ou_ela>
+        <nós>contrafix<b>E</b>mos</nós>
+        <vós>contrafix<b>E</b>stes</vós>
+        <eles_ou_elas>contrafix<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Contrapoñer</infinitivo>
+    <presente_ind>
+        <eu>contrapoño</eu>
+        <ti>contrap<b>Ó</b>s</ti>
+        <el_ou_ela>contrap<b>Ó</b>n</el_ou_ela>
+        <nós>contrapoñemos</nós>
+        <vós>contrapoñedes</vós>
+        <eles_ou_elas>contrap<b>O</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>contrapuxen</eu>
+        <ti>contrapux<b>E</b>ches</ti>
+        <el_ou_ela>contrapuxo</el_ou_ela>
+        <nós>contrapux<b>E</b>mos</nós>
+        <vós>contrapux<b>E</b>stes</vós>
+        <eles_ou_elas>contrapux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Contrapor</infinitivo>
+    <presente_ind>
+        <eu>contrapoño</eu>
+        <ti>contrap<b>Ó</b>s</ti>
+        <el_ou_ela>contrap<b>Ó</b>n</el_ou_ela>
+        <nós>contrapomos</nós>
+        <vós>contrapondes</vós>
+        <eles_ou_elas>contrap<b>Ó</b>n</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>contrapuxen</eu>
+        <ti>contrapux<b>E</b>ches</ti>
+        <el_ou_ela>contrapuxo</el_ou_ela>
+        <nós>contrapux<b>E</b>mos</nós>
+        <vós>contrapux<b>E</b>stes</vós>
+        <eles_ou_elas>contrapux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Contravir</infinitivo>
+    <presente_ind>
+        <eu>contraveño</eu>
+        <ti>contrav<b>É</b>s</ti>
+        <el_ou_ela>contrav<b>É</b>n</el_ou_ela>
+        <nós>contravimos</nós>
+        <vós>contravides ou contravindes</vós>
+        <eles_ou_elas>contrav<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>contravín</eu>
+        <ti>contraviñ<b>E</b>ches</ti>
+        <el_ou_ela>contrav<b>E</b>u</el_ou_ela>
+        <nós>contraviñ<b>E</b>mos</nós>
+        <vós>contraviñ<b>E</b>stes</vós>
+        <eles_ou_elas>contraviñ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
+</entrada>
+
+<entrada>
+    <infinitivo>Convir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Crer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Depoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Depor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desafacer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desapoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desapor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desavir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Descompoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Descompor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Descontraer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desconvir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Descrer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desdicir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desouvir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Detraer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Devir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Dispor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Distraer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Entreouvir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Entreter</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Equivaler</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Expoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Expor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Extraer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Impoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Impor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Indispoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Indispor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Interpoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Interpor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Intervir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Maldicir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Malparir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Maltraer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Obter</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Opoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Opor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Parir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Pospoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Pospor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Precaver</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Predispoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Predispor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Presupoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Presupor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Propoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Propor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Rarefacer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Recompoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Recompor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Reconvir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Refacer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Reimpoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Reimpor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Reler</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Repoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Repor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Reter</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Retraer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Retrotaer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Sobrepoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Sobrepor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Sobreser</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Sobrevir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Sorrir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Soster</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Subexpoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Subexpor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Subtraer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Superpoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Superpor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Traspoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Traspor</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Tumefacer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Valer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Xustapoñer</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Xustapor</infinitivo>
+</entrada>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

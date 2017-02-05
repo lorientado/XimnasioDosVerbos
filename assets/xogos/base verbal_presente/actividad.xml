@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><actividad tipo="Test">
+	
+<!-- Parte generica -->	
+	<!-- Indica que color de fondo se le pondra al flash (por defecto 0x8993A0) -->
+	<color_fondo>0x8199d0</color_fondo>
+	<!-- Indica que color se le pondra a los elementos del flash (por defecto 0x728F61) -->
+	<color_botones>0xF3F3F3</color_botones>
+    <!-- Indica que color de fondo se le pondra al html5 (por defecto 0x7cb139) -->
+	<color_fondo_h>0x8199d0</color_fondo_h>
+	<!-- Indica que color se le pondra a los elementos del html5 (por defecto 0xFCA800) -->
+	<color_botones_h>0xF3F3F3</color_botones_h>
+    <!-- Indica el logo personalizado si lo hay -->
+    <logoPersonalizado>no</logoPersonalizado>
+	
+	<!-- Parametros nuevos - dic 2012 -->
+	<autor>Gabriel Durán</autor>
+	<descripcionUsuario>A partir do presente de indicativo, atopa a base do verbo ou bases que che vai servir para construír todos os tempos do presente</descripcionUsuario>
+    <descripcionUsuarioLimpio>A partir do presente de indicativo, atopa a base do verbo ou bases que che vai servir para construír todos os tempos do presente</descripcionUsuarioLimpio>
+	<origen_recursos></origen_recursos><xorigen_recursos>https://d3c41a1a64ri6i.cloudfront.net/recursos/87/2785144/</xorigen_recursos>
+	
+	<globalFeedback>1</globalFeedback>
+	
+	<!-- Indica si se mostrara al alumno la respuesta correcta o no, en caso de que el alumno no supere el ejercicio -->
+	<correccion>si</correccion>
+	<!-- Indica si la respuesta del alumno debe ser igual a la respuesta correcta en lo referente a las mayusculas y acentos, solo en el caso de que la forma de completar sea escrita -->
+	<sensible_mayusculas>si</sensible_mayusculas>
+	<sensible_acentos>si</sensible_acentos>
+	<!-- Indica si tiene un tiempo maximo para realizar la actividad, estara definido en segundos -->
+	<tiempo maximo="0">no</tiempo>
+     <registro>
+		<!-- Indica el tipo de registro:
+		- script -> registro a traves de un script (php, jsp, etx)
+		- scorm -> registreo a traves de scorp
+		-->
+		<tipo>scorm</tipo>
+		<!-- Indica la url del scrip, en caso de que el tipo sea script	-->
+		<url></url>
+		<!-- Indica los parametros a pasar al script, en caso de que el tipo sea script	-->
+		<parametros>
+			<!-- La etiqueta nombre contiene el nombre del parametro a pasar -->
+			<!-- La etiqueta valor contiene el valor al que hace referencia el parametro (buscara el nombre de la varible en flash):
+			- SCORE: puntuacion de la actividad, en porcentaje
+			- TIME: tiempo de la actividad, en segundos
+			- URL: direccion de la actividad
+			-->
+			<parametro id="1">
+				<nombre>score</nombre>
+				<valor>SCORE</valor>
+			</parametro>
+			<parametro id="2">
+				<nombre>time</nombre>
+				<valor>TIME</valor>
+			</parametro>
+			<parametro id="3">
+				<nombre>url</nombre>
+				<valor>URL</valor>
+			</parametro>
+		</parametros>
+	</registro>
+    
+<!-- Parte especifica -->
+	<titulo>Instrucións</titulo>
+	<tituloActividad>Cal é a base destes verbos</tituloActividad>
+	<enunciado>Responde a estas preguntas</enunciado>
+    <!-- parametro solo para la importación a ADR -->
+    <enunciado_edu>Cal é a base destes verbos</enunciado_edu>
+    
+	<!-- Indica la forma de realizar la actividad, es decir la ayuda de la actividad -->
+	<descripcion>Responde ás preguntas do test. Pode parecer que deba responder a algunhas preguntas para ir ao seguinte. Cando chegar ao final das preguntas, pode dar para acabar coa actividade, para que poidan ser corrixidos ea súa puntuación.</descripcion>
+	<!-- Indica el porcentaje de preguntas que deberan seran correctas para superar la actividad -->
+	<porcentaje_superar_actividad>50</porcentaje_superar_actividad>
+	<preguntas>
+		<!-- El atributo tipo indica las posibles preguntas que el profesor ha definido, hacen referencia a los cuatro tipos de preguntas:
+		- Respuesta escrita
+		- Respuesta escrita amplia
+		- Respuesta unica
+		- Respuesta multiple
+		-->
+                
+                        
+		<pregunta id="1" tipo="unica" obligatoria="si" feedback="Noraboa! O pretérito imperfecto é había, habías,.... Un exemplo: había moito tempo que non te vía">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'haber' é: hei, has, ha ou hai, habemos, habedes, han. Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">h-</opcion>
+        		
+                <opcion resp="0">ha-</opcion>
+        		
+                <opcion resp="1">hab-</opcion>
+        		
+                <opcion resp="0">han-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="2" tipo="unica" obligatoria="si" feedback="Noraboa! Neste caso os tempos do presente usan máis dunha base verbal. No pretérito imperfecto, a 1ª persoa do singular é 'facía', pero no presente de subxuntivo da mesma persoa é 'faga'">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'facer' é: fago, fas, fai, facemos, facedes, fan. Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">fac-, fag- e fac-</opcion>
+        		
+                <opcion resp="0">f-</opcion>
+        		
+                <opcion resp="0">face-</opcion>
+        		
+                <opcion resp="0">fan-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="3" tipo="unica" obligatoria="no" feedback="Perfecto! Se te fixas no uso do futuro do exemplo, verás a base do verbo: Mañá poderei xogar coa neve.">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'poder' é: podo, podes, pode, podemos, podedes, poden. Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">p-</opcion>
+        		
+                <opcion resp="1">pod-</opcion>
+        		
+                <opcion resp="0">po-</opcion>
+        		
+                <opcion resp="0">pui-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="4" tipo="unica" obligatoria="no" feedback="Felicidades! Se te fixas coa base verbal 'caib-' podes construír o presente de subxuntivo: caiba, caibas, caiba... Pola contra, con 'cab-' podes facer o futuro (caberei, caberás...), o condicional (cabería, caberías,...) e o pretérito imperfecto (cabía, cabías,...).">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'caber' é: caibo, cabes, cabe, cabemos, cabedes, caben . Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">cabe-</opcion>
+        		
+                <opcion resp="1">caib- e cab-</opcion>
+        		
+                <opcion resp="0">cai-</opcion>
+        		
+                <opcion resp="0">ca-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="5" tipo="unica" obligatoria="no" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'estar' é: estou, estás, está, estamos, estades, estás. Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">est-</opcion>
+        		
+                <opcion resp="0">este-</opcion>
+        		
+                <opcion resp="0">es-</opcion>
+        		
+                <opcion resp="0">estea-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="6" tipo="unica" obligatoria="no" feedback="Como podes comprobar, coa base 'quer-' podes construír o pretérito imperfecto (quería, querías,...), o futuro (quererei, quererás,...), o condicional (querería, quererías,...). Pero presente de subxuntivo constrúese a partir de queir-: queira, queiras, queira,... :-D ">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'querer' é: quero, queres, quere, queremos, queredes, queren. Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">qu-</opcion>
+        		
+                <opcion resp="0">q-</opcion>
+        		
+                <opcion resp="1">quer-</opcion>
+        		
+                <opcion resp="0">que-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="7" tipo="unica" obligatoria="si" feedback="Había unha pequena argallada. Os tempos do presente deste verbos usan dúas bases. Por unha banda, está 'prac-' para o pretérito imperfecto (pracía, pracías,...), futuro (pracerei, pracerás,...) e condicional (pracería, pracerías,...). Pola outra, está 'praz-' que se usa só no presente de subxuntivo: praza, prazas, praza,...">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'pracer' é: prazo, praces, prace, pracemos, pracedes, pracen. Cal será a base (ou bases) do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">praz-</opcion>
+        		
+                <opcion resp="1">praz- e prac-</opcion>
+        		
+                <opcion resp="0">pra-</opcion>
+        		
+                <opcion resp="0">prace-</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="8" tipo="unica" obligatoria="si" feedback="Parabéns">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Xa sabes que as bases do verbo 'pracer' para os tempos de presente son: praz- e prac-. Como se fará a 1ª persoa do sing do futuro (-erei, erás,...) e do presente de subxuntivo (-a, -as,...)?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">pracirei (futuro) e praca (presente de subxuntivo)</opcion>
+        		
+                <opcion resp="0">Pracería (futuro) e prazía (presente de subxuntivo)</opcion>
+        		
+                <opcion resp="1">Pracerei (futuro) e praza (presente de subxuntivo)</opcion>
+        					</opciones>
+		</pregunta>
+                	</preguntas>
+    
+    	<!-- Indica el numero de posibles preguntas que el profesor ha definido para el ejercicio -->
+	<numero_preguntas_totales>8</numero_preguntas_totales>
+	<!-- Indica el numero de preguntas que apareceran, seleccionadas de forma aleatoria -->
+	<numero_preguntas_visibles>8</numero_preguntas_visibles>
+	<orden_preguntas>ESTATICO</orden_preguntas>
+    <!-- Indica el tipo de ordenacion usado-->
+	<puntos>100</puntos>
+    <!-- Indica los margenes para la puntuación por valoración-->
+    <margenes activo='no'>
+                            	</margenes>
+    
+    <idioma>
+
+		<txtPuntos>Puntuación</txtPuntos>
+		<txtTiempo>Tempo</txtTiempo>
+		<txtTiempoRestante>Tempo Restante</txtTiempoRestante>
+		<txtResultado>Resultado</txtResultado>
+		<txtPreguntas>Preguntas</txtPreguntas>
+		<txtHasAprobado>Aprobou!!</txtHasAprobado>
+		<txtHasSuspendido>Non superou a actividad</txtHasSuspendido>
+		<txtPorcentajeMinimo1>É necesario acadar un </txtPorcentajeMinimo1>
+		<txtPorcentajeMinimo2> para aprobar</txtPorcentajeMinimo2>
+		<txtContestadas>respondeu</txtContestadas>
+		<txtNoContestadas>Sen resposta</txtNoContestadas>
+		<txtNumObligatoria1>Contestou</txtNumObligatoria1>
+		<txtNumObligatoria2>pregunta obrigatoria</txtNumObligatoria2>
+		<txtNumObligatorias1>Contestou</txtNumObligatorias1>
+		<txtNumObligatorias2>preguntas obrigatorias</txtNumObligatorias2>
+		<txtTuPuntuacionEs>A súa puntuación é</txtTuPuntuacionEs>
+		<txtMal>Mal</txtMal>
+		<txtBien>Ben</txtBien>
+		<txtObligatoria>pregunta obrigatoria</txtObligatoria>
+		<txtProgreso>Progreso</txtProgreso>
+		<txtFinalizar>Final</txtFinalizar>
+		<txtVerCorregir>Vexa a corrección</txtVerCorregir>
+		
+		<txtRespuestaIncorrecta>Resposta incorrecta</txtRespuestaIncorrecta>
+		<txtTituloActividadNoSuperada>Actividade non superada</txtTituloActividadNoSuperada>
+		<txtActividadNoSuperada>Non superou a porcentaxe de acertos para pasar esa actividade.</txtActividadNoSuperada>
+		<txtTituloActividadSuperada>Actividade Pasado</txtTituloActividadSuperada>
+		<txtActividadSuperada>Parabéns ten superado a actividade</txtActividadSuperada>
+		<txtTiempoSuperado>Superou o tempo máximo para esta actividade</txtTiempoSuperado>
+		<txtCerrar>Pechar</txtCerrar>
+		<txtRespuestaCorrecta>Resposta correcta</txtRespuestaCorrecta>
+		<txtOtrasRespuestas>Outras respostas</txtOtrasRespuestas>
+		<txtTituloRespuestaCorrecta>Resposta correcta</txtTituloRespuestaCorrecta>
+		<txtBoxRespuestaCorrecta>Parabéns ten superado a actividade</txtBoxRespuestaCorrecta>
+		<txtPosiblesRespuestas>Posibles respostas</txtPosiblesRespuestas>
+		<txtTuRespuesta>A súa resposta</txtTuRespuesta>
+
+   		<txtSensibleMayusculas>É sensible a maiúsculas.</txtSensibleMayusculas>
+		<txtNoSensibleMayusculas>Non diferencia entre maiúsculas e minúsculas.</txtNoSensibleMayusculas>
+		<txtSensibleAcentos>Sensible a acentos.</txtSensibleAcentos>
+		<txtNoSensibleAcentos>Non é sensíbel a acentos.</txtNoSensibleAcentos>
+
+		<txtTituloErrorAudio>Erro en Actividade</txtTituloErrorAudio>
+		<txtErrorAudioSoportado>Audio non atopado ou non soportado polo teu navegador</txtErrorAudioSoportado>
+		
+		<txtAceptar>Aceptar</txtAceptar>
+		<txtTiempoMaximo>Tempo máximo</txtTiempoMaximo>
+		<txtSensible>Sensible</txtSensible>
+		<txtMayusculasMinusculas>Case Superior/Inferior</txtMayusculasMinusculas>
+		<txtAcentos>Acentos</txtAcentos>
+		<txtComenzar>Comenzar</txtComenzar>
+		<txtAutor>Autor</txtAutor>
+		<txtAyuda>Axuda</txtAyuda>
+		<txtMostrarMas>Amosar máis</txtMostrarMas>
+		<txtMostrarMenos>Amosar menos</txtMostrarMenos>
+		<txtReiniciar>Reinicie</txtReiniciar>
+		<txtVolverJugar>Xogar outra vez</txtVolverJugar>
+		<txtResponder>Responder</txtResponder>
+		<txtRegistrarse>Rexistrarse</txtRegistrarse>
+		<txtAcceder>Acceder</txtAcceder>
+		<txtCompartirResultado>Comparte os resultados</txtCompartirResultado>
+		<txtPantallaCompleta>Pantalla completa</txtPantallaCompleta>
+		<txtImprimir>Imprimir</txtImprimir>
+		<txtSiguiente>Seguinte</txtSiguiente>
+		<txtAnterior>Anterior</txtAnterior>
+		<txtInfoAdicional>Información adicional</txtInfoAdicional>
+		
+	</idioma>
+
+</actividad>

@@ -1,0 +1,224 @@
+.color-dot {
+  -moz-border-radius: 99px;
+  -webkit-border-radius: 99px;
+  border-radius: 99px;
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+.color-dot.critical {
+  background-color: #e74c3c;
+}
+.color-dot.major {
+  background-color: #e67e22;
+}
+.color-dot.minor {
+  background-color: #f1c40f;
+}
+.color-dot.none {
+  background-color: #2ecc71;
+}
+
+body {
+  background-color: #B3E5FC;                            /*E0FFFF*/
+}
+
+.dropdown-menu .divider {
+  margin: 6px 0;
+}
+
+#custom-header {
+  background-color: #03A9F4;                      /*Color cabecera 87CEFA*/
+  padding: 24px 40px 23px;
+  position: relative;
+  border-bottom: 1px solid #e0e0e0;
+}
+#custom-header .logo-container {
+  float: left;
+  max-width: 325px;
+}
+#custom-header .logo-container img {
+  max-width: 100%;
+}
+#custom-header nav {
+  float: right;
+}
+#custom-header nav > a {
+  margin-right: 30px;
+}
+#custom-header nav > a, #custom-header nav .show-dropdown {
+  color: #FFF;
+  display: inline-block;
+  font-weight: 500;
+  color: #FFF;                                /* color letras del menu*/
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+#custom-header nav .dropdown {
+  display: inline-block;
+}
+#custom-header .dropdown-menu {
+  right: 0px;
+  left: auto;
+}
+@media screen and (min-width: 900px) {
+  #custom-header nav {
+    position: relative;
+    top: 8px;
+  }
+}
+@media screen and (max-width: 900px) {
+  #custom-header {
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 18px;
+  }
+  #custom-header .logo-container {
+    float: none;
+    display: block;
+    margin-bottom: 18px;
+    max-width: none;
+  }
+  #custom-header .logo-container .logo {
+    max-width: 325px;
+    display: inline-block;
+  }
+  #custom-header nav {
+    float: none;
+  }
+  #custom-header nav > a, #custom-header .updates-dropdown-container {
+    float: none;
+  }
+}
+@media screen and (max-width: 475px) {
+  #custom-header nav > a {
+    margin-right: 20px;
+  }
+  #custom-header nav > a, #custom-header nav .show-updates-dropdown {
+    font-size: 13px;
+  }
+  #custom-header .logo-container .logo {
+    max-width: 70%;
+  }
+  #custom-header nav > a:nth-child(1):before {
+    content: none;
+  }
+}
+
+.page-content {
+  text-align: center;
+  font-size: 18 px;
+  color: #000000;
+  /*font-weight: 50px;*/
+  /*letter-spacing: 2px;*/
+}
+.destacado {
+  /*text-align: center;
+  font-size: 14px;
+  margin-bottom: 0;
+  margin-left: 2em;
+  margin-right: 2em;*/
+
+    margin: 10px 0 10px 0;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin-left: 2em;
+    margin-right: 3em;
+}
+
+/*Lineas separadoras*/
+
+hr.style-seven{
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr.style-seven:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+
+#custom-footer {
+  padding: 20px 40px;
+  color: #888;
+  font-size: 14px;
+  background-color: #333434;
+}
+#custom-footer .logo {
+  max-width: 100px;
+  display: inline-block;
+}
+#custom-footer .logo img {
+  max-width: 100%;
+}
+#custom-footer > div {
+  position: relative;
+  top: 2px;
+}
+#custom-footer .meta {
+  float: right;
+}
+#custom-footer .meta a {
+  color: #888;
+}
+#custom-footer .links {
+  float: right;
+  margin-left: 30px;
+}
+#custom-footer .links a {
+  color: #FFF;                     /*Color links del footer*/
+  display: inline-block;
+  margin-left: 20px;
+}
+#custom-footer .links a:hover {
+  color: #ddd;
+}
+#custom-footer .links a:first-of-type {
+  margin-left: 0px;
+}
+@media screen and (max-width: 880px) {
+  #custom-footer {
+    overflow: hidden;
+  }
+  #custom-footer > div {
+    top: 0px;
+  }
+  #custom-footer .links {
+    margin-left: 0px;
+  }
+  #custom-footer .meta {
+    float: left;
+  }
+  #custom-footer .logo {
+    display: none;
+  }
+}
+@media screen and (max-width: 600px) {
+  #custom-footer {
+    text-align: center;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  #custom-footer .meta, #custom-footer .links {
+    float: none;
+  }
+  #custom-footer .links {
+    margin-bottom: 5px;
+  }
+}
+
+a:hover {
+  text-decoration: none;
+}
