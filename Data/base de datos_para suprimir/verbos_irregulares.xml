@@ -1220,14 +1220,62 @@
 
 <entrada>
     <infinitivo>Convir</infinitivo>
+    <presente_ind>
+        <eu>conveño</eu>
+        <ti>conv<<b>É</b>s</ti>
+        <el_ou_ela>conv<b>É</b>n</el_ou_ela>
+        <nós>convimos</nós>
+        <vós>convides ou convindes</vós>
+        <eles_ou_elas>conv<b>E</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>convín</eu>
+        <ti>conviñ<b>E</b>ches</ti>
+        <el_ou_ela>conv<b>E</b>u</el_ou_ela>
+        <nós>conviñ<b>E</b>mos</nós>
+        <vós>conviñ<b>E</b>stes</vós>
+        <eles_ou_elas>conviñ<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
 </entrada>
 
 <entrada>
     <infinitivo>Crer</infinitivo>
+    <presente_ind>
+        <eu>creo</eu>
+        <ti>cres</ti>
+        <el_ou_ela>cre</el_ou_ela>
+        <nós>cremos</nós>
+        <vós>credes</vós>
+        <eles_ou_elas>cren</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>crin</eu>
+        <ti>criches</ti>
+        <el_ou_ela>creu</el_ou_ela>
+        <nós>cremos</nós>
+        <vós>crestes</vós>
+        <eles_ou_elas>creron</eles_ou_elas>
+    </preterito_ind>
 </entrada>
 
 <entrada>
     <infinitivo>Depoñer</infinitivo>
+    <presente_ind>
+        <eu>depoño</eu>
+        <ti>dep<b>Ó</b>s</ti>
+        <el_ou_ela>dep<b>Ó</b>n</el_ou_ela>
+        <nós>depoñemos</nós>
+        <vós>depoñedes</vós>
+        <eles_ou_elas>dep<b>O</b>ñen</eles_ou_elas>
+    </presente_ind>
+    <preterito_ind>
+        <eu>depuxen</eu>
+        <ti>depux<b>E</b>ches</ti>
+        <el_ou_ela>depuxo</el_ou_ela>
+        <nós>depux<b>E</b>mos</nós>
+        <vós>depux<b>E</b>stes</vós>
+        <eles_ou_elas>depux<b>E</b>ron</eles_ou_elas>
+    </preterito_ind>
 </entrada>
 
 <entrada>
