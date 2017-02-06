@@ -1389,6 +1389,9 @@
 
 <entrada>
     <infinitivo>Cuspir</infinitivo>
+    <presente_ind>
+        <eu></eu>
+    </presente_ind>
 </entrada>
 
 <entrada>
@@ -1587,7 +1590,4 @@
     <infinitivo>Vestir</infinitivo>
 </entrada>
 
-<entrada>
-    <infinitivo></infinitivo>
-</entrada>
 
