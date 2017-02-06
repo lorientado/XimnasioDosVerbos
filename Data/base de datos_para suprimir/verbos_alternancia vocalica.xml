@@ -1630,12 +1630,38 @@
 <entrada>
     <infinitivo>Desurdir</infinitivo>
     <presente_ind>
-        <eu></eu>
+        <eu>desurdo</eu>
+        <ti>des<b>O</b>rdes</ti>
+        <el_ou_ela>des<b>O</b>rde</el_ou_ela>
+        <nós>desurdimos</nós>
+        <vós>desurdides</vós>
+        <eles_ou_elas>des<b>O</b>rden</eles_ou_elas>
     </presente_ind>
+    <presente_subx>
+        <eu>desurda</eu>
+        <ti>desurdas</ti>
+        <el_ou_ela>desurda</el_ou_ela>
+        <nós>desurdamos</nós>
+        <vós>desurdades</vós>
+        <eles_ou_elas>desurdan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>desurde</ti>
+        <vós>desurdide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Desvestir</infinitivo>
+    <presente_ind>
+        <eu>desvisto</eu>
+        <ti>desvistes</ti>
+        <el_ou_ela>desviste</el_ou_ela>
+        <nós>desvestimos</nós>
+        <vós>desvestides</vós>
+        <eles_ou_elas>desvisten</eles_ou_elas>
+    </presente_ind>
+    
 </entrada>
 
 <entrada>
