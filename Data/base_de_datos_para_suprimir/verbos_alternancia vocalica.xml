@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entrada>
+    <infinito>bulir</infinito>
+    <presente_ind>
+        <eu>bulo</eu>
+        <ti>b<b>O</b>les</ti>
+        <el_ou_ela>b<b>O</b>le</el_ou_ela>
+        <nós>bulimos</nós>
+        <vós>bulides</vós>
+        <eles_ou_elas>b<b>O</b>len</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Bula</eu>
+        <ti>Bulas</ti>
+        <el_ou_ela>Bula</el_ou_ela>
+        <nós>Bulamos</nós>
+        <vós>Bulades</vós>
+        <eles_ou_elas>Bulan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>bule</ti>
+        <vós>bulide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>asentir</infinito>
+    <presente_ind>
+        <eu>asinto</eu>
+        <ti>as<b>E</b>ntes</ti>
+        <el_ou_ela>as<b>E</b>nte</el_ou_ela>
+        <nós>asentimos</nós>
+        <vós>asentides</vós>
+        <eles_ou_elas>as<b>E</b>nten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Asinta</eu>
+        <ti>Asintas</ti>
+        <el_ou_ela>Asinta</el_ou_ela>
+        <nós>Asintamos</nós>
+        <vós>Asintades</vós>
+        <eles_ou_elas>Asintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>asinte</ti>
+        <vós>asentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>acudir</infinito>
+    <presente_ind>
+        <eu>acudo</eu>
+        <ti>ac<b>O</b>des</ti>
+        <el_ou_ela>ac<b>O</b>de</el_ou_ela>
+        <nós>acudimos</nós>
+        <vós>acudides</vós>
+        <eles_ou_elas>ac<b>O</b>den</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Acuda</eu>
+        <ti>Acudas</ti>
+        <el_ou_ela>Acuda</el_ou_ela>
+        <nós>Acudamos</nós>
+        <vós>Acudades</vós>
+        <eles_ou_elas>Acudan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>acude</ti>
+        <vós>acudide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>xurdir</infinito>
+    <presente_ind>
+        <eu>xurdo</eu>
+        <ti>x<b>O</b>rdes</ti>
+        <el_ou_ela>x<b>O</b>rde</el_ou_ela>
+        <nós>xurdimos</nós>
+        <vós>xurdides</vós>
+        <eles_ou_elas>x<b>O</b>rden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Xurda</eu>
+        <ti>Xurdas</ti>
+        <el_ou_ela>Xurda</el_ou_ela>
+        <nós>Xurdamos</nós>
+        <vós>Xurdades</vós>
+        <eles_ou_elas>Xurdan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>xurde</ti>
+        <vós>xurdide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>xunguir</infinito>
+    <presente_ind>
+        <eu>xungo</eu>
+        <ti>x<b>O</b>ngues</ti>
+        <el_ou_ela>x<b>O</b>ngue</el_ou_ela>
+        <nós>xunguimos</nós>
+        <vós>xunguides</vós>
+        <eles_ou_elas>x<b>O</b>nguen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Xunga</eu>
+        <ti>Xungas</ti>
+        <el_ou_ela>Xunga</el_ou_ela>
+        <nós>Xungamos</nós>
+        <vós>Xungades</vós>
+        <eles_ou_elas>Xungan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>xungue</ti>
+        <vós>xunguide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>ulir</infinito>
+    <presente_ind>
+        <eu>ulo</eu>
+        <ti><b>O</b>les</ti>
+        <el_ou_ela><b>O</b>le</el_ou_ela>
+        <nós>ulimos</nós>
+        <vós>ulides</vós>
+        <eles_ou_elas><b>O</b>len</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Ula</eu>
+        <ti>Ulas</ti>
+        <el_ou_ela>Ula</el_ou_ela>
+        <nós>Ulamos</nós>
+        <vós>Ulades</vós>
+        <eles_ou_elas>Ulan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>ule</ti>
+        <vós>ulide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>tusir</infinito>
+    <presente_ind>
+        <eu>tuso</eu>
+        <ti>t<b>O</b>ses</ti>
+        <el_ou_ela>t<b>O</b>se</el_ou_ela>
+        <nós>tusimos</nós>
+        <vós>tusides</vós>
+        <eles_ou_elas>t<b>O</b>sen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Tusa</eu>
+        <ti>Tusas</ti>
+        <el_ou_ela>Tusa</el_ou_ela>
+        <nós>Tusamos</nós>
+        <vós>Tusades</vós>
+        <eles_ou_elas>Tusan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>tuse</ti>
+        <vós>tuside</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>tremelucir</infinito>
+    <presente_ind>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>tremel<b>O</b>ce</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>tremel<b>O</b>cen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>Tremeluza</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>Tremeluzan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>-</ti>
+        <vós>-</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>translucir</infinito>
+    <presente_ind>
+        <eu>transluzo</eu>
+        <ti>transl<b>O</b>ces</ti>
+        <el_ou_ela>transl<b>O</b>ce</el_ou_ela>
+        <nós>translucimos</nós>
+        <vós>translucides</vós>
+        <eles_ou_elas>transl<b>O</b>cen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Transluza</eu>
+        <ti>Transluzas</ti>
+        <el_ou_ela>Transluza</el_ou_ela>
+        <nós>Transluzamos</nós>
+        <vós>Transluzades</vós>
+        <eles_ou_elas>Transluzan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>transluce</ti>
+        <vós>translucide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>sumir</infinito>
+    <presente_ind>
+        <eu>sumo</eu>
+        <ti>s<b>O</b>mes</ti>
+        <el_ou_ela>s<b>O</b>me</el_ou_ela>
+        <nós>sumimos</nós>
+        <vós>sumides</vós>
+        <eles_ou_elas>s<b>O</b>men</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Suma</eu>
+        <ti>Sumas</ti>
+        <el_ou_ela>Suma</el_ou_ela>
+        <nós>Sumamos</nós>
+        <vós>Sumades</vós>
+        <eles_ou_elas>Sumam</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>sume</ti>
+        <vós>sumide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>sufrir</infinito>
+    <presente_ind>
+        <eu>sufro</eu>
+        <ti>s<b>O</b>fres</ti>
+        <el_ou_ela>s<b>O</b>fre</el_ou_ela>
+        <nós>sufrimos</nós>
+        <vós>sufrides</vós>
+        <eles_ou_elas>s<b>O</b>fren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Sufra</eu>
+        <ti>Sufras</ti>
+        <el_ou_ela>Sufra</el_ou_ela>
+        <nós>Suframos</nós>
+        <vós>Sufrades</vós>
+        <eles_ou_elas>Sufran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>sufre</ti>
+        <vós>sufride</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>subir</infinito>
+    <presente_ind>
+        <eu>subo</eu>
+        <ti>s<b>O</b>bes</ti>
+        <el_ou_ela>s<b>O</b>be</el_ou_ela>
+        <nós>subimos</nós>
+        <vós>subides</vós>
+        <eles_ou_elas>s<b>O</b>ben</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Suba</eu>
+        <ti>Subas</ti>
+        <el_ou_ela>Suba</el_ou_ela>
+        <nós>Subamos</nós>
+        <vós>Subades</vós>
+        <eles_ou_elas>Suban</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>sube</ti>
+        <vós>subide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>servir</infinito>
+    <presente_ind>
+        <eu>sirvo</eu>
+        <ti>s<b>E</b>rves</ti>
+        <el_ou_ela>s<b>E</b>rve</el_ou_ela>
+        <nós>servimos</nós>
+        <vós>servides</vós>
+        <eles_ou_elas>s<b>E</b>rven</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Sirva</eu>
+        <ti>Sirvas</ti>
+        <el_ou_ela>Sirva</el_ou_ela>
+        <nós>Sirvamos</nós>
+        <vós>Sirvades</vós>
+        <eles_ou_elas>Sirvan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>sirve</ti>
+        <vós>servide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>sentir</infinito>
+    <presente_ind>
+        <eu>sinto</eu>
+        <ti>s<b>E</b>ntes</ti>
+        <el_ou_ela>s<b>E</b>nte</el_ou_ela>
+        <nós>sentimos</nós>
+        <vós>sentides</vós>
+        <eles_ou_elas>s<b>E</b>nten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Sinta</eu>
+        <ti>Sintas</ti>
+        <el_ou_ela>Sinta</el_ou_ela>
+        <nós>Sintamos</nós>
+        <vós>Sintades</vós>
+        <eles_ou_elas>Sintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>sinte</ti>
+        <vós>sentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>seguir</infinito>
+    <presente_ind>
+        <eu>sigo</eu>
+        <ti>s<b>E</b>gues</ti>
+        <el_ou_ela>s<b>E</b>gue</el_ou_ela>
+        <nós>seguimos</nós>
+        <vós>seguides</vós>
+        <eles_ou_elas>s<b>E</b>guen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Siga</eu>
+        <ti>Sigas</ti>
+        <el_ou_ela>Siga</el_ou_ela>
+        <nós>Sigamos</nós>
+        <vós>Sigades</vós>
+        <eles_ou_elas>Sigan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>sigue</ti>
+        <vós>seguide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>sacudir</infinito>
+    <presente_ind>
+        <eu>sacudo</eu>
+        <ti>sac<b>O</b>des</ti>
+        <el_ou_ela>sac<b>O</b>de</el_ou_ela>
+        <nós>sacudimos</nós>
+        <vós>sacudides</vós>
+        <eles_ou_elas>sac<b>O</b>den</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Sacuda</eu>
+        <ti>Sacudas</ti>
+        <el_ou_ela>Sacuda</el_ou_ela>
+        <nós>Sacudamos</nós>
+        <vós>Sacudades</vós>
+        <eles_ou_elas>Sacudan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>sacude</ti>
+        <vós>sacudide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>ruxir</infinito>
+    <presente_ind>
+        <eu>ruxo</eu>
+        <ti>r<b>O</b>xes</ti>
+        <el_ou_ela>r<b>O</b>xe</el_ou_ela>
+        <nós>ruximos</nós>
+        <vós>ruxides</vós>
+        <eles_ou_elas>r<b>O</b>xen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Ruxa</eu>
+        <ti>Ruxas</ti>
+        <el_ou_ela>Ruxa</el_ou_ela>
+        <nós>Ruxamos</nós>
+        <vós>Ruxades</vós>
+        <eles_ou_elas>Ruxan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>ruxe</ti>
+        <vós>ruxide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>resentir</infinito>
+    <presente_ind>
+        <eu>resinto</eu>
+        <ti>res<b>E</b>ntes</ti>
+        <el_ou_ela>res<b>E</b>nte</el_ou_ela>
+        <nós>resentimos</nós>
+        <vós>resentides</vós>
+        <eles_ou_elas>res<b>E</b>nten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Resinta</eu>
+        <ti>Resintas</ti>
+        <el_ou_ela>Resinta</el_ou_ela>
+        <nós>Resintamos</nós>
+        <vós>Resintades</vós>
+        <eles_ou_elas>Resintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>resinte</ti>
+        <vós>resentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>relucir</infinitivo>
+    <presente_ind>
+        <eu>reluzo</eu>
+        <ti>rel<b>O</b>ces</ti>
+        <el_ou_ela>rel<b>O</b>ce</el_ou_ela>
+        <nós>relucimos</nós>
+        <vós>relucides</vós>
+        <eles_ou_elas>rel<b>O</b>cen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Reluza</eu>
+        <ti>Reluzas</ti>
+        <el_ou_ela>Reluza</el_ou_ela>
+        <nós>Reluzamos</nós>
+        <vós>Reluzades</vós>
+        <eles_ou_elas>Reluzan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>reluce</ti>
+        <vós>relucide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>recubrir</infinito>
+    <presente_ind>
+        <eu>recubro</eu>
+        <ti>rec<b>O</b>bres</ti>
+        <el_ou_ela>rec<b>O</b>bre</el_ou_ela>
+        <nós>recubrimos</nós>
+        <vós>recubrides</vós>
+        <eles_ou_elas>rec<b>O</b>bren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Recubra</eu>
+        <ti>Recubras</ti>
+        <el_ou_ela>Recubra</el_ou_ela>
+        <nós>Recubramos</nós>
+        <vós>Recubrades</vós>
+        <eles_ou_elas>Recubran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>recubre</ti>
+        <vós>recubride</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>rebulir</infinito>
+    <presente_ind>
+        <eu>rebulo</eu>
+        <ti>reb<b>O</b>les</ti>
+        <el_ou_ela>reb<b>O</b>le</el_ou_ela>
+        <nós>rebulimos</nós>
+        <vós>rebulides</vós>
+        <eles_ou_elas>reb<b>O</b>len</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Rebula</eu>
+        <ti>Rebulas</ti>
+        <el_ou_ela>Rebula</el_ou_ela>
+        <nós>Rebulamos</nós>
+        <vós>Rebulades</vós>
+        <eles_ou_elas>Rebulan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>rebule</ti>
+        <vós>rebulide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>pulir</infinito>
+    <presente_ind>
+        <eu>pulo</eu>
+        <ti>p<b>O</b>les</ti>
+        <el_ou_ela>p<b>O</b>le</el_ou_ela>
+        <nós>pulimos</nós>
+        <vós>pulides</vós>
+        <eles_ou_elas>p<b>O</b>len</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Pula</eu>
+        <ti>Pulas</ti>
+        <el_ou_ela>Pula</el_ou_ela>
+        <nós>Pulamos</nós>
+        <vós>Pulades</vós>
+        <eles_ou_elas>Pulan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>pule</ti>
+        <vós>pulide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>proseguir</infinito>
+    <presente_ind>
+        <eu>prosigo</eu>
+        <ti>pros<b>E</b>gues</ti>
+        <el_ou_ela>pros<b>E</b>gue</el_ou_ela>
+        <nós>proseguimos</nós>
+        <vós>proseguides</vós>
+        <eles_ou_elas>pros<b>E</b>guen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Prosiga</eu>
+        <ti>Prosigas</ti>
+        <el_ou_ela>Prosiga</el_ou_ela>
+        <nós>Prosigamos</nós>
+        <vós>Prosigades</vós>
+        <eles_ou_elas>Prosigan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>prosigue</ti>
+        <vós>proseguide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>presentir</infinito>
+    <presente_ind>
+        <eu>presinto</eu>
+        <ti>pres<b>E</b>ntes</ti>
+        <el_ou_ela>pres<b>E</b>nte</el_ou_ela>
+        <nós>presentimos</nós>
+        <vós>presentides</vós>
+        <eles_ou_elas>pres<b>E</b>nten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Presinta</eu>
+        <ti>Presintas</ti>
+        <el_ou_ela>Presinta</el_ou_ela>
+        <nós>Presintamos</nós>
+        <vós>Presintades</vós>
+        <eles_ou_elas>Presintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>presinte</ti>
+        <vós>presentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>perseguir</infinito>
+    <presente_ind>
+        <eu>persigo</eu>
+        <ti>pers<b>E</b>gues</ti>
+        <el_ou_ela>pers<b>E</b>gue</el_ou_ela>
+        <nós>perseguimos</nós>
+        <vós>perseguides</vós>
+        <eles_ou_elas>pers<b>E</b>guen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Persiga</eu>
+        <ti>Persigas</ti>
+        <el_ou_ela>Persiga</el_ou_ela>
+        <nós>Persigamos</nós>
+        <vós>Persigades</vós>
+        <eles_ou_elas>Persigan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>persigue</ti>
+        <vós>perseguide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>muxir</infinito>
+    <presente_ind>
+        <eu>muxo</eu>
+        <ti>m<b>O</b>xes</ti>
+        <el_ou_ela>m<b>O</b>xe</el_ou_ela>
+        <nós>muximos</nós>
+        <vós>muxides</vós>
+        <eles_ou_elas>m<b>O</b>xen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Muxa</eu>
+        <ti>Muxas</ti>
+        <el_ou_ela>Muxa</el_ou_ela>
+        <nós>Muxamos</nós>
+        <vós>Muxades</vós>
+        <eles_ou_elas>Muxan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>muxe</ti>
+        <vós>muxide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>mulir</infinito>
+    <presente_ind>
+        <eu>mulo</eu>
+        <ti>m<b>O</b>les</ti>
+        <el_ou_ela>m<b>O</b>le</el_ou_ela>
+        <nós>mulimos</nós>
+        <vós>mulides</vós>
+        <eles_ou_elas>m<b>O</b>len</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Mula</eu>
+        <ti>Mulas</ti>
+        <el_ou_ela>Mula</el_ou_ela>
+        <nós>Mulamos</nós>
+        <vós>Mulades</vós>
+        <eles_ou_elas>Mulan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>mule</ti>
+        <vós>mulide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>mentir</infinito>
+    <presente_ind>
+        <eu>minto</eu>
+        <ti>m<b>E</b>ntes</ti>
+        <el_ou_ela>m<b>E</b>nte</el_ou_ela>
+        <nós>mentimos</nós>
+        <vós>mentides</vós>
+        <eles_ou_elas>m<b>E</b>nten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Minta</eu>
+        <ti>Mintas</ti>
+        <el_ou_ela>Minta</el_ou_ela>
+        <nós>Mintamos</nós>
+        <vós>Mintades</vós>
+        <eles_ou_elas>Mintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>minte</ti>
+        <vós>mentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>malferir</infinito>
+    <presente_ind>
+        <eu>malfiro</eu>
+        <ti>malf<b>E</b>res</ti>
+        <el_ou_ela>malf<b>E</b>re</el_ou_ela>
+        <nós>malferimos</nós>
+        <vós>malferides</vós>
+        <eles_ou_elas>malf<b>E</b>ren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Malfira</eu>
+        <ti>Malfiras</ti>
+        <el_ou_ela>Malfira</el_ou_ela>
+        <nós>Malfiramos</nós>
+        <vós>Malfirades</vós>
+        <eles_ou_elas>Malfiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>malfire</ti>
+        <vós>malferide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>lucir</infinito>
+    <presente_ind>
+        <eu>luzo</eu>
+        <ti>l<b>O</b>ces</ti>
+        <el_ou_ela>l<b>O</b>ce</el_ou_ela>
+        <nós>lucimos</nós>
+        <vós>lucides</vós>
+        <eles_ou_elas>l<b>O</b>cen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Luza</eu>
+        <ti>Luzas</ti>
+        <el_ou_ela>Luza</el_ou_ela>
+        <nós>Luzamos</nós>
+        <vós>Luzades</vós>
+        <eles_ou_elas>Luzan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>luce</ti>
+        <vós>lucide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>fuxir</infinitivo>
+    <presente_ind>
+        <eu>fuxo</eu>
+        <ti>f<b>O</b>xes</ti>
+        <el_ou_ela>f<b>O</b>xe</el_ou_ela>
+        <nós>fuximos</nós>
+        <vós>fuxides</vós>
+        <eles_ou_elas>f<b>O</b>xen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Fuxa</eu>
+        <ti>Fuxas</ti>
+        <el_ou_ela>Fuxa</el_ou_ela>
+        <nós>Fuxamos</nós>
+        <vós>Fuxades</vós>
+        <eles_ou_elas>Fuxan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>fuxe</ti>
+        <vós>fuxide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>fundir (render)</infinito>
+    <presente_ind>
+        <eu>fundo</eu>
+        <ti>f<b>O</b>ndes</ti>
+        <el_ou_ela>f<b>O</b>nde</el_ou_ela>
+        <nós>fundimos</nós>
+        <vós>fundides</vós>
+        <eles_ou_elas>f<b>O</b>nden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Funda</eu>
+        <ti>Fundas</ti>
+        <el_ou_ela>Funda</el_ou_ela>
+        <nós>Fundamos</nós>
+        <vós>Fundades</vós>
+        <eles_ou_elas>Fundan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>funde</ti>
+        <vós>fundide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>ferir</infinito>
+    <presente_ind>
+        <eu>firo</eu>
+        <ti>f<b>E</b>res</ti>
+        <el_ou_ela>f<b>E</b>re</el_ou_ela>
+        <nós>ferimos</nós>
+        <vós>ferides</vós>
+        <eles_ou_elas>f<b>E</b>ren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Fira</eu>
+        <ti>Firas</ti>
+        <el_ou_ela>Fira</el_ou_ela>
+        <nós>Firamos</nós>
+        <vós>Firades</vós>
+        <eles_ou_elas>Firan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>fire</ti>
+        <vós>feride</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>entrelucir</infinito>
+    <presente_ind>
+        <eu>entreluzo</eu>
+        <ti>entrel<b>O</b>ces</ti>
+        <el_ou_ela>entrel<b>O</b>ce</el_ou_ela>
+        <nós>entrelucimos</nós>
+        <vós>entrelucides</vós>
+        <eles_ou_elas>entrel<b>O</b>cen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Entreluza</eu>
+        <ti>Entreluzas</ti>
+        <el_ou_ela>Entreluza</el_ou_ela>
+        <nós>Entreluzamos</nós>
+        <vós>Entreluzades</vós>
+        <eles_ou_elas>Entreluzan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>entreluce</ti>
+        <vós>entrelucide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>ensumir</infinito>
+    <presente_ind>
+        <eu>ensumo</eu>
+        <ti>ens<b>O</b>mes</ti>
+        <el_ou_ela>ens<b>O</b>me</el_ou_ela>
+        <nós>ensumimos</nós>
+        <vós>ensumides</vós>
+        <eles_ou_elas>ens<b>O</b>men</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Ensuma</eu>
+        <ti>Ensumas</ti>
+        <el_ou_ela>Ensuma</el_ou_ela>
+        <nós>Ensumamos</nós>
+        <vós>Ensumades</vós>
+        <eles_ou_elas>Ensuman</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>ensume</ti>
+        <vós>ensumide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>engulir</infinito>
+    <presente_ind>
+        <eu>engulo</eu>
+        <ti>eng<b>O</b>les</ti>
+        <el_ou_ela>eng<b>O</b>le</el_ou_ela>
+        <nós>engulimos</nós>
+        <vós>engulides</vós>
+        <eles_ou_elas>eng<b>O</b>len</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Engula</eu>
+        <ti>Engulas</ti>
+        <el_ou_ela>Engula</el_ou_ela>
+        <nós>Engulamos</nós>
+        <vós>Engulades</vós>
+        <eles_ou_elas>Engulan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>engule</ti>
+        <vós>engulide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>encubrir</infinito>
+    <presente_ind>
+        <eu>encubro</eu>
+        <ti>enc<b>O</b>bres</ti>
+        <el_ou_ela>enc<b>O</b>bre</el_ou_ela>
+        <nós>encubrimos</nós>
+        <vós>encubrides</vós>
+        <eles_ou_elas>enc<b>O</b>bren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Encubra</eu>
+        <ti>Encubras</ti>
+        <eles_ou_elas>Encubra</eles_ou_elas>
+        <nós>Encubramos</nós>
+        <vós>Encubrades</vós>
+        <eles_ou_elas>Encubran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>encubre</ti>
+        <vós>encubride</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>durmir</infinito>
+    <presente_ind>
+        <eu>durmo</eu>
+        <ti>d<b>O</b>rmes</ti>
+        <el_ou_ela>d<b>O</b>rme</el_ou_ela>
+        <nós>durmimos</nós>
+        <vós>durmides</vós>
+        <eles_ou_elas>d<b>O</b>rmen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Durma</eu>
+        <ti>Durmas</ti>
+        <el_ou_ela>Durma</el_ou_ela>
+        <nós>Durmamos</nós>
+        <vós>Durmades</vós>
+        <eles_ou_elas>Durman</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>durme</ti>
+        <vós>durmide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>disentir</infinito>
+    <presente_ind>
+        <eu>disinto</eu>
+        <ti>dis<b>E</b>ntes</ti>
+        <el_ou_ela>dis<b>E</b>nte</el_ou_ela>
+        <nós>disentimos</nós>
+        <vós>disentides</vós>
+        <eles_ou_elas>dis<b>E</b>nten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Disinta</eu>
+        <ti>Disintas</ti>
+        <el_ou_ela>Disinta</el_ou_ela>
+        <nós>Disintamos</nós>
+        <vós>Disintades</vós>
+        <eles_ou_elas>Disintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>disinte</ti>
+        <vós>disentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>desmentir</infinito>
+    <presente_ind>
+        <eu>desminto</eu>
+        <ti>desm<b>E</b>ntes</ti>
+        <el_ou_ela>desm<b>E</b>nte</el_ou_ela>
+        <nós>desmentimos</nós>
+        <vós>desmentides</vós>
+        <eles_ou_elas>desm<b>E</b>nten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Desminta</eu>
+        <ti>Desmintas</ti>
+        <el_ou_ela>Desminta</el_ou_ela>
+        <nós>Desmintamos</nós>
+        <vós>Desmintades</vós>
+        <eles_ou_elas>Desmintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>desminte</ti>
+        <vós>desmentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>deslucir</infinito>
+    <presente_ind>
+        <eu>desluzo</eu>
+        <ti>desl<b>O</b>ces</ti>
+        <el_ou_ela>desl<b>O</b>ce</el_ou_ela>
+        <nós>deslucimos</nós>
+        <vós>deslucides</vós>
+        <eles_ou_elas>desl<b>O</b>cen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Desluza</eu>
+        <ti>Desluzas</ti>
+        <el_ou_ela>Desluza</el_ou_ela>
+        <nós>Desluzamos</nós>
+        <vós>Desluzades</vós>
+        <eles_ou_elas>Desluzan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>desluce</ti>
+        <vós>deslucide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>descubrir</infinito>
+    <presente_ind>
+        <eu>descubro</eu>
+        <ti>desc<b>O</b>bres</ti>
+        <el_ou_ela>desc<b>O</b>bre</el_ou_ela>
+        <nós>descubrimos</nós>
+        <vós>descubrides</vós>
+        <eles_ou_elas>desc<b>O</b>bren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Descubra</eu>
+        <ti>Descubras</ti>
+        <el_ou_ela>Descubra</el_ou_ela>
+        <nós>Descubramos</nós>
+        <vós>Descubrades</vós>
+        <eles_ou_elas>Descubran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>descubre</ti>
+        <vós>descubride</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>cumprir (ser necesario)</infinito>
+    <presente_ind>
+        <eu>cumpro</eu>
+        <ti>c<b>Ó</b>mpres</ti>
+        <el_ou_ela>c<b>Ó</b>mpre</el_ou_ela>
+        <nós>cumprimos</nós>
+        <vós>cumprides</vós>
+        <eles_ou_elas>c<b>Ó</b>mpren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Cumpra</eu>
+        <ti>Cumpras</ti>
+        <el_ou_ela>Cumpra</el_ou_ela>
+        <nós>Cumpramos</nós>
+        <vós>Cumprades</vós>
+        <eles_ou_elas>Cumpran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>cumpre</ti>
+        <vós>cumpride</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>cubrir</infinito>
+    <presente_ind>
+        <eu>cubro</eu>
+        <ti>c<b>O</b>bres</ti>
+        <el_ou_ela>c<b>O</b>bre</el_ou_ela>
+        <nós>cubrimos</nós>
+        <vós>cubrides</vós>
+        <eles_ou_elas>c<b>O</b>bren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Cubra</eu>
+        <ti>Cubras</ti>
+        <el_ou_ela>Cubra</el_ou_ela>
+        <nós>Cubramos</nós>
+        <vós>Cubrades</vós>
+        <eles_ou_elas>Cubran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>cubre</ti>
+        <vós>cubride</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>consumir</infinito>
+    <presente_ind>
+        <eu>consumo</eu>
+        <ti>cons<b>O</b>mes</ti>
+        <el_ou_ela>cons<b>O</b>me</el_ou_ela>
+        <nós>consumimos</nós>
+        <vós>consumides</vós>
+        <eles_ou_elas>cons<b>O</b>men</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Consuma</eu>
+        <ti>Consumas</ti>
+        <el_ou_ela>Consuma</el_ou_ela>
+        <nós>Consumamos</nós>
+        <vós>Consumades</vós>
+        <eles_ou_elas>Consuman</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>consume</ti>
+        <vós>consumide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>consentir</infinito>
+    <presente_ind>
+        <eu>consinto</eu>
+        <ti>cons<b>E</b>ntes</ti>
+        <el_ou_ela>cons<b>E</b>nte</el_ou_ela>
+        <nós>consentimos</nós>
+        <vós>consentides</vós>
+        <eles_ou_elas>cons<b>E</b>nten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Consinta</eu>
+        <ti>Consintas</ti>
+        <el_ou_ela>Consinta</el_ou_ela>
+        <nós>Consintamos</nós>
+        <vós>Consintades</vós>
+        <eles_ou_elas>Consintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>consinte</ti>
+        <vós>consentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>conseguir</infinito>
+    <presente_ind>
+        <eu>consigo</eu>
+        <ti>cons<b>E</b>gues</ti>
+        <el_ou_ela>cons<b>E</b>gue</el_ou_ela>
+        <nós>conseguimos</nós>
+        <vós>conseguides</vós>
+        <eles_ou_elas>cons<b>E</b>guen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Consiga</eu>
+        <ti>Consigas</ti>
+        <el_ou_ela>Consiga</el_ou_ela>
+        <nós>Consigamos</nós>
+        <vós>Consigades</vós>
+        <eles_ou_elas>Consigan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>consigue</ti>
+        <vós>conseguide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinito>Acubrir</infinito>
+    <presente_ind>
+        <eu>Acubro</eu>
+        <ti>Ac<b>O</b>bres</ti>
+        <el_ou_ela>Ac<b>O</b>bres</el_ou_ela>
+        <nós>Acubrimos</nós>
+        <vós>Acubrides</vós>
+        <eles_ou_elas>Ac<b>O</b>bren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Acubra</eu>
+        <ti>Acubras</ti>
+        <el_ou_ela>Acubra</el_ou_ela>
+        <nós>Acubramos</nós>
+        <vós>Acubrades</vós>
+        <eles_ou_elas>Acubran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Acubre</ti>
+        <vós>Acubride</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Adherir</infinitivo>
+    <presente_ind>
+        <eu>Adhiro</eu>
+        <ti>Adhires</ti>
+        <el_ou_ela>Adhire</el_ou_ela>
+        <nós>Adherimos</nós>
+        <vós>Adherides</vós>
+        <eles_ou_elas>Adhiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Adhira</eu>
+        <ti>Adhiras</ti>
+        <el_ou_ela>Adhira</el_ou_ela>
+        <nós>Adhiramos</nós>
+        <vós>Adhirades</vós>
+        <eles_ou_elas>Adhiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Adhire</ti>
+        <vós>Adheride</vós>
+    </imperativo>
+</entrada>
+<entrada>
+    <presente_ind>
+        <eu>Advirto</eu>
+        <ti>Advirtes</ti>
+        <el_ou_ela>Advirte</el_ou_ela>
+        <nós>Advertimos</nós>
+        <vós>Advertides</vós>
+        <eles_ou_elas>Advirten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Advirta</eu>
+        <ti>Advirtas</ti>
+        <el_ou_ela>Advirta</el_ou_ela>
+        <nós>Advirtamos</nós>
+        <vós>Advirtades</vós>
+        <eles_ou_elas>Advirtan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Advirte</ti>
+        <vós>Advertide</vós>
+    </imperativo>
+</entrada>
+<entrada>
+    <infinitivo>Aferir</infinitivo>
+    <presente_ind>
+        <eu>Afiro</eu>
+        <ti>Afires</ti>
+        <el_ou_ela>Afire</el_ou_ela>
+        <nós>Aferimos</nós>
+        <vós>Aferides</vós>
+        <eles_ou_elas>Afiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Afira</eu>
+        <ti>Afiras</ti>
+        <el_ou_ela>Afira</el_ou_ela>
+        <nós>Afiramos</nós>
+        <vós>Afirades</vós>
+        <eles_ou_elas>Afiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Afire</ti>
+        <vós>Aferide</vós>
+    </imperativo>
+</entrada>
+<entrada>
+<infinitivo>Agredir</infinitivo>
+    <presente_ind>
+        <eu>Agrido</eu>
+        <ti>Agrides</ti>
+        <el_ou_ela>Agride</el_ou_ela>
+        <nós>Agredimos</nós>
+        <vós>Agredides</vós>
+        <eles_ou_elas>Agriden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Agrida</eu>
+        <ti>Agridas</ti>
+        <el_ou_ela>Agrida</el_ou_ela>
+        <nós>Agridamos</nós>
+        <vós>Agridades</vós>
+        <eles_ou_elas>Agridan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Agride</ti>
+        <vós>Agredide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Arrepentir</infinitivo>
+    <presente_ind>
+        <eu>Arrepinto</eu>
+        <ti>Arrepintes</ti>
+        <el_ou_ela>Arrepinte</el_ou_ela>
+        <nós>Arrepentimos</nós>
+        <vós>Arrepentides</vós>
+        <eles_ou_elas>Arrepinten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Arrepinta</eu>
+        <ti>Arrepintas</ti>
+        <el_ou_ela>Arrepinta</el_ou_ela>
+        <nós>Arrepintamos</nós>
+        <vós>Arrepintades</vós>
+        <eles_ou_elas>Arrepintan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Arrepinte</ti>
+        <vós>Arrepentide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Chuspir</infinitivo>
+    <presente_ind>
+        <eu>Chuspo</eu>
+        <ti>Ch<b>O</b>spes</ti>
+        <el_ou_ela>Ch<b>O</b>spe</el_ou_ela>
+        <nós>Chuspimos</nós>
+        <vós>Chuspides</vós>
+        <eles_ou_elas>Ch<b>O</b>spen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Chuspa</eu>
+        <ti>Chuspas</ti>
+        <el_ou_ela>Chuspa</el_ou_ela>
+        <nós>Chuspamos</nós>
+        <vós>Chuspades</vós>
+        <eles_ou_elas>Chuspan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Chuspe</ti>
+        <vós>Chuspide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Comedir</infinitivo>
+    <presente_ind>
+        <eu>Comido</eu>
+        <ti>Comides</ti>
+        <el_ou_ela>Comide</el_ou_ela>
+        <nós>Comedimos</nós>
+        <vós>Comedides</vós>
+        <eles_ou_elas>Comiden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Comida</eu>
+        <ti>Comidas</ti>
+        <el_ou_ela>Comida</el_ou_ela>
+        <nós>Comidamos</nós>
+        <vós>Comidades</vós>
+        <eles_ou_elas>Comidan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Comide</ti>
+        <vós>Comedide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Competir</infinitivo>
+    <presente_ind>
+        <eu>Compito</eu>
+        <ti>Compites</ti>
+        <el_ou_ela>Compite</el_ou_ela>
+        <nós>Competimos</nós>
+        <vós>Competides</vós>
+        <eles_ou_elas>Compiten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Compita</eu>
+        <ti>Compitas</ti>
+        <el_ou_ela>Compita</el_ou_ela>
+        <nós>Compitamos</nós>
+        <vós>Compitades</vós>
+        <eles_ou_elas>Compitan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Compite</ti>
+        <vós>Competide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Concernir</infinitivo>
+    <presente_ind>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>Concirne</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>Concirnen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>Concirna</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>Concirnan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>-</ti>
+        <vós>-</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Conferir</infinitivo>
+    <presente_ind>
+        <eu>Confiro</eu>
+        <ti>Confires</ti>
+        <el_ou_ela>Confire</el_ou_ela>
+        <nós>Conferimos</nós>
+        <vós>Conferides</vós>
+        <eles_ou_elas>Confiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>Confira</eu>
+        <ti>Confiras</ti>
+        <el_ou_ela>Confira</el_ou_ela>
+        <nós>Confiramos</nós>
+        <vós>Confirades</vós>
+        <eles_ou_elas>Confiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>Confire</ti>
+        <vós>Conferide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Cuspir</infinitivo>
+    <presente_ind>
+        <eu>cuspo</eu>
+        <ti>c<b>O</b>spes</ti>
+        <el_ou_ela>c<b>O</b>spe</el_ou_ela>
+        <nós>cuspimos</nós>
+        <vós>cuspides</vós>
+        <eles_ou_elas>c<b>O</b>spen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>cuspa</eu>
+        <ti>cuspas</ti>
+        <el_ou_ela>cuspa</el_ou_ela>
+        <nós>cuspamos</nós>
+        <vós>cuspades</vós>
+        <eles_ou_elas>cuspan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>cuspe</ti>
+        <vós>cuspide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Deferir</infinitivo>
+    <presente_ind>
+        <eu>defiro</eu>
+        <ti>defires</ti>
+        <el_ou_ela>defire</el_ou_ela>
+        <nós>deferimos</nós>
+        <vós>deferides</vós>
+        <eles_ou_elas>defiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>defira</eu>
+        <ti>defiras</ti>
+        <el_ou_ela>defira</el_ou_ela>
+        <nós>defiramos</nós>
+        <vós>defirades</vós>
+        <eles_ou_elas>defiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>defire</ti>
+        <vós>deferide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Denegrir</infinitivo>
+    <presente_ind>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>denigre</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>denigren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>denigra</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>denigran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>-</ti>
+        <vós>-</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Conxunguir</infinitivo>
+    <presente_ind>
+        <eu>conxungo</eu>
+        <ti>conx<b>O</b>ngues</ti>
+        <el_ou_ela>conx<b>O</b>ngue</el_ou_ela>
+        <nós>conxunguimos</nós>
+        <vós>conxunguides</vós>
+        <eles_ou_elas>conx<b>O</b>nguen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>conxunga</eu>
+        <ti>conxungas</ti>
+        <el_ou_ela>conxunga</el_ou_ela>
+        <nós>conxungamos</nós>
+        <vós>conxungades</vós>
+        <eles_ou_elas>conxungan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>conxungue</ti>
+        <vós>conxunguide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desapedir</infinitivo>
+    <presente_ind>
+        <eu>desapido</eu>
+        <ti>desapides</ti>
+        <el_ou_ela>desapide</el_ou_ela>
+        <nós>desapedimos</nós>
+        <vós>desapedides</vós>
+        <eles_ou_elas>desapiden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>desapida</eu>
+        <ti>desapidas</ti>
+        <el_ou_ela>desapida</el_ou_ela>
+        <nós>desapidamos</nós>
+        <vós>desapidades</vós>
+        <eles_ou_elas>desapidan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>desapide</ti>
+        <vós>desapedide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Descomedir</infinitivo>
+    <presente_ind>
+        <eu>descomido</eu>
+        <ti>descomides</ti>
+        <el_ou_ela>descomide</el_ou_ela>
+        <nós>descomedimos</nós>
+        <vós>descomedides</vós>
+        <eles_ou_elas>descomiden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>descomida</eu>
+        <ti>descomidas</ti>
+        <el_ou_ela>descomida</el_ou_ela>
+        <nós>descomidamos</nós>
+        <vós>descomidades</vós>
+        <eles_ou_elas>descomidan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>descomide</ti>
+        <vós>descomedide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desempedernir</infinitivo>
+    <presente_ind>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>-</el_ou_ela>
+        <nós>desempedernimos</nós>
+        <vós>desempedernides</vós>
+        <eles_ou_elas>-</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>-</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>-</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>-</ti>
+        <vós>desempedernide</vós>
+    </imperativo>
+</entrada>
+
+<entrada>
+    <infinitivo>Despedir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Despir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Despulir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desrevestir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desurdir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desvestir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Desxunguir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Diferir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Discernir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Divertir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Dixerir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Enxerir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Espelir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Espir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Expedir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Impedir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Inferir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Inserir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Interferir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Investir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Inxerir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Medir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Munguir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Pedir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Perseguir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Preferir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Preterir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Proferir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Proseguir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Redescubrir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Reexpedir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Referir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Reflectir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Reinvestir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Repetir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Revestir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Rexurdir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Subseguir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Suxerir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Transferir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Travestir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Urdir</infinitivo>
+</entrada>
+
+<entrada>
+    <infinitivo>Vestir</infinitivo>
+</entrada>
+
+
