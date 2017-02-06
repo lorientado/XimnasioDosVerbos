@@ -1557,10 +1557,50 @@
 
 <entrada>
     <infinitivo>Despedir</infinitivo>
+    <presente_ind>
+        <eu>despido</eu>
+        <ti>despides</ti>
+        <el_ou_ela>despide</el_ou_ela>
+        <nós>despedimos</nós>
+        <vós>despedides</vós>
+        <eles_ou_elas>despiden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>despida</eu>
+        <ti>despidas</ti>
+        <el_ou_ela>despida</el_ou_ela>
+        <nós>despidamos</nós>
+        <vós>despidades</vós>
+        <eles_ou_elas>despidan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>despide</ti>
+        <vós>despedide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Despir</infinitivo>
+    <presente_ind>
+        <eu>dispo</eu>
+        <ti>dispes</ti>
+        <el_ou_ela>dispe</el_ou_ela>
+        <nós>despimos</nós>
+        <vós>despides</vós>
+        <eles_ou_elas>dispen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>dispa</eu>
+        <ti>dispas</ti>
+        <el_ou_ela>dispa</el_ou_ela>
+        <nós>dispamos</nós>
+        <vós>dispades</vós>
+        <eles_ou_elas>dispan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>dispe</ti>
+        <vós>dispe</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
