@@ -1390,32 +1390,169 @@
 <entrada>
     <infinitivo>Cuspir</infinitivo>
     <presente_ind>
-        <eu></eu>
+        <eu>cuspo</eu>
+        <ti>c<b>O</b>spes</ti>
+        <el_ou_ela>c<b>O</b>spe</el_ou_ela>
+        <nós>cuspimos</nós>
+        <vós>cuspides</vós>
+        <eles_ou_elas>c<b>O</b>spen</eles_ou_elas>
     </presente_ind>
+    <presente_subx>
+        <eu>cuspa</eu>
+        <ti>cuspas</ti>
+        <el_ou_ela>cuspa</el_ou_ela>
+        <nós>cuspamos</nós>
+        <vós>cuspades</vós>
+        <eles_ou_elas>cuspan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>cuspe</ti>
+        <vós>cuspide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Deferir</infinitivo>
+    <presente_ind>
+        <eu>defiro</eu>
+        <ti>defires</ti>
+        <el_ou_ela>defire</el_ou_ela>
+        <nós>deferimos</nós>
+        <vós>deferides</vós>
+        <eles_ou_elas>defiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>defira</eu>
+        <ti>defiras</ti>
+        <el_ou_ela>defira</el_ou_ela>
+        <nós>defiramos</nós>
+        <vós>defirades</vós>
+        <eles_ou_elas>defiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>defire</ti>
+        <vós>deferide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Denegrir</infinitivo>
+    <presente_ind>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>denigre</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>denigren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>denigra</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>denigran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>-</ti>
+        <vós>-</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Conxunguir</infinitivo>
+    <presente_ind>
+        <eu>conxungo</eu>
+        <ti>conx<b>O</b>ngues</ti>
+        <el_ou_ela>conx<b>O</b>ngue</el_ou_ela>
+        <nós>conxunguimos</nós>
+        <vós>conxunguides</vós>
+        <eles_ou_elas>conx<b>O</b>nguen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>conxunga</eu>
+        <ti>conxungas</ti>
+        <el_ou_ela>conxunga</el_ou_ela>
+        <nós>conxungamos</nós>
+        <vós>conxungades</vós>
+        <eles_ou_elas>conxungan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>conxungue</ti>
+        <vós>conxunguide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Desapedir</infinitivo>
+    <presente_ind>
+        <eu>desapido</eu>
+        <ti>desapides</ti>
+        <el_ou_ela>desapide</el_ou_ela>
+        <nós>desapedimos</nós>
+        <vós>desapedides</vós>
+        <eles_ou_elas>desapiden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>desapida</eu>
+        <ti>desapidas</ti>
+        <el_ou_ela>desapida</el_ou_ela>
+        <nós>desapidamos</nós>
+        <vós>desapidades</vós>
+        <eles_ou_elas>desapidan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>desapide</ti>
+        <vós>desapedide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Descomedir</infinitivo>
+    <presente_ind>
+        <eu>descomido</eu>
+        <ti>descomides</ti>
+        <el_ou_ela>descomide</el_ou_ela>
+        <nós>descomedimos</nós>
+        <vós>descomedides</vós>
+        <eles_ou_elas>descomiden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>descomida</eu>
+        <ti>descomidas</ti>
+        <el_ou_ela>descomida</el_ou_ela>
+        <nós>descomidamos</nós>
+        <vós>descomidades</vós>
+        <eles_ou_elas>descomidan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>descomide</ti>
+        <vós>descomedide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Desempedernir</infinitivo>
+    <presente_ind>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>-</el_ou_ela>
+        <nós>desempedernimos</nós>
+        <vós>desempedernides</vós>
+        <eles_ou_elas>-</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>-</eu>
+        <ti>-</ti>
+        <el_ou_ela>-</el_ou_ela>
+        <nós>-</nós>
+        <vós>-</vós>
+        <eles_ou_elas>-</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>-</ti>
+        <vós>desempedernide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
