@@ -1605,10 +1605,33 @@
 
 <entrada>
     <infinitivo>Desrevestir</infinitivo>
+    <presente_ind>
+        <eu>desrevisto</eu>
+        <ti>desrevistes</ti>
+        <el_ou_ela>desreviste</el_ou_ela>
+        <nós>desrevestimos</nós>
+        <vós>desrevestides</vós>
+        <eles_ou_elas>desrevisten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>desrevista</eu>
+        <ti>desrevistas</ti>
+        <el_ou_ela>desrevista</el_ou_ela>
+        <nós>desrevistamos</nós>
+        <vós>desrevistades</vós>
+        <eles_ou_elas>desrevistan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>desreviste</ti>
+        <vós>desrevista</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Desurdir</infinitivo>
+    <presente_ind>
+        <eu></eu>
+    </presente_ind>
 </entrada>
 
 <entrada>
