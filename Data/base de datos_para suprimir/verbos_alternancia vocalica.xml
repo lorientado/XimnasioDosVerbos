@@ -1661,31 +1661,162 @@
         <vós>desvestides</vós>
         <eles_ou_elas>desvisten</eles_ou_elas>
     </presente_ind>
-    
+    <presente_subx>
+        <eu>desvista</eu>
+        <ti>desvistas</ti>
+        <el_ou_ela>desvista</el_ou_ela>
+        <nós>desvistamos</nós>
+        <vós>desvistades</vós>
+        <eles_ou_elas>desvistan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>desviste</ti>
+        <vós>desvestide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Desxunguir</infinitivo>
+    <presente_ind>
+        <eu>desxungo</eu>
+        <ti>desx<b>O</b>ngues</ti>
+        <el_ou_ela>desx<b>O</b>ngue</el_ou_ela>
+        <nós>desxunguimos</nós>
+        <vós>desxunguides</vós>
+        <eles_ou_elas>desx<b>O</b>nguen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>desxunga</eu>
+        <ti>desxungas</ti>
+        <el_ou_ela>desxunga</el_ou_ela>
+        <nós>desxungamos</nós>
+        <vós>desxungades</vós>
+        <eles_ou_elas>desxungan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>desxungue</ti>
+        <vós>desxunguide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Diferir</infinitivo>
+    <presente_ind>
+        <eu>difiro</eu>
+        <ti>difires</ti>
+        <el_ou_ela>difire</el_ou_ela>
+        <nós>diferimos</nós>
+        <vós>diferides</vós>
+        <eles_ou_elas>difiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>difira</eu>
+        <ti>difiras</ti>
+        <el_ou_ela>difira</el_ou_ela>
+        <nós>difiramos</nós>
+        <vós>difirades</vós>
+        <eles_ou_elas>difiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>difire</ti>
+        <vós>diferide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Discernir</infinitivo>
+    <presente_ind>
+        <eu>discirno</eu>
+        <ti>discirnes</ti>
+        <el_ou_ela>discirne</el_ou_ela>
+        <nós>discernimos</nós>
+        <vós>discernides</vós>
+        <eles_ou_elas>discirnen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>discirna</eu>
+        <ti>discirnas</ti>
+        <el_ou_ela>discirna</el_ou_ela>
+        <nós>discirnamos</nós>
+        <vós>discirnades</vós>
+        <eles_ou_elas>discirnan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>discirne</ti>
+        <vós>discernide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Divertir</infinitivo>
+    <presente_ind>
+        <eu>divirto</eu>
+        <ti>divires</ti>
+        <el_ou_ela>divirte</el_ou_ela>
+        <nós>divertimos</nós>
+        <vós>divertides</vós>
+        <eles_ou_elas>divirten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>divirta</eu>
+        <ti>divirtas</ti>
+        <el_ou_ela>divirta</el_ou_ela>
+        <nós>divirtamos</nós>
+        <vós>divirtades</vós>
+        <eles_ou_elas>divirtan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>divirte</ti>
+        <vós>divertide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Dixerir</infinitivo>
+    <presente_ind>
+        <eu>dixiro</eu>
+        <ti>dixires</ti>
+        <el_ou_ela>dixire</el_ou_ela>
+        <nós>dixerimos</nós>
+        <vós>dixerides</vós>
+        <eles_ou_elas>dixiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>dixira</eu>
+        <ti>dixiras</ti>
+        <el_ou_ela>dixira</el_ou_ela>
+        <nós>dixiramos</nós>
+        <vós>dixirades</vós>
+        <eles_ou_elas>dixiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>dixire</ti>
+        <vós>dixeride</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Enxerir</infinitivo>
+    <presente_ind>
+        <eu>enxiro</eu>
+        <ti>enxires</ti>
+        <el_ou_ela>enxire</el_ou_ela>
+        <nós>enxerimos</nós>
+        <vós>enxerides</vós>
+        <eles_ou_elas>enxiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>enxira</eu>
+        <ti>enxiras</ti>
+        <el_ou_ela>enxira</el_ou_ela>
+        <nós>enxiramos</nós>
+        <vós>enxirades</vós>
+        <eles_ou_elas>enxiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>enxire</ti>
+        <vós>enxeride</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
