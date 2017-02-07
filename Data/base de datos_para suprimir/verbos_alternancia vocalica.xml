@@ -2294,52 +2294,273 @@
         <eles_ou_elas>refiran</eles_ou_elas>
     </presente_subx>
     <imperativo>
-        <ti></ti>
+        <ti>refire</ti>
+        <vós>referide</vós>
     </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Reflectir</infinitivo>
+    <presente_ind>
+        <eu>reflicto</eu>
+        <ti>reflictes</ti>
+        <el_ou_ela>reflicte</el_ou_ela>
+        <nós>reflectimos</nós>
+        <vós>reflectides</vós>
+        <eles_ou_elas>reflicten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>reflicta</eu>
+        <ti>reflictas</ti>
+        <el_ou_ela>reflicta</el_ou_ela>
+        <nós>reflictamos</nós>
+        <vós>reflictades</vós>
+        <eles_ou_elas>reflictan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>reflicte</ti>
+        <vós>reflectide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Reinvestir</infinitivo>
+    <presente_ind>
+        <eu>reinvisto</eu>
+        <ti>reinvistes</ti>
+        <el_ou_ela>reinviste</el_ou_ela>
+        <nós>reinvestimos</nós>
+        <vós>reinvestides</vós>
+        <eles_ou_elas>reinvisten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>reinvista</eu>
+        <ti>reinvistas</ti>
+        <el_ou_ela>reinvista</el_ou_ela>
+        <nós>reinvistamos</nós>
+        <vós>reinvistades</vós>
+        <eles_ou_elas>reinvistan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>reinviste</ti>
+        <vós>reinvestide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Repetir</infinitivo>
+    <presente_ind>
+        <eu>repito</eu>
+        <ti>repites</ti>
+        <el_ou_ela>repite</el_ou_ela>
+        <nós>repetimos</nós>
+        <vós>repetides</vós>
+        <eles_ou_elas>repiten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>repita</eu>
+        <ti>repitas</ti>
+        <el_ou_ela>repita</el_ou_ela>
+        <nós>repitamos</nós>
+        <vós>repitades</vós>
+        <eles_ou_elas>repitan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>repite</ti>
+        <vós>repetide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Revestir</infinitivo>
+    <presente_ind>
+        <eu>revisto</eu>
+        <ti>revistes</ti>
+        <el_ou_ela>reviste</el_ou_ela>
+        <nós>revestimos</nós>
+        <vós>revestides</vós>
+        <eles_ou_elas>revisten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>revista</eu>
+        <ti>revistas</ti>
+        <el_ou_ela>revista</el_ou_ela>
+        <nós>revistamos</nós>
+        <vós>revistades</vós>
+        <eles_ou_elas>revistan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>reviste</ti>
+        <vós>revestide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Rexurdir</infinitivo>
+    <presente_ind>
+        <eu>rexurdo</eu>
+        <ti>rex<b>O</b>rdes</ti>
+        <el_ou_ela>rex<b>O</b>rde</el_ou_ela>
+        <nós>rexurdimos</nós>
+        <vós>rexurdides</vós>
+        <eles_ou_elas>rex<b>O</b>rden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>rexurda</eu>
+        <ti>rexurdas</ti>
+        <el_ou_ela>rexurda</el_ou_ela>
+        <nós>rexurdamos</nós>
+        <vós>rexurdades</vós>
+        <eles_ou_elas>rexurdan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>rexurde</ti>
+        <vós>rexurdide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Subseguir</infinitivo>
+    <presente_ind>
+        <eu>subsigo</eu>
+        <ti>subs<b>E</b>gues</ti>
+        <el_ou_ela>subs<b>E</b>gue</el_ou_ela>
+        <nós>subseguimos</nós>
+        <vós>subseguides</vós>
+        <eles_ou_elas>subs<b>E</b>guen</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>subsiga</eu>
+        <ti>subsigas</ti>
+        <el_ou_ela>subsiga</el_ou_ela>
+        <nós>subsigamos</nós>
+        <vós>subsigades</vós>
+        <eles_ou_elas>subsigan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>subsigue</ti>
+        <vós>subseguide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Suxerir</infinitivo>
+    <presente_ind>
+        <eu>suxiro</eu>
+        <ti>suxires</ti>
+        <el_ou_ela>suxire</el_ou_ela>
+        <nós>suxerimos</nós>
+        <vós>suxerides</vós>
+        <eles_ou_elas>suxiren</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>suxira</eu>
+        <ti>suxiras</ti>
+        <el_ou_ela>suxira</el_ou_ela>
+        <nós>suxiramos</nós>
+        <vós>suxirades</vós>
+        <eles_ou_elas>suxiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>suxire</ti>
+        <vós>suxeride</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Transferir</infinitivo>
+    <presente_ind>
+        <eu>transfiro</eu>
+        <ti>transfires</ti>
+        <el_ou_ela>transfire</el_ou_ela>
+        <nós>transferimos</nós>
+        <vós>transferides</vós>
+        <eles_ou_elas>transfiran</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>transfira</eu>
+        <ti>transfiras</ti>
+        <el_ou_ela>transfira</el_ou_ela>
+        <nós>transfiramos</nós>
+        <vós>transfirades</vós>
+        <eles_ou_elas>transfiran</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>transfire</ti>
+        <vós>transferide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Travestir</infinitivo>
+    <presente_ind>
+        <eu>travisto</eu>
+        <ti>travistes</ti>
+        <el_ou_ela>traviste</el_ou_ela>
+        <nós>travestimos</nós>
+        <vós>travestides</vós>
+        <eles_ou_elas>travisten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>travista</eu>
+        <ti>travistas</ti>
+        <el_ou_ela>travista</el_ou_ela>
+        <nós>travistamos</nós>
+        <vós>travistades</vós>
+        <eles_ou_elas>travistan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>traviste</ti>
+        <vós>travestide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Urdir</infinitivo>
+    <presente_ind>
+        <eu>urdo</eu>
+        <ti><b>O</b>rdes</ti>
+        <el_ou_ela><b>O</b>rde</el_ou_ela>
+        <nós>urdimos</nós>
+        <vós>urdides</vós>
+        <eles_ou_elas><b>O</b>rden</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>urda</eu>
+        <ti>urdas</ti>
+        <el_ou_ela>urda</el_ou_ela>
+        <nós>urdamos</nós>
+        <vós>urdades</vós>
+        <eles_ou_elas>urdan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>urde</ti>
+        <vós>urdide</vós>
+    </imperativo>
 </entrada>
 
 <entrada>
     <infinitivo>Vestir</infinitivo>
+    <presente_ind>
+        <eu>visto</eu>
+        <ti>vistes</ti>
+        <el_ou_ela>viste</el_ou_ela>
+        <nós>vestimos</nós>
+        <vós>vestides</vós>
+        <eles_ou_elas>visten</eles_ou_elas>
+    </presente_ind>
+    <presente_subx>
+        <eu>vista</eu>
+        <ti>vistas</ti>
+        <el_ou_ela>vista</el_ou_ela>
+        <nós>vistamos</nós>
+        <vós>vistades</vós>
+        <eles_ou_elas>vistan</eles_ou_elas>
+    </presente_subx>
+    <imperativo>
+        <ti>viste</ti>
+        <vós>vestide</vós>
+    </imperativo>
 </entrada>
 
 
