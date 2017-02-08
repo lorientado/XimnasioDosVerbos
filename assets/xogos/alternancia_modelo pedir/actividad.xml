@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><actividad tipo="Test">
+	
+<!-- Parte generica -->	
+	<!-- Indica que color de fondo se le pondra al flash (por defecto 0x8993A0) -->
+	<color_fondo>0x8199d0</color_fondo>
+	<!-- Indica que color se le pondra a los elementos del flash (por defecto 0x728F61) -->
+	<color_botones>0xF3F3F3</color_botones>
+    <!-- Indica que color de fondo se le pondra al html5 (por defecto 0x7cb139) -->
+	<color_fondo_h>0x8199d0</color_fondo_h>
+	<!-- Indica que color se le pondra a los elementos del html5 (por defecto 0xFCA800) -->
+	<color_botones_h>0xF3F3F3</color_botones_h>
+    <!-- Indica el logo personalizado si lo hay -->
+    <logoPersonalizado>no</logoPersonalizado>
+	
+	<!-- Parametros nuevos - dic 2012 -->
+	<autor>Gabriel Durán</autor>
+	<descripcionUsuario>Completa as seguintes formas verbais</descripcionUsuario>
+    <descripcionUsuarioLimpio>Completa as seguintes formas verbais</descripcionUsuarioLimpio>
+	<origen_recursos></origen_recursos><xorigen_recursos>https://d3c41a1a64ri6i.cloudfront.net/recursos/87/2804920/</xorigen_recursos>
+	
+	<globalFeedback>1</globalFeedback>
+	
+	<!-- Indica si se mostrara al alumno la respuesta correcta o no, en caso de que el alumno no supere el ejercicio -->
+	<correccion>si</correccion>
+	<!-- Indica si la respuesta del alumno debe ser igual a la respuesta correcta en lo referente a las mayusculas y acentos, solo en el caso de que la forma de completar sea escrita -->
+	<sensible_mayusculas>si</sensible_mayusculas>
+	<sensible_acentos>si</sensible_acentos>
+	<!-- Indica si tiene un tiempo maximo para realizar la actividad, estara definido en segundos -->
+	<tiempo maximo="0">no</tiempo>
+     <registro>
+		<!-- Indica el tipo de registro:
+		- script -> registro a traves de un script (php, jsp, etx)
+		- scorm -> registreo a traves de scorp
+		-->
+		<tipo>scorm</tipo>
+		<!-- Indica la url del scrip, en caso de que el tipo sea script	-->
+		<url></url>
+		<!-- Indica los parametros a pasar al script, en caso de que el tipo sea script	-->
+		<parametros>
+			<!-- La etiqueta nombre contiene el nombre del parametro a pasar -->
+			<!-- La etiqueta valor contiene el valor al que hace referencia el parametro (buscara el nombre de la varible en flash):
+			- SCORE: puntuacion de la actividad, en porcentaje
+			- TIME: tiempo de la actividad, en segundos
+			- URL: direccion de la actividad
+			-->
+			<parametro id="1">
+				<nombre>score</nombre>
+				<valor>SCORE</valor>
+			</parametro>
+			<parametro id="2">
+				<nombre>time</nombre>
+				<valor>TIME</valor>
+			</parametro>
+			<parametro id="3">
+				<nombre>url</nombre>
+				<valor>URL</valor>
+			</parametro>
+		</parametros>
+	</registro>
+    
+<!-- Parte especifica -->
+	<titulo>Instrucións</titulo>
+	<tituloActividad>Quen é quen? O modelo 'pedir'</tituloActividad>
+	<enunciado>Responde a estas preguntas</enunciado>
+    <!-- parametro solo para la importación a ADR -->
+    <enunciado_edu>Quen é quen? O modelo 'pedir'</enunciado_edu>
+    
+	<!-- Indica la forma de realizar la actividad, es decir la ayuda de la actividad -->
+	<descripcion>Responde ás preguntas do test. Pode parecer que deba responder a algunhas preguntas para ir ao seguinte. Cando chegar ao final das preguntas, pode dar para acabar coa actividade, para que poidan ser corrixidos ea súa puntuación.</descripcion>
+	<!-- Indica el porcentaje de preguntas que deberan seran correctas para superar la actividad -->
+	<porcentaje_superar_actividad>50</porcentaje_superar_actividad>
+	<preguntas>
+		<!-- El atributo tipo indica las posibles preguntas que el profesor ha definido, hacen referencia a los cuatro tipos de preguntas:
+		- Respuesta escrita
+		- Respuesta escrita amplia
+		- Respuesta unica
+		- Respuesta multiple
+		-->
+                
+                        
+		<pregunta id="1" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Que forma verbal é correcta?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">Repeto</opcion>
+        		
+                <opcion resp="1">Repito</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="2" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Div__rtes</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">i</opcion>
+        		
+                <opcion resp="0">e [&amp;#603;]</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="3" tipo="escrita" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a 3ª persoa do singular do verbo 'advertir'?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">Advirte</opcion>
+        		
+                <opcion resp="1">advirte</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="4" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">Arrepintimos</opcion>
+        		
+                <opcion resp="1">Arrepentimos</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="5" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Comp__tides</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">e [&amp;#603;]</opcion>
+        		
+                <opcion resp="1">e</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="6" tipo="escrita" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a 3ª persoa do plural do verbo 'despedir'?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">Despedides</opcion>
+        		
+                <opcion resp="1">despedides</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="7" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">Divirto</opcion>
+        		
+                <opcion resp="0">Diverto</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="8" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >__spes</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">e</opcion>
+        		
+                <opcion resp="1">i</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="9" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como son a 1ª, 2ª e 3ª persoa do singular do verbo 'impedir'?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">Impedo, impedes, impede</opcion>
+        		
+                <opcion resp="0">Impido, empedes, empede</opcion>
+        		
+                <opcion resp="1">Impido, impides, impide</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="10" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">Inserimos</opcion>
+        		
+                <opcion resp="0">Insirimos</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="11" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >M__dides</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">e [&amp;#603;]</opcion>
+        		
+                <opcion resp="1">e</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="12" tipo="escrita" obligatoria="no" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a 3ª persoa do plural do verbo 'preferir'?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">Prefiren</opcion>
+        		
+                <opcion resp="1">prefiren</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="13" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">Vesto</opcion>
+        		
+                <opcion resp="1">Visto</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="14" tipo="unica" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Transf__res</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="0">e</opcion>
+        		
+                <opcion resp="1">i</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="15" tipo="escrita" obligatoria="si" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a 3ª persoa do singular do verbo 'agredir'?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">Agride</opcion>
+        		
+                <opcion resp="1">agride</opcion>
+        					</opciones>
+		</pregunta>
+                
+                        
+		<pregunta id="16" tipo="unica" obligatoria="no" feedback="">
+                	                
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+			<opciones>
+            	
+            	
+                <opcion resp="1">Invisten</opcion>
+        		
+                <opcion resp="0">Investen</opcion>
+        					</opciones>
+		</pregunta>
+                	</preguntas>
+    
+    	<!-- Indica el numero de posibles preguntas que el profesor ha definido para el ejercicio -->
+	<numero_preguntas_totales>16</numero_preguntas_totales>
+	<!-- Indica el numero de preguntas que apareceran, seleccionadas de forma aleatoria -->
+	<numero_preguntas_visibles>15</numero_preguntas_visibles>
+	<orden_preguntas>ALEATORIO</orden_preguntas>
+    <!-- Indica el tipo de ordenacion usado-->
+	<puntos>100</puntos>
+    <!-- Indica los margenes para la puntuación por valoración-->
+    <margenes activo='no'>
+                            	</margenes>
+    
+    <idioma>
+
+		<txtPuntos>Puntuación</txtPuntos>
+		<txtTiempo>Tempo</txtTiempo>
+		<txtTiempoRestante>Tempo Restante</txtTiempoRestante>
+		<txtResultado>Resultado</txtResultado>
+		<txtPreguntas>Preguntas</txtPreguntas>
+		<txtHasAprobado>Aprobou!!</txtHasAprobado>
+		<txtHasSuspendido>Non superou a actividad</txtHasSuspendido>
+		<txtPorcentajeMinimo1>É necesario acadar un </txtPorcentajeMinimo1>
+		<txtPorcentajeMinimo2> para aprobar</txtPorcentajeMinimo2>
+		<txtContestadas>respondeu</txtContestadas>
+		<txtNoContestadas>Sen resposta</txtNoContestadas>
+		<txtNumObligatoria1>Contestou</txtNumObligatoria1>
+		<txtNumObligatoria2>pregunta obrigatoria</txtNumObligatoria2>
+		<txtNumObligatorias1>Contestou</txtNumObligatorias1>
+		<txtNumObligatorias2>preguntas obrigatorias</txtNumObligatorias2>
+		<txtTuPuntuacionEs>A súa puntuación é</txtTuPuntuacionEs>
+		<txtMal>Mal</txtMal>
+		<txtBien>Ben</txtBien>
+		<txtObligatoria>pregunta obrigatoria</txtObligatoria>
+		<txtProgreso>Progreso</txtProgreso>
+		<txtFinalizar>Final</txtFinalizar>
+		<txtVerCorregir>Vexa a corrección</txtVerCorregir>
+		
+		<txtRespuestaIncorrecta>Resposta incorrecta</txtRespuestaIncorrecta>
+		<txtTituloActividadNoSuperada>Actividade non superada</txtTituloActividadNoSuperada>
+		<txtActividadNoSuperada>Non superou a porcentaxe de acertos para pasar esa actividade.</txtActividadNoSuperada>
+		<txtTituloActividadSuperada>Actividade Pasado</txtTituloActividadSuperada>
+		<txtActividadSuperada>Parabéns ten superado a actividade</txtActividadSuperada>
+		<txtTiempoSuperado>Superou o tempo máximo para esta actividade</txtTiempoSuperado>
+		<txtCerrar>Pechar</txtCerrar>
+		<txtRespuestaCorrecta>Resposta correcta</txtRespuestaCorrecta>
+		<txtOtrasRespuestas>Outras respostas</txtOtrasRespuestas>
+		<txtTituloRespuestaCorrecta>Resposta correcta</txtTituloRespuestaCorrecta>
+		<txtBoxRespuestaCorrecta>Parabéns ten superado a actividade</txtBoxRespuestaCorrecta>
+		<txtPosiblesRespuestas>Posibles respostas</txtPosiblesRespuestas>
+		<txtTuRespuesta>A súa resposta</txtTuRespuesta>
+
+   		<txtSensibleMayusculas>É sensible a maiúsculas.</txtSensibleMayusculas>
+		<txtNoSensibleMayusculas>Non diferencia entre maiúsculas e minúsculas.</txtNoSensibleMayusculas>
+		<txtSensibleAcentos>Sensible a acentos.</txtSensibleAcentos>
+		<txtNoSensibleAcentos>Non é sensíbel a acentos.</txtNoSensibleAcentos>
+
+		<txtTituloErrorAudio>Erro en Actividade</txtTituloErrorAudio>
+		<txtErrorAudioSoportado>Audio non atopado ou non soportado polo teu navegador</txtErrorAudioSoportado>
+		
+		<txtAceptar>Aceptar</txtAceptar>
+		<txtTiempoMaximo>Tempo máximo</txtTiempoMaximo>
+		<txtSensible>Sensible</txtSensible>
+		<txtMayusculasMinusculas>Case Superior/Inferior</txtMayusculasMinusculas>
+		<txtAcentos>Acentos</txtAcentos>
+		<txtComenzar>Comenzar</txtComenzar>
+		<txtAutor>Autor</txtAutor>
+		<txtAyuda>Axuda</txtAyuda>
+		<txtMostrarMas>Amosar máis</txtMostrarMas>
+		<txtMostrarMenos>Amosar menos</txtMostrarMenos>
+		<txtReiniciar>Reinicie</txtReiniciar>
+		<txtVolverJugar>Xogar outra vez</txtVolverJugar>
+		<txtResponder>Responder</txtResponder>
+		<txtRegistrarse>Rexistrarse</txtRegistrarse>
+		<txtAcceder>Acceder</txtAcceder>
+		<txtCompartirResultado>Comparte os resultados</txtCompartirResultado>
+		<txtPantallaCompleta>Pantalla completa</txtPantallaCompleta>
+		<txtImprimir>Imprimir</txtImprimir>
+		<txtSiguiente>Seguinte</txtSiguiente>
+		<txtAnterior>Anterior</txtAnterior>
+		<txtInfoAdicional>Información adicional</txtInfoAdicional>
+		
+	</idioma>
+
+</actividad>
