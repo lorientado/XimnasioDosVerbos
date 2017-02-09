@@ -145,7 +145,7 @@ tr:nth-child(odd) td {
 }
 
 tr:nth-child(odd):hover td {
-  background:#4E5066;
+  background:#8D90AE;
 }
 
 tr:last-child td:first-child {
@@ -207,7 +207,6 @@ td.text-right {
 
 
 
-    <html lang="en">
 <head>
   <meta charset="utf-8" />
   <title>verbos</title>
@@ -218,64 +217,6 @@ td.text-right {
 <div class="table-title">
 <h3 style="text-align: center;">Acudir</h3>
 
-
-  <section>
-    <div>
-      <head>
-        <style>
-          button.accordion {
-            background-color: #eee;
-            color: #444;
-            cursor: pointer;
-            padding: 18px;
-            width: 100%;
-            border: none;
-            text-align: left;
-            outline: none;
-            font-size: 15px;
-            transition: 0.4s;
-          }
-
-          button.accordion.active, button.accordion:hover {
-            background-color: #ddd;
-          }
-
-          div.panel {
-            padding: 0 18px;
-            display: none;
-            background-color: white;
-          }
-        </style>
-      </head>
-      <body>
-
-
-      <button class="accordion">Máis información</button>
-      <div class="panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      </div>
-
-      <script>
-          var acc = document.getElementsByClassName("accordion");
-          var i;
-
-          for (i = 0; i < acc.length; i++) {
-              acc[i].onclick = function(){
-                  this.classList.toggle("active");
-                  var panel = this.nextElementSibling;
-                  if (panel.style.display === "block") {
-                      panel.style.display = "none";
-                  } else {
-                      panel.style.display = "block";
-                  }
-              }
-          }
-      </script>
-
-      </body>
-    </div>
-  </section>
-
   <section>
 
     <div class="container">
@@ -283,13 +224,11 @@ td.text-right {
         * {
           box-sizing:border-box;
         }
-        {
 
-        ;
         }
         .heading-primary {
           font-size:2em;
-          padding:2em;
+          padding:1em;
           text-align:center;
         }
         .accordion dl,
@@ -318,16 +257,16 @@ td.text-right {
           background-color:#eee;
         }
         .container {
-          max-width:960px;
+          max-width:660px;
           margin:0 auto;
-          padding:2em 0 2em 0;
+          padding: 0.2em; 0.1em 0;
         }
         .accordionTitle,
         .accordion__Heading {
-          background-color:#38cc70;
+          background-color:#B4BEED;
           text-align:center;
           font-weight:700;
-          padding:2em;
+          padding: 0.9em;
           display:block;
           text-decoration:none;
           color:#fff;
@@ -366,7 +305,6 @@ td.text-right {
           transition:max-height 0.5s
 
         }
-
 
         }
 
@@ -413,7 +351,6 @@ td.text-right {
           </dt>
           <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
             <p>Lorem ipsum dolor sit amet, consectetur <a href="http://www.google.com">Test</a>adipiscing elit. Morbi eu interdum diam. Donec interdum porttitor risus non bibendum. Maecenas sollicitudin eros in quam imperdiet placerat. Cras justo purus, rhoncus nec lobortis ut, iaculis vel ipsum. Donec dignissim arcu nec elit faucibus condimentum. Donec facilisis consectetur enim sit amet varius. Pellentesque justo dui, sodales quis luctus a, iaculis eget mauris. </p>
-            <p>Aliquam dapibus, ante quis fringilla feugiat, mauris risus condimentum massa, at elementum libero quam ac ligula. Pellentesque at rhoncus dolor. Duis porttitor nibh ut lobortis aliquam. Nullam eu dolor venenatis mauris placerat tristique eget id dolor. Quisque blandit adipiscing erat vitae dapibus. Nulla aliquam magna nec elementum tincidunt.</p>
           </dd>
         </dl>
       </div>
@@ -480,7 +417,6 @@ td.text-right {
         })();
     </script>
   </section>
-
 <h5 style="text-align: center;">Presente de indicativo</h5>
 
 </div>
