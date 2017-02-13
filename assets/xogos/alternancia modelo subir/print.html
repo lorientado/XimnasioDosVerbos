@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+				<script src="actividad.js"></script>
+		        <script src="jq.js"></script>
+		<script src="print.js"></script>
+		<link rel="stylesheet" type="text/css" href="print.css">
+		<script>
+			$(document).data("loadingXmlError","Error al cargar el fichero XML");
+            $(document).data("PRMO","3");
+		</script>
+</head>
+<body>
+	<div id="all">
+		<div id="header">
+			    		<div class="datosActividad">
+            		<div class="titAct"><h1 id="txtTitAct"></h1></div>
+           			<span id="textoAutor"></span><span id="nombreAutor"></span>
+            </div>
+    		<div class="clear"></div>
+		</div>
+		<div id="actividad">
+			<div id="lienzo"></div>
+		</div>
+	</div>
+</body>
+</html>
