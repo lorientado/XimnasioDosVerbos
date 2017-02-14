@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="indexación dos verbos irregulares">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/Bgplayer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/bgarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iError.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iExtraInfo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iForm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iInfoAdicionalBig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iLupa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iMultimedia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iPlayer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iPlayerReducido.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iconoTest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/iconsWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/logoEducaplay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/img_html5/preload.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/img_html5/luzIntensa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/img_html5/luzIntensa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ximnasio_app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/jq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/particulars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/print.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/print.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/styles_com.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/styles_part.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generic_2_trucos_alternancia.html" afterPath="$PROJECT_DIR$/generic_2_trucos_alternancia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Abster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Abster.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Ater.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Ater.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/conter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/conter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/deter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/deter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/ter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/ter.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,42 +22,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="actividad.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="elements_procurar_irregulares.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_procurar_irregulares.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5565">
-              <caret line="371" column="5" lean-forward="false" selection-start-line="371" selection-start-column="5" selection-end-line="371" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2064">
-              <caret line="0" column="2868" lean-forward="false" selection-start-line="0" selection-start-column="2867" selection-end-line="0" selection-end-column="2868" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generic_2_trucos_alternancia.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="generic_2_trucos_alternancia.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generic_2_trucos_alternancia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="858" column="0" lean-forward="true" selection-start-line="858" selection-start-column="0" selection-end-line="858" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="71" column="75" lean-forward="false" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="75" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ter.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/Irregulares/ter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="365" column="25" lean-forward="false" selection-start-line="365" selection-start-column="25" selection-end-line="365" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,11 +48,20 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
       <find>3</find>
       <find>ir</find>
-      <find>vir</find>
       <find>intentos</find>
+      <find>autor</find>
+      <find>preguntas</find>
+      <find>comen</find>
+      <find>quen</find>
+      <find>que che vou dicir</find>
+      <find>print</find>
+      <find>como é</find>
+      <find>estas</find>
+      <find>vir</find>
+      <find>bs</find>
+      <find>abs</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,9 +70,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Irregulares/Abster.html" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.html" />
-        <option value="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.html" />
@@ -121,7 +82,18 @@
         <option value="$PROJECT_DIR$/assets/xogos/presente_haber/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/presente_estar/actividad.html" />
         <option value="$PROJECT_DIR$/elements_procurar_irregulares.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.html" />
         <option value="$PROJECT_DIR$/generic_2_trucos_alternancia.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Abster.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Ater.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/conter.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/deter.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/ter.html" />
       </list>
     </option>
   </component>
@@ -132,10 +104,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="76" />
-    <option name="y" value="33" />
-    <option name="width" value="1115" />
-    <option name="height" value="763" />
+    <option name="x" value="404" />
+    <option name="width" value="876" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -166,6 +137,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Irregulares" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -182,6 +199,7 @@
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -266,7 +284,7 @@
       <updated>1486983821025</updated>
       <workItem from="1486983822346" duration="2341000" />
       <workItem from="1487005190690" duration="5229000" />
-      <workItem from="1487017174747" duration="3471000" />
+      <workItem from="1487017174747" duration="23075000" />
     </task>
     <task id="LOCAL-00001" summary="correcións trucos alternancia">
       <created>1486988017072</created>
@@ -303,11 +321,67 @@
       <option name="project" value="LOCAL" />
       <updated>1487020091414</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="remodelación trucos alternancia">
+      <created>1487071264983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487071264983</updated>
+    </task>
+    <task id="LOCAL-00007" summary="remodelación de actividade">
+      <created>1487072365015</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487072365015</updated>
+    </task>
+    <task id="LOCAL-00008" summary="correcións">
+      <created>1487073283846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1487073283846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modificacións do TODO">
+      <created>1487079031492</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1487079031492</updated>
+    </task>
+    <task id="LOCAL-00010" summary="correción de abster">
+      <created>1487084778198</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1487084778198</updated>
+    </task>
+    <task id="LOCAL-00011" summary="correción verbo abster I">
+      <created>1487086801317</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1487086801317</updated>
+    </task>
+    <task id="LOCAL-00012" summary="correción actividade">
+      <created>1487088821050</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1487088821050</updated>
+    </task>
+    <task id="LOCAL-00013" summary="nova correción de abster">
+      <created>1487089539793</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1487089539793</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11041000" />
+    <option name="totallyTimeSpent" value="30645000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,18 +393,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="33" width="1115" height="763" extended-state="0" />
+    <frame x="404" y="0" width="876" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24314442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29590642" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33178294" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3309659" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24862888" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -338,7 +413,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -368,23 +442,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="correcións trucos alternancia" />
-    <MESSAGE value="correción de abster" />
     <MESSAGE value="solucion dos fundidos en verde" />
     <MESSAGE value="indexación dos verbos irregulares" />
-    <option name="LAST_COMMIT_MESSAGE" value="indexación dos verbos irregulares" />
+    <MESSAGE value="remodelación trucos alternancia" />
+    <MESSAGE value="remodelación de actividade" />
+    <MESSAGE value="correcións" />
+    <MESSAGE value="modificacións do TODO" />
+    <MESSAGE value="correción de abster" />
+    <MESSAGE value="correción verbo abster I" />
+    <MESSAGE value="correción actividade" />
+    <MESSAGE value="nova correción de abster" />
+    <option name="LAST_COMMIT_MESSAGE" value="nova correción de abster" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Abster.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="540" column="0" lean-forward="true" selection-start-line="540" selection-start-column="0" selection-end-line="540" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -434,14 +508,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -553,6 +619,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="0" column="3488" lean-forward="true" selection-start-line="0" selection-start-column="3488" selection-end-line="0" selection-end-column="3488" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -561,27 +635,117 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="76" column="38" lean-forward="true" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="0" column="30838" lean-forward="false" selection-start-line="0" selection-start-column="30838" selection-end-line="0" selection-end-column="30838" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="0" column="14643" lean-forward="false" selection-start-line="0" selection-start-column="14638" selection-end-line="0" selection-end-column="14643" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="0" column="15179" lean-forward="false" selection-start-line="0" selection-start-column="15174" selection-end-line="0" selection-end-column="15179" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/elements_procurar_irregulares.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5565">
+        <state relative-caret-position="3300">
           <caret line="371" column="5" lean-forward="false" selection-start-line="371" selection-start-column="5" selection-end-line="371" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js">
+    <entry file="file://$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2064">
-          <caret line="0" column="2868" lean-forward="false" selection-start-line="0" selection-start-column="2867" selection-end-line="0" selection-end-column="2868" />
+        <state relative-caret-position="330">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Ater.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="364" column="121" lean-forward="false" selection-start-line="364" selection-start-column="121" selection-end-line="364" selection-end-column="121" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/conter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="364" column="127" lean-forward="false" selection-start-line="364" selection-start-column="127" selection-end-line="364" selection-end-column="127" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/deter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="366" column="33" lean-forward="true" selection-start-line="361" selection-start-column="28" selection-end-line="366" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/generic_2_trucos_alternancia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="858" column="0" lean-forward="true" selection-start-line="858" selection-start-column="0" selection-end-line="858" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="71" column="75" lean-forward="false" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="75" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Abster.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="366" column="33" lean-forward="false" selection-start-line="361" selection-start-column="28" selection-end-line="366" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/ter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="365" column="25" lean-forward="false" selection-start-line="365" selection-start-column="25" selection-end-line="365" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
