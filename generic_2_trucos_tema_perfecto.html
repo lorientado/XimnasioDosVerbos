@@ -350,7 +350,7 @@ presente, pretérito imperfecto, pretérito perfecto, pluscuamperfecto, futuro, 
 
                                     }
                                     .heading-primary {
-                                        font-size:3em;
+                                        font-size:4em;
                                         padding:1em;
                                         text-align:center;
                                     }
@@ -383,16 +383,25 @@ presente, pretérito imperfecto, pretérito perfecto, pluscuamperfecto, futuro, 
                                     }
                                     .accordionTitle,
                                     .accordion__Heading {
-                                        background: rgba(74,88,161,1);
-                                        background: -webkit-linear-gradient(left, rgba(74,88,161,1) 0%, rgba(74,88,161,1) 17%, rgba(180,192,237,1) 93%, rgba(180,192,237,1) 100%);
+                                        background: rgba(28,34,61,0.9);
+                                        background: -moz-linear-gradient(left, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                                        background: -webkit-gradient(left top, right top, color-stop(0%, rgba(28,34,61,0.9)), color-stop(61%, rgba(109,130,223,0.97)), color-stop(89%, rgba(73,102,220,1)), color-stop(95%, rgba(65,96,219,1)));
+                                        background: -webkit-linear-gradient(left, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                                        background: -o-linear-gradient(left, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                                        background: -ms-linear-gradient(left, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                                        background: linear-gradient(to right, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                                        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c223d', endColorstr='#4160db', GradientType=1 );
+                                        border-radius: 9px 9px 9px 9px;
+                                        -moz-border-radius: 9px 9px 9px 9px;
+                                        -webkit-border-radius: 9px 9px 9px 9px;
+                                        border: 0px hidden #000000;
                                         text-align:right;
-                                        font-weight:500;
-                                        padding: 0.7em;
+                                        font-weight:600;
+                                        padding: 0.8em;
                                         display:block;
                                         text-decoration:none;
                                         color:#fff;
                                         transition:background-color 0.5s ease-in-out;
-                                        border-bottom:0px solid darken(#38cc70, 5%);
                                     &:before {
                                          content: "+";
                                          font-size:2.5em;
@@ -401,15 +410,13 @@ presente, pretérito imperfecto, pretérito perfecto, pluscuamperfecto, futuro, 
                                          transition: transform 0.3s ease-in-out;
                                      }
                                     &:hover {
-                                         background-color:darken(#38cc70, 10%);
                                      }
                                     }
                                     .accordionTitleActive,
                                     .accordionTitle.is-expanded {
-                                        background-color:darken(#38cc70, 10%);
                                     &:before {
 
-                                         transform:rotate(-225deg);
+                                         transform:rotate(-125deg);
                                      }
                                     }
                                     .accordionItem {
@@ -468,39 +475,38 @@ presente, pretérito imperfecto, pretérito perfecto, pluscuamperfecto, futuro, 
                                 <div class="accordion">
                                     <dl>
                                         <dt>
-                                            <a href="#accordion1" aria-expanded="false" aria-controls="accordion1" class="accordion-title accordionTitle js-accordionTrigger">+ Info</a>
+                                            <a href="#accordion1" aria-expanded="false" aria-controls="accordion1" class="accordion-title accordionTitle js-accordionTrigger">Xoga co diábolo das desinencias</a>
                                         </dt>
                                         <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
                                             <table>
                                                 <tbody>
                                                 <tr>
                                                     <td>
-                                                        <div><b>Tempos de presente</b> <br>(<i><b>absteñ</b></i>-, <i><b>abste</b></i>- e <i><b>abstiñ</b></i>-)</div>
+                                                        <b>Tempos de presente</b>
                                                     </td>
-                                                </tr>
-                                                <tr>
-                                                    <td bgcolor="#4d536a"><b>Imperfecto</b>
-                                                        <ul><b>Abstiñ</b>a, <b>abstiñ</b>as, <b>abstiñ</b>a...</ul>
-                                                        <b>Futuro</b>
-                                                        <ul><b>Abste</b>rei, <b>abste</b>rás, <b>abste</b>rá...</ul>
-                                                        <b>Condicional</b>
-                                                        <ul><b>Abste</b>ría, <b>abste</b>rías, <b>abste</b>ría...</ul>
-                                                        <b>Presente (Subx.)</b>
-                                                        <ul><b>Absteñ</b>a, <b>absteñ</b>as, <b>absteñ</b>a...</ul>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td> <b>Tempos de pasado</b> <br> (<b><i>abstive</i></b>-)</td>
                                                 </tr>
                                                 <tr>
                                                     <td bgcolor="#4d536a">
-                                                        <b>Pluscuamperfecto</b>
-                                                        <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>ra, <b>abstiv<font color="#52C1E5">ɛ</font></b>ras, <b>abstiv<font color="#52C1E5">ɛ</font></b>ra, <b>abstive</b>ramos, <b>abstive</b>rades e <b>abstiv<font color="#52C1E5">ɛ</font></b>ran </ul>
-                                                        <b>Imperfecto (Subx.)</b>
-                                                        <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>se, <b>abstiv<font color="#52C1E5">ɛ</font></b>ses, <b>abstiv<font color="#52C1E5">ɛ</font></b>se, <b>Abstivé</b>semos, <b>Abstivé</b>sedes e <b>Abstiv<font color="#52C1E5">ɛ</font></b>sen</ul>
-                                                        <b>Futuro (Subx.)</b>
-                                                        <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>r, <b>Abstiv<font color="#52C1E5">ɛ</font></b>res, <b>Abstiv<font color="#52C1E5">ɛ</font></b>r...</ul>
-
+                                                        <p><b>Indicativo</b></p>
+                                                        <ul><a href="assets/xogos/presente_irregular_facer/actividad.html" class="button fit">Presente</a></ul>
+                                                        <ul><a href="assets/xogos/imperfecto_irregular_caber/actividad.html" class="button fit">Imperfecto</a></ul>
+                                                        <ul><a href="assets/xogos/futuro_irregular_ir/actividad.html" class="button fit">Futuro</a></ul>
+                                                        <ul><a href="assets/xogos/condicional_irregular_ver/actividad.html" class="button fit">Condicional</a></ul>
+                                                        <p><b>Subxuntivo</b></p>
+                                                        <ul><a href="assets/xogos/subxuntivo_presente_irregular_vir/actividad.html" class="button fit">Presente</a></ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td> <b>Tempos de pasado</b></td>
+                                                </tr>
+                                                <tr>
+                                                    <td bgcolor="#4d536a">
+                                                        <p><b>Indicativo</b></p>
+                                                        <ul><a href="assets/xogos/perfecto_irregular_ter/actividad.html" class="button fit">Perfecto</a></ul>
+                                                        <ul><a href="assets/xogos/pluscuamperfecto_irregular_ser/actividad.html" class="button fit">Pluscuamperfecto</a></ul>
+                                                        <p><b>Subxuntivo</b></p>
+                                                        <ul><a href="assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.html" class="button fit">Imperfecto</a></ul>
+                                                        <ul><a href="assets/xogos/subxuntivo_futuro_irregular_poner/actividad.html" class="button fit">Futuro</a></ul>
                                                     </td>
                                                 </tr>
                                                 </tbody>
@@ -571,51 +577,8 @@ presente, pretérito imperfecto, pretérito perfecto, pluscuamperfecto, futuro, 
                                 })();
                             </script>
                         </section>
+                        <p>ddd</p>
 
-
-
-
-
-
-                           Presente <a href="assets/xogos/presente_irregular_facer/actividad.html" class="button fit"> > </a>
-
-
-                        <br>
-                            <a href="elements_procurar.html" class="button next scrolly"></a><br>
-
-
-
-
-
-                        </p>
-
-                        <p><a href="assets/xogos/presente_irregular_facer/actividad.html" class="button fit">Presente</a></p>
-
-                        <p><a href="assets/xogos/imperfecto_irregular_caber/actividad.html" class="button fit">Imperfecto</a></p>
-
-                        <p><a href="assets/xogos/perfecto_irregular_ter/actividad.html" class="button fit">Perfecto</a></p>
-
-                        <p><a href="assets/xogos/pluscuamperfecto_irregular_ser/actividad.html" class="button fit">Pluscuamperfecto</a></p>
-
-                        <p><a href="assets/xogos/futuro_irregular_ir/actividad.html" class="button fit">Futuro</a></p>
-
-                        <p><a href="assets/xogos/condicional_irregular_ver/actividad.html" class="button fit">Condicional</a></p>
-
-
-                        <p><b>Subxuntivo</b></p>
-
-                        <p><a href="assets/xogos/subxuntivo_presente_irregular_vir/actividad.html" class="button fit">Presente</a></p>
-
-
-                        <p><a href="assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.html" class="button fit">Imperfecto</a></p>
-
-                        <p><a href="assets/xogos/subxuntivo_futuro_irregular_poner/actividad.html" class="button fit">Futuro</a></p>
-
-
-
-
-
-                        montar s
 
                         <p><a href="assets/xogos/lego dos verbos/actividad.html" class="button fit">O LEGO dos verbos</a></p>
 
