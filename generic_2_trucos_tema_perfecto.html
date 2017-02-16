@@ -340,246 +340,241 @@ presente, pretérito imperfecto, pretérito perfecto, pluscuamperfecto, futuro, 
 
 
 
-    <section>
+                        <section>
 
-        <div class="container">
-            <style>
-                * {
-                    box-sizing:border-box;
-                }
+                            <div class="container">
+                                <style>
+                                    * {
+                                        box-sizing:border-box;
+                                    }
 
-                }
-                .heading-primary {
-                    font-size:2em;
-                    padding:1em;
-                    text-align:center;
-                }
-                .accordion dl,
-                .accordion-list {
-                    border:0px solid #ddd;
-                &:after {
-                     content: "";
-                     display:block;
-                     height:1em;
-                     width:100%;
-                     background-color:darken(#38cc70, 10%);
-                 }
-                }
-                .accordion dd,
-                .accordion__panel {
-                    background-color:#eee;
-                    font-size:1em;
-                    line-height:1.5em;
-                }
-                .accordion p {
-                    padding:1em 2em 1em 2em;
-                }
+                                    }
+                                    .heading-primary {
+                                        font-size:2em;
+                                        padding:1em;
+                                        text-align:center;
+                                    }
+                                    .accordion dl,
+                                    .accordion-list {
+                                        border:0px solid #ddd;
+                                    &:after {
+                                         content: "";
+                                         display:block;
+                                         height:1em;
+                                         width:100%;
+                                         background-color:darken(#38cc70, 10%);
+                                     }
+                                    }
+                                    .accordion dd,
+                                    .accordion__panel {
+                                        background-color:#eee;
+                                        font-size:1em;
+                                        line-height:1.5em;
+                                    }
+                                    .accordion p {
+                                        padding:1em 2em 1em 2em;
+                                    }
 
-                .accordion {
-                    position:relative;
-                    background-color:#eee;
-                }
-                .container {
-                    max-width:660px;
-                    margin:0 auto;
-                    padding: 0.2em 1 1em 0;
-                }
-                .accordionTitle,
-                .accordion__Heading {
-                    background: rgba(74,88,161,1);
-                    background: -moz-linear-gradient(left, rgba(74,88,161,1) 0%, rgba(74,88,161,1) 17%, rgba(180,192,237,1) 93%, rgba(180,192,237,1) 100%);
-                    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(74,88,161,1)), color-stop(17%, rgba(74,88,161,1)), color-stop(93%, rgba(180,192,237,1)), color-stop(100%, rgba(180,192,237,1)));
-                    background: -webkit-linear-gradient(left, rgba(74,88,161,1) 0%, rgba(74,88,161,1) 17%, rgba(180,192,237,1) 93%, rgba(180,192,237,1) 100%);
-                    background: -o-linear-gradient(left, rgba(74,88,161,1) 0%, rgba(74,88,161,1) 17%, rgba(180,192,237,1) 93%, rgba(180,192,237,1) 100%);
-                    background: -ms-linear-gradient(left, rgba(74,88,161,1) 0%, rgba(74,88,161,1) 17%, rgba(180,192,237,1) 93%, rgba(180,192,237,1) 100%);
-                    background: linear-gradient(to right, rgba(74,88,161,1) 0%, rgba(74,88,161,1) 17%, rgba(180,192,237,1) 93%, rgba(180,192,237,1) 100%);
-                    text-align:right;
-                    font-weight:500;
-                    padding: 0.3em;
-                    display:block;
-                    text-decoration:none;
-                    color:#fff;
-                    transition:background-color 0.5s ease-in-out;
-                    border-bottom:1px solid darken(#38cc70, 5%);
-                &:before {
-                     content: "+";
-                     font-size:1.5em;
-                     line-height:0.5em;
-                     float:left;
-                     transition: transform 0.3s ease-in-out;
-                 }
-                &:hover {
-                     background-color:darken(#38cc70, 10%);
-                 }
-                }
-                .accordionTitleActive,
-                .accordionTitle.is-expanded {
-                    background-color:darken(#38cc70, 10%);
-                &:before {
+                                    .accordion {
+                                        position:relative;
+                                        background-color:#eee;
+                                    }
+                                    .container {
+                                        max-width:660px;
+                                        margin:0 auto;
+                                        padding: 0.2em 1 1em 0;
+                                    }
+                                    .accordionTitle,
+                                    .accordion__Heading {
+                                        background: rgba(74,88,161,1);
+                                        background: -webkit-linear-gradient(left, rgba(74,88,161,1) 0%, rgba(74,88,161,1) 17%, rgba(180,192,237,1) 93%, rgba(180,192,237,1) 100%);
+                                        text-align:right;
+                                        font-weight:500;
+                                        padding: 0.3em;
+                                        display:block;
+                                        text-decoration:none;
+                                        color:#fff;
+                                        transition:background-color 0.5s ease-in-out;
+                                        border-bottom:1px solid darken(#38cc70, 5%);
+                                    &:before {
+                                         content: "+";
+                                         font-size:1.5em;
+                                         line-height:0.5em;
+                                         float:left;
+                                         transition: transform 0.3s ease-in-out;
+                                     }
+                                    &:hover {
+                                         background-color:darken(#38cc70, 10%);
+                                     }
+                                    }
+                                    .accordionTitleActive,
+                                    .accordionTitle.is-expanded {
+                                        background-color:darken(#38cc70, 10%);
+                                    &:before {
 
-                     transform:rotate(-225deg);
-                 }
-                }
-                .accordionItem {
-                    height:auto;
-                    overflow:hidden;
-                //SHAME: magic number to allow the accordion to animate
+                                         transform:rotate(-225deg);
+                                     }
+                                    }
+                                    .accordionItem {
+                                        height:auto;
+                                        overflow:hidden;
+                                    //SHAME: magic number to allow the accordion to animate
 
-                max-height:50em;
-                    transition:max-height 1s;
+                                    max-height:50em;
+                                        transition:max-height 1s;
 
 
-                @media screen and (min-width:48em) {
-                    max-height:15em;
-                    transition:max-height 0.5s
+                                    @media screen and (min-width:48em) {
+                                        max-height:15em;
+                                        transition:max-height 0.5s
 
-                }
+                                    }
 
-                }
+                                    }
 
-                .accordionItem.is-collapsed {
-                    max-height:0;
-                }
-                .no-js .accordionItem.is-collapsed {
-                    max-height: auto;
-                }
-                .animateIn {
-                    animation: accordionIn 0.45s normal ease-in-out both 1;
-                }
-                .animateOut {
-                    animation: accordionOut 0.45s alternate ease-in-out both 1;
-                }
-                @keyframes accordionIn {
-                    0% {
-                        opacity: 0;
-                        transform:scale(0.9) rotateX(-60deg);
-                        transform-origin: 50% 0;
-                    }
-                    100% {
-                        opacity:1;
-                        transform:scale(1);
-                    }
-                }
+                                    .accordionItem.is-collapsed {
+                                        max-height:0;
+                                    }
+                                    .no-js .accordionItem.is-collapsed {
+                                        max-height: auto;
+                                    }
+                                    .animateIn {
+                                        animation: accordionIn 0.45s normal ease-in-out both 1;
+                                    }
+                                    .animateOut {
+                                        animation: accordionOut 0.45s alternate ease-in-out both 1;
+                                    }
+                                    @keyframes accordionIn {
+                                        0% {
+                                            opacity: 0;
+                                            transform:scale(0.9) rotateX(-60deg);
+                                            transform-origin: 50% 0;
+                                        }
+                                        100% {
+                                            opacity:1;
+                                            transform:scale(1);
+                                        }
+                                    }
 
-                @keyframes accordionOut {
-                    0% {
-                        opacity: 1;
-                        transform:scale(1);
-                    }
-                    100% {
-                        opacity:0;
-                        transform:scale(0.9) rotateX(-60deg);
-                    }
-                }
+                                    @keyframes accordionOut {
+                                        0% {
+                                            opacity: 1;
+                                            transform:scale(1);
+                                        }
+                                        100% {
+                                            opacity:0;
+                                            transform:scale(0.9) rotateX(-60deg);
+                                        }
+                                    }
 
-            </style>
-            <div class="accordion">
-                <dl>
-                    <dt>
-                        <a href="#accordion1" aria-expanded="false" aria-controls="accordion1" class="accordion-title accordionTitle js-accordionTrigger">+ Info</a>
-                    </dt>
-                    <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
-                        <table>
-                            <tbody>
-                            <tr>
-                                <td>
-                                    <div style="text-align: right; line-height: 370%"><font size="3">Segue o modelo do verbo <a href="ter.html"><b>ter</b></font></a></div>
-                                    <div><b>Tempos de presente</b> <br>(<i><b>absteñ</b></i>-, <i><b>abste</b></i>- e <i><b>abstiñ</b></i>-)</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td bgcolor="#4d536a"><b>Imperfecto</b>
-                                    <ul><b>Abstiñ</b>a, <b>abstiñ</b>as, <b>abstiñ</b>a...</ul>
-                                    <b>Futuro</b>
-                                    <ul><b>Abste</b>rei, <b>abste</b>rás, <b>abste</b>rá...</ul>
-                                    <b>Condicional</b>
-                                    <ul><b>Abste</b>ría, <b>abste</b>rías, <b>abste</b>ría...</ul>
-                                    <b>Presente (Subx.)</b>
-                                    <ul><b>Absteñ</b>a, <b>absteñ</b>as, <b>absteñ</b>a...</ul>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td> <b>Tempos de pasado</b> <br> (<b><i>abstive</i></b>-)</td>
-                            </tr>
-                            <tr>
-                                <td bgcolor="#4d536a">
-                                    <b>Pluscuamperfecto</b>
-                                    <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>ra, <b>abstiv<font color="#52C1E5">ɛ</font></b>ras, <b>abstiv<font color="#52C1E5">ɛ</font></b>ra, <b>abstive</b>ramos, <b>abstive</b>rades e <b>abstiv<font color="#52C1E5">ɛ</font></b>ran </ul>
-                                    <b>Imperfecto (Subx.)</b>
-                                    <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>se, <b>abstiv<font color="#52C1E5">ɛ</font></b>ses, <b>abstiv<font color="#52C1E5">ɛ</font></b>se, <b>Abstivé</b>semos, <b>Abstivé</b>sedes e <b>Abstiv<font color="#52C1E5">ɛ</font></b>sen</ul>
-                                    <b>Futuro (Subx.)</b>
-                                    <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>r, <b>Abstiv<font color="#52C1E5">ɛ</font></b>res, <b>Abstiv<font color="#52C1E5">ɛ</font></b>r...</ul>
+                                </style>
+                                <div class="accordion">
+                                    <dl>
+                                        <dt>
+                                            <a href="#accordion1" aria-expanded="false" aria-controls="accordion1" class="accordion-title accordionTitle js-accordionTrigger">+ Info</a>
+                                        </dt>
+                                        <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
+                                            <table>
+                                                <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <div style="text-align: right; line-height: 370%"><font size="3">Segue o modelo do verbo <a href="ter.html"><b>ter</b></font></a></div>
+                                                        <div><b>Tempos de presente</b> <br>(<i><b>absteñ</b></i>-, <i><b>abste</b></i>- e <i><b>abstiñ</b></i>-)</div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td bgcolor="#4d536a"><b>Imperfecto</b>
+                                                        <ul><b>Abstiñ</b>a, <b>abstiñ</b>as, <b>abstiñ</b>a...</ul>
+                                                        <b>Futuro</b>
+                                                        <ul><b>Abste</b>rei, <b>abste</b>rás, <b>abste</b>rá...</ul>
+                                                        <b>Condicional</b>
+                                                        <ul><b>Abste</b>ría, <b>abste</b>rías, <b>abste</b>ría...</ul>
+                                                        <b>Presente (Subx.)</b>
+                                                        <ul><b>Absteñ</b>a, <b>absteñ</b>as, <b>absteñ</b>a...</ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td> <b>Tempos de pasado</b> <br> (<b><i>abstive</i></b>-)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td bgcolor="#4d536a">
+                                                        <b>Pluscuamperfecto</b>
+                                                        <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>ra, <b>abstiv<font color="#52C1E5">ɛ</font></b>ras, <b>abstiv<font color="#52C1E5">ɛ</font></b>ra, <b>abstive</b>ramos, <b>abstive</b>rades e <b>abstiv<font color="#52C1E5">ɛ</font></b>ran </ul>
+                                                        <b>Imperfecto (Subx.)</b>
+                                                        <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>se, <b>abstiv<font color="#52C1E5">ɛ</font></b>ses, <b>abstiv<font color="#52C1E5">ɛ</font></b>se, <b>Abstivé</b>semos, <b>Abstivé</b>sedes e <b>Abstiv<font color="#52C1E5">ɛ</font></b>sen</ul>
+                                                        <b>Futuro (Subx.)</b>
+                                                        <ul><b>Abstiv<font color="#52C1E5">ɛ</font></b>r, <b>Abstiv<font color="#52C1E5">ɛ</font></b>res, <b>Abstiv<font color="#52C1E5">ɛ</font></b>r...</ul>
 
-                                </td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </dd>
-                </dl>
-            </div>
-        </div>
-        <script>
-            (function(){
-                var d = document,
-                    accordionToggles = d.querySelectorAll('.js-accordionTrigger'),
-                    setAria,
-                    setAccordionAria,
-                    switchAccordion,
-                    touchSupported = ('ontouchstart' in window),
-                    pointerSupported = ('pointerdown' in window);
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                            <script>
+                                (function(){
+                                    var d = document,
+                                        accordionToggles = d.querySelectorAll('.js-accordionTrigger'),
+                                        setAria,
+                                        setAccordionAria,
+                                        switchAccordion,
+                                        touchSupported = ('ontouchstart' in window),
+                                        pointerSupported = ('pointerdown' in window);
 
-                skipClickDelay = function(e){
-                    e.preventDefault();
-                    e.target.click();
-                }
+                                    skipClickDelay = function(e){
+                                        e.preventDefault();
+                                        e.target.click();
+                                    }
 
-                setAriaAttr = function(el, ariaType, newProperty){
-                    el.setAttribute(ariaType, newProperty);
-                };
-                setAccordionAria = function(el1, el2, expanded){
-                    switch(expanded) {
-                        case "true":
-                            setAriaAttr(el1, 'aria-expanded', 'true');
-                            setAriaAttr(el2, 'aria-hidden', 'false');
-                            break;
-                        case "false":
-                            setAriaAttr(el1, 'aria-expanded', 'false');
-                            setAriaAttr(el2, 'aria-hidden', 'true');
-                            break;
-                        default:
-                            break;
-                    }
-                };
+                                    setAriaAttr = function(el, ariaType, newProperty){
+                                        el.setAttribute(ariaType, newProperty);
+                                    };
+                                    setAccordionAria = function(el1, el2, expanded){
+                                        switch(expanded) {
+                                            case "true":
+                                                setAriaAttr(el1, 'aria-expanded', 'true');
+                                                setAriaAttr(el2, 'aria-hidden', 'false');
+                                                break;
+                                            case "false":
+                                                setAriaAttr(el1, 'aria-expanded', 'false');
+                                                setAriaAttr(el2, 'aria-hidden', 'true');
+                                                break;
+                                            default:
+                                                break;
+                                        }
+                                    };
 //function
-                switchAccordion = function(e) {
+                                    switchAccordion = function(e) {
 
-                    e.preventDefault();
-                    var thisAnswer = e.target.parentNode.nextElementSibling;
-                    var thisQuestion = e.target;
-                    if(thisAnswer.classList.contains('is-collapsed')) {
-                        setAccordionAria(thisQuestion, thisAnswer, 'true');
-                    } else {
-                        setAccordionAria(thisQuestion, thisAnswer, 'false');
-                    }
-                    thisQuestion.classList.toggle('is-collapsed');
-                    thisQuestion.classList.toggle('is-expanded');
-                    thisAnswer.classList.toggle('is-collapsed');
-                    thisAnswer.classList.toggle('is-expanded');
+                                        e.preventDefault();
+                                        var thisAnswer = e.target.parentNode.nextElementSibling;
+                                        var thisQuestion = e.target;
+                                        if(thisAnswer.classList.contains('is-collapsed')) {
+                                            setAccordionAria(thisQuestion, thisAnswer, 'true');
+                                        } else {
+                                            setAccordionAria(thisQuestion, thisAnswer, 'false');
+                                        }
+                                        thisQuestion.classList.toggle('is-collapsed');
+                                        thisQuestion.classList.toggle('is-expanded');
+                                        thisAnswer.classList.toggle('is-collapsed');
+                                        thisAnswer.classList.toggle('is-expanded');
 
-                    thisAnswer.classList.toggle('animateIn');
-                };
-                for (var i=0,len=accordionToggles.length; i<len; i++) {
-                    if(touchSupported) {
-                        accordionToggles[i].addEventListener('touchstart', skipClickDelay, false);
-                    }
-                    if(pointerSupported){
-                        accordionToggles[i].addEventListener('pointerdown', skipClickDelay, false);
-                    }
-                    accordionToggles[i].addEventListener('click', switchAccordion, false);
-                }
-            })();
-        </script>
-    </section>
+                                        thisAnswer.classList.toggle('animateIn');
+                                    };
+                                    for (var i=0,len=accordionToggles.length; i<len; i++) {
+                                        if(touchSupported) {
+                                            accordionToggles[i].addEventListener('touchstart', skipClickDelay, false);
+                                        }
+                                        if(pointerSupported){
+                                            accordionToggles[i].addEventListener('pointerdown', skipClickDelay, false);
+                                        }
+                                        accordionToggles[i].addEventListener('click', switchAccordion, false);
+                                    }
+                                })();
+                            </script>
+                        </section>
 
 
 
