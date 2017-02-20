@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Afacer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Afacer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Contrafacer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Contrafacer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Desafacer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Desafacer.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Prueba/ager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/base de datos_para suprimir/verbos_alternancia vocalica.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/base de datos_para suprimir/verbos_irregulares.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Rarefacer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Rarefacer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Refacer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Refacer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Retraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Retraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Tumefacer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Tumefacer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/desfacer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/desfacer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/facer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/facer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/prever.html" afterPath="$PROJECT_DIR$/Data/Irregulares/prever.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/prover.html" afterPath="$PROJECT_DIR$/Data/Irregulares/prover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/satisfacer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/satisfacer.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -429,7 +422,7 @@
       <workItem from="1487243359106" duration="37727000" />
       <workItem from="1487375685473" duration="39342000" />
       <workItem from="1487540776933" duration="452000" />
-      <workItem from="1487548727183" duration="22714000" />
+      <workItem from="1487548727183" duration="22907000" />
     </task>
     <task id="LOCAL-00001" summary="correcións trucos alternancia">
       <created>1486988017072</created>
@@ -589,7 +582,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155935000" />
+    <option name="totallyTimeSpent" value="156128000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -606,8 +599,8 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21754386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24678363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
