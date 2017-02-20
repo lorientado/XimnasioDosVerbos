@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Desouvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Desouvir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Entreouvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Entreouvir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Ouvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Ouvir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Retraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Retraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/caer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/caer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/desoír.html" afterPath="$PROJECT_DIR$/Data/Irregulares/desoír.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/entreoír.html" afterPath="$PROJECT_DIR$/Data/Irregulares/entreoír.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/moer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/moer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/oír.html" afterPath="$PROJECT_DIR$/Data/Irregulares/oír.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/saír.html" afterPath="$PROJECT_DIR$/Data/Irregulares/saír.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/sobresaír.html" afterPath="$PROJECT_DIR$/Data/Irregulares/sobresaír.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,9 +26,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Desouvir.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desouvir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="544" column="8" lean-forward="false" selection-start-line="544" selection-start-column="8" selection-end-line="544" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Entreouvir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Irregulares/Entreouvir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="544" column="8" lean-forward="false" selection-start-line="544" selection-start-column="8" selection-end-line="544" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ouvir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Irregulares/Ouvir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="389" column="36" lean-forward="true" selection-start-line="355" selection-start-column="28" selection-end-line="389" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -65,9 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Advir.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Contravir.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/convir.html" />
@@ -114,8 +145,11 @@
         <option value="$PROJECT_DIR$/Data/Irregulares/saír.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/sobresaír.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/oír.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/desoír.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/entreoír.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/desoír.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Ouvir.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Entreouvir.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Desouvir.html" />
       </list>
     </option>
   </component>
@@ -145,8 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,6 +239,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,6 +254,7 @@
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="js.eslint.eslintPackage" value="" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
@@ -309,6 +344,8 @@
       <workItem from="1487156067596" duration="21356000" />
       <workItem from="1487243359106" duration="37727000" />
       <workItem from="1487375685473" duration="39342000" />
+      <workItem from="1487540776933" duration="452000" />
+      <workItem from="1487548727183" duration="3947000" />
     </task>
     <task id="LOCAL-00001" summary="correcións trucos alternancia">
       <created>1486988017072</created>
@@ -468,7 +505,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132769000" />
+    <option name="totallyTimeSpent" value="137168000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,15 +517,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13185067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12946783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24678363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -498,6 +535,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -550,35 +588,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/convir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="408" column="61" lean-forward="false" selection-start-line="408" selection-start-column="61" selection-end-line="408" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desconvir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="396" column="36" lean-forward="false" selection-start-line="396" selection-start-column="36" selection-end-line="396" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Devir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="407" column="45" lean-forward="false" selection-start-line="407" selection-start-column="45" selection-end-line="407" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desavir.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="409" column="48" lean-forward="false" selection-start-line="409" selection-start-column="48" selection-end-line="409" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2093">
           <caret line="415" column="87" lean-forward="false" selection-start-line="415" selection-start-column="87" selection-end-line="415" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="406" column="107" lean-forward="false" selection-start-line="406" selection-start-column="107" selection-end-line="406" selection-end-column="107" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="411" column="32" lean-forward="true" selection-start-line="411" selection-start-column="32" selection-end-line="411" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="408" column="33" lean-forward="true" selection-start-line="408" selection-start-column="33" selection-end-line="408" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="407" column="37" lean-forward="true" selection-start-line="407" selection-start-column="37" selection-end-line="407" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="406" column="95" lean-forward="false" selection-start-line="406" selection-start-column="95" selection-end-line="406" selection-end-column="95" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="365" column="37" lean-forward="true" selection-start-line="362" selection-start-column="32" selection-end-line="365" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8265">
           <caret line="551" column="8" lean-forward="false" selection-start-line="551" selection-start-column="8" selection-end-line="551" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="218" column="61" lean-forward="false" selection-start-line="218" selection-start-column="61" selection-end-line="218" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="361" column="36" lean-forward="true" selection-start-line="361" selection-start-column="36" selection-end-line="361" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="365" column="33" lean-forward="true" selection-start-line="360" selection-start-column="28" selection-end-line="365" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7980">
           <caret line="532" column="8" lean-forward="false" selection-start-line="532" selection-start-column="8" selection-end-line="532" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="550" column="40" lean-forward="false" selection-start-line="550" selection-start-column="40" selection-end-line="550" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -690,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="398" column="36" lean-forward="true" selection-start-line="367" selection-start-column="28" selection-end-line="398" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="391" column="36" lean-forward="true" selection-start-line="367" selection-start-column="28" selection-end-line="391" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2639">
           <caret line="388" column="131" lean-forward="false" selection-start-line="388" selection-start-column="131" selection-end-line="388" selection-end-column="131" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="139" column="110" lean-forward="false" selection-start-line="139" selection-start-column="110" selection-end-line="139" selection-end-column="110" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2783">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="73" column="94" lean-forward="false" selection-start-line="73" selection-start-column="94" selection-end-line="73" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="73" column="103" lean-forward="false" selection-start-line="73" selection-start-column="103" selection-end-line="73" selection-end-column="103" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="73" column="87" lean-forward="false" selection-start-line="73" selection-start-column="87" selection-end-line="73" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
           <caret line="397" column="36" lean-forward="true" selection-start-line="359" selection-start-column="28" selection-end-line="397" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="365" column="37" lean-forward="false" selection-start-line="362" selection-start-column="32" selection-end-line="365" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="386" column="78" lean-forward="false" selection-start-line="386" selection-start-column="78" selection-end-line="386" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="487">
           <caret line="553" column="12" lean-forward="true" selection-start-line="526" selection-start-column="4" selection-end-line="553" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="547" column="53" lean-forward="false" selection-start-line="547" selection-start-column="53" selection-end-line="547" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,7 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="528" column="48" lean-forward="false" selection-start-line="528" selection-start-column="48" selection-end-line="528" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="553" column="39" lean-forward="false" selection-start-line="553" selection-start-column="39" selection-end-line="553" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="552" column="8" lean-forward="false" selection-start-line="552" selection-start-column="8" selection-end-line="552" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,7 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="367" column="37" lean-forward="true" selection-start-line="362" selection-start-column="32" selection-end-line="367" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -826,7 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="547">
           <caret line="548" column="7" lean-forward="true" selection-start-line="548" selection-start-column="7" selection-end-line="548" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="544" column="40" lean-forward="false" selection-start-line="544" selection-start-column="40" selection-end-line="544" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="544" column="39" lean-forward="false" selection-start-line="544" selection-start-column="39" selection-end-line="544" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="544" column="37" lean-forward="false" selection-start-line="544" selection-start-column="37" selection-end-line="544" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="457">
           <caret line="538" column="54" lean-forward="false" selection-start-line="538" selection-start-column="54" selection-end-line="538" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="366" column="37" lean-forward="true" selection-start-line="361" selection-start-column="32" selection-end-line="366" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="350" column="0" lean-forward="true" selection-start-line="350" selection-start-column="0" selection-end-line="350" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="192" column="104" lean-forward="true" selection-start-line="192" selection-start-column="104" selection-end-line="192" selection-end-column="104" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="373" column="33" lean-forward="true" selection-start-line="373" selection-start-column="33" selection-end-line="373" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="365" column="117" lean-forward="false" selection-start-line="365" selection-start-column="117" selection-end-line="365" selection-end-column="117" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="455" column="58" lean-forward="false" selection-start-line="455" selection-start-column="28" selection-end-line="455" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -914,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="366" column="37" lean-forward="false" selection-start-line="361" selection-start-column="32" selection-end-line="366" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="366" column="37" lean-forward="true" selection-start-line="361" selection-start-column="32" selection-end-line="366" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,30 +900,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="389" column="33" lean-forward="true" selection-start-line="389" selection-start-column="33" selection-end-line="389" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/desoír.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="368" column="37" lean-forward="true" selection-start-line="361" selection-start-column="32" selection-end-line="368" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/Irregulares/entreoír.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="503" column="40" lean-forward="false" selection-start-line="503" selection-start-column="40" selection-end-line="503" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/desoír.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="542" column="40" lean-forward="true" selection-start-line="542" selection-start-column="40" selection-end-line="542" selection-end-column="40" />
+        <state relative-caret-position="375">
+          <caret line="364" column="44" lean-forward="false" selection-start-line="364" selection-start-column="44" selection-end-line="364" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/Irregulares/oír.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="561" column="8" lean-forward="true" selection-start-line="530" selection-start-column="4" selection-end-line="561" selection-end-column="8" />
+        <state relative-caret-position="315">
+          <caret line="388" column="32" lean-forward="true" selection-start-line="388" selection-start-column="32" selection-end-line="388" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Ouvir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="389" column="36" lean-forward="true" selection-start-line="355" selection-start-column="28" selection-end-line="389" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Entreouvir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="544" column="8" lean-forward="false" selection-start-line="544" selection-start-column="8" selection-end-line="544" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desouvir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="544" column="8" lean-forward="false" selection-start-line="544" selection-start-column="8" selection-end-line="544" selection-end-column="8" />
           <folding />
         </state>
       </provider>
