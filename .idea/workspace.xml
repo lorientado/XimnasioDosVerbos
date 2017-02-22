@@ -2,39 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Antepor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Antepor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Apor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Apor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Arrepor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Arrepor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Compor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Compor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Contrapor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Contrapor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Desapor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Desapor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Descompor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Descompor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Dispor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Dispor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Expor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Expor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Impor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Impor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Indispor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Indispor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Interpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Interpor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/bulir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/bulir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Antepoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Antepoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Apoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Apoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Arrepoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Arrepoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Contrapoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Contrapoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Depoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Depoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Desapoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Desapoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Descompoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Descompoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Expoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Expoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Impoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Impoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Indispoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Indispoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Interpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Interpoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Opor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Opor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Pospor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Pospor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Predispor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Predispor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Presupor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Presupor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Propor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Propor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Recompor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Recompor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Recompoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Recompoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reimpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reimpor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reimpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reimpoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Repoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Repoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Retraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Retraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrepoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrepoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subexpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subexpor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subexpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subexpoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Superpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Superpor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Traspor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Traspor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Xustapor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Xustapor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/depor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/depor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Superpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Superpoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Traspoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Traspoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Xustapoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Xustapoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/compoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/compoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/dispoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/dispoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/poñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/poñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/sobreexpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/sobreexpor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/supor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/supor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/sobreexpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/sobreexpoñer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/supoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/supoñer.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,11 +50,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="poñer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data/Irregulares/poñer.html">
+      <file leaf-file-name="Xustapoñer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/Irregulares/Xustapoñer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="373" column="253" lean-forward="false" selection-start-line="373" selection-start-column="253" selection-end-line="373" selection-end-column="253" />
+            <state relative-caret-position="573">
+              <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,31 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Irregulares/ver.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/rever.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/entrever.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/prever.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/prover.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Afacer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Contrafacer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Desafacer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/desfacer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Rarefacer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Refacer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Tumefacer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/satisfacer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/facer.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Dicir.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/predicir.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/contradicir.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Desdicir.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Advir.html" />
-        <option value="$PROJECT_DIR$/elements_procurar.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Maldicir.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Bendicir.html" />
-        <option value="$PROJECT_DIR$/elements_procurar_irregulares.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/pór.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/poñer.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Antepor.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Apor.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Arrepor.html" />
@@ -155,6 +128,31 @@
         <option value="$PROJECT_DIR$/Data/Irregulares/supor.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Traspor.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Xustapor.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/bulir.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/poñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Antepoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Apoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Arrepoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/compoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Contrapoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Depoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Desapoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Descompoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/dispoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Expoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Impoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Indispoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Interpoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Recompoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Reimpoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Repoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/sobreexpoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Sobrepoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Subexpoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Superpoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/supoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Traspoñer.html" />
+        <option value="$PROJECT_DIR$/Data/Irregulares/Xustapoñer.html" />
       </list>
     </option>
   </component>
@@ -165,9 +163,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="642" />
-    <option name="width" value="638" />
-    <option name="height" value="800" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -261,7 +259,6 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -351,7 +348,7 @@
       <workItem from="1487243359106" duration="37727000" />
       <workItem from="1487375685473" duration="39342000" />
       <workItem from="1487540776933" duration="452000" />
-      <workItem from="1487548727183" duration="48536000" />
+      <workItem from="1487548727183" duration="50403000" />
     </task>
     <task id="LOCAL-00001" summary="correcións trucos alternancia">
       <created>1486988017072</created>
@@ -518,7 +515,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181757000" />
+    <option name="totallyTimeSpent" value="183624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,10 +527,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="642" y="0" width="638" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2917342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19777602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
@@ -601,248 +598,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Abstraer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="379" column="135" lean-forward="true" selection-start-line="379" selection-start-column="90" selection-end-line="379" selection-end-column="135" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/prover.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="362" column="117" lean-forward="false" selection-start-line="362" selection-start-column="117" selection-end-line="362" selection-end-column="117" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/ver.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="392" column="36" lean-forward="true" selection-start-line="355" selection-start-column="28" selection-end-line="392" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/prever.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="386" column="36" lean-forward="true" selection-start-line="355" selection-start-column="28" selection-end-line="386" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/ser.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="477" column="65" lean-forward="false" selection-start-line="477" selection-start-column="35" selection-end-line="477" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Afacer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="383" column="273" lean-forward="false" selection-start-line="383" selection-start-column="273" selection-end-line="383" selection-end-column="273" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Contrafacer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="384" column="303" lean-forward="false" selection-start-line="384" selection-start-column="303" selection-end-line="384" selection-end-column="303" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desafacer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="384" column="291" lean-forward="false" selection-start-line="384" selection-start-column="291" selection-end-line="384" selection-end-column="291" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/desfacer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="384" column="285" lean-forward="false" selection-start-line="384" selection-start-column="285" selection-end-line="384" selection-end-column="285" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Rarefacer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="384" column="291" lean-forward="false" selection-start-line="384" selection-start-column="291" selection-end-line="384" selection-end-column="291" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Refacer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="384" column="279" lean-forward="false" selection-start-line="384" selection-start-column="279" selection-end-line="384" selection-end-column="279" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/satisfacer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="382" column="57" lean-forward="true" selection-start-line="382" selection-start-column="57" selection-end-line="382" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/facer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="389" column="291" lean-forward="false" selection-start-line="389" selection-start-column="291" selection-end-line="389" selection-end-column="291" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Tumefacer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="386" column="0" lean-forward="false" selection-start-line="386" selection-start-column="0" selection-end-line="386" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/predicir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="497" column="12" lean-forward="true" selection-start-line="464" selection-start-column="4" selection-end-line="497" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/contradicir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="494" column="41" lean-forward="false" selection-start-line="494" selection-start-column="41" selection-end-line="494" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="83" column="41" lean-forward="false" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Advir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="363" column="40" lean-forward="true" selection-start-line="360" selection-start-column="36" selection-end-line="363" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desdicir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="547" column="12" lean-forward="true" selection-start-line="518" selection-start-column="4" selection-end-line="547" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Maldicir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="570" column="12" lean-forward="true" selection-start-line="541" selection-start-column="4" selection-end-line="570" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Bendicir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="577" column="0" lean-forward="false" selection-start-line="577" selection-start-column="0" selection-end-line="577" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar_irregulares.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="280" column="112" lean-forward="false" selection-start-line="280" selection-start-column="112" selection-end-line="280" selection-end-column="112" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Dicir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="358" column="87" lean-forward="true" selection-start-line="358" selection-start-column="53" selection-end-line="358" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Antepor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8685">
-          <caret line="579" column="0" lean-forward="true" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Apor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Arrepor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="552" column="8" lean-forward="true" selection-start-line="552" selection-start-column="8" selection-end-line="552" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Compor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="554" column="24" lean-forward="false" selection-start-line="554" selection-start-column="24" selection-end-line="554" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Contrapor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="579" column="0" lean-forward="true" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/depor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="548" column="17" lean-forward="false" selection-start-line="548" selection-start-column="17" selection-end-line="548" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desapor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="622">
@@ -1011,10 +766,242 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/bulir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="451" column="28" lean-forward="true" selection-start-line="451" selection-start-column="28" selection-end-line="451" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Antepoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Apoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Arrepoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/compoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Contrapoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Depoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="568" column="9" lean-forward="true" selection-start-line="568" selection-start-column="9" selection-end-line="568" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desapoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Descompoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/dispoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="547" column="0" lean-forward="true" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Expoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Impoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Indispoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="1162" column="0" lean-forward="false" selection-start-line="1162" selection-start-column="0" selection-end-line="1162" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Irregulares/poñer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="373" column="253" lean-forward="false" selection-start-line="373" selection-start-column="253" selection-end-line="373" selection-end-column="253" />
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Interpoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Opoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Pospoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Predispoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Presupoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Propoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Recompoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="false" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Reimpoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Repoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/sobreexpoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Sobrepoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Subexpoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Superpoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/supoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Traspoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Xustapoñer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="581" column="0" lean-forward="true" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
           <folding />
         </state>
       </provider>
