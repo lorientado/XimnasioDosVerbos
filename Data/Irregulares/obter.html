@@ -2,7 +2,7 @@
 <html >
 <head>
     <meta charset="UTF-8">
-    <title>ter</title>
+    <title>obter</title>
 
     <!--link rel="stylesheet" href="/www/css/table_style.css"-->
 
@@ -216,7 +216,7 @@
 
 <body>
 <div class="table-title">
-    <h3 style="text-align: center;"><font color="B4C0ED">Obter</font></h3>
+    <h3 style="text-align: center;"><font color="B4C0ED">Obt</font>er</h3>
 
     <section>
 
@@ -240,7 +240,6 @@
                      display:block;
                      height:1em;
                      width:100%;
-                     background-color:darken(#38cc70, 10%);
                  }
                 }
                 .accordion dd,
@@ -278,7 +277,6 @@
                     text-decoration:none;
                     color:#fff;
                     transition:background-color 0.5s ease-in-out;
-                    border-bottom:1px solid darken(#38cc70, 5%);
                 &:before {
                      content: "+";
                      font-size:1.5em;
@@ -287,12 +285,10 @@
                      transition: transform 0.3s ease-in-out;
                  }
                 &:hover {
-                     background-color:darken(#38cc70, 10%);
                  }
                 }
                 .accordionTitleActive,
                 .accordionTitle.is-expanded {
-                    background-color:darken(#38cc70, 10%);
                 &:before {
 
                      transform:rotate(-225deg);
@@ -360,25 +356,33 @@
                         <table>
                             <tbody>
                             <tr>
-                                <td> <b>Tempos de presente</b> </td>
-                            </tr>
-                            <tr>
-                                <td bgcolor="#4d536a">Son todos os verbos rematados en <b>-<font color="#5bd6ff">e</font>r</b>
-                                    <ul>dadfadfadfad</ul>
-                                    <ul>dadfadfadfad</ul>
-                                    <ul>dadfadfadfad</ul>
-
+                                <td>
+                                    <div style="text-align: right; line-height: 370%"><font size="3">Segue o modelo do verbo <a href="ter.html"><b>ter</b></font></a></div>
+                                    <div><b>Tempos de presente</b> <br>(<i><b>obteñ</b></i>-, <i><b>obte</b></i>- e <i><b>obtiñ</b></i>-)</div>
                                 </td>
                             </tr>
                             <tr>
-                                <td> <b>Tempos de pasado</b> </td>
+                                <td bgcolor="#4d536a"><b>Imperfecto</b>
+                                    <ul><b>Obtiñ</b>a, <b>obtiñ</b>as, <b>obtiñ</b>a...</ul>
+                                    <b>Futuro</b>
+                                    <ul><b>Obte</b>rei, <b>obte</b>rás, <b>obte</b>rá...</ul>
+                                    <b>Condicional</b>
+                                    <ul><b>Obte</b>ría, <b>obte</b>rías, <b>obte</b>ría, <b>obte</b>riamos, <b>obte</b>riades e <b>obte</b>rían</ul>
+                                    <b>Presente (Subx.)</b>
+                                    <ul><b>Obteñ</b>a, <b>obteñ</b>as, <b>obteñ</b>a...</ul>
+                                </td>
                             </tr>
                             <tr>
-                                <td bgcolor="#4d536a">Son todos os verbos rematados en <b>-<font color="#5bd6ff">i</font>r</b>
-
-                                    <ul>dadfadfadfad</ul>
-                                    <ul>dadfadfadfad</ul>
-                                    <ul>dadfadfadfad</ul>
+                                <td> <b>Tempos de pasado</b> <br> (<b><i>obtive</i></b>-)</td>
+                            </tr>
+                            <tr>
+                                <td bgcolor="#4d536a">
+                                    <b>Pluscuamperfecto</b>
+                                    <ul><b>Obtiv<font color="#52C1E5">ɛ</font></b>ra, <b>obtiv<font color="#52C1E5">ɛ</font></b>ras, <b>obtiv<font color="#52C1E5">ɛ</font></b>ra, <b>obtive</b>ramos, <b>obtive</b>rades e <b>obtiv<font color="#52C1E5">ɛ</font></b>ran </ul>
+                                    <b>Imperfecto (Subx.)</b>
+                                    <ul><b>Obtiv<font color="#52C1E5">ɛ</font></b>se, <b>obtiv<font color="#52C1E5">ɛ</font></b>ses, <b>obtiv<font color="#52C1E5">ɛ</font></b>se, <b>obtivé</b>semos, <b>obtivé</b>sedes e <b>obtiv<font color="#52C1E5">ɛ</font></b>sen</ul>
+                                    <b>Futuro (Subx.)</b>
+                                    <ul><b>Obtiv<font color="#52C1E5">ɛ</font></b>r, <b>obtiv<font color="#52C1E5">ɛ</font></b>res, <b>obtiv<font color="#52C1E5">ɛ</font></b>r...</ul>
 
                                 </td>
                             </tr>
@@ -391,12 +395,12 @@
         <script>
             (function(){
                 var d = document,
-                        accordionToggles = d.querySelectorAll('.js-accordionTrigger'),
-                        setAria,
-                        setAccordionAria,
-                        switchAccordion,
-                        touchSupported = ('ontouchstart' in window),
-                        pointerSupported = ('pointerdown' in window);
+                    accordionToggles = d.querySelectorAll('.js-accordionTrigger'),
+                    setAria,
+                    setAccordionAria,
+                    switchAccordion,
+                    touchSupported = ('ontouchstart' in window),
+                    pointerSupported = ('pointerdown' in window);
 
                 skipClickDelay = function(e){
                     e.preventDefault();
@@ -464,35 +468,27 @@
     <tbody class="table-hover">
     <tr>
         <td class="text-center">Eu</td>
-        <td class="text-center">Obteño</td>
-
+        <td class="text-center"><b>Obteñ</b>o</td>
     </tr>
     <tr>
         <td class="text-center">Ti</td>
-        <td class="text-center">Obtiv<b>e</b><font color="#52C1E5">ɛ</font>ches</td>
-
+        <td class="text-center"><b>Obt<font color="#52C1E5">é</font></b>s [<font color="#52C1E5">ɛ</font>]</td>
     </tr>
     <tr>
         <td class="text-center">El ou ela</td>
-        <td class="text-center">Obt<b>é</b><font color="#52C1E5">ɛ</font>chesn</td>
-
+        <td class="text-center"><b>Obt<font color="#52C1E5">é</font>n</b> [<font color="#52C1E5">ɛ</font>]</td>
     </tr>
     <tr>
         <td class="text-center">Nós</td>
-        <td class="text-center">Obtemos</td>
-
-
+        <td class="text-center"><b>Obte</b>mos</td>
     </tr>
     <tr>
         <td class="text-center">Vós</td>
-        <td class="text-center">Obtedes ou obtendes</td>
-
+        <td class="text-center"><b>Obte</b>des ou <b>obten</b>des</td>
     </tr>
-
     <tr>
         <td class="text-center">Eles ou elas</td>
-        <td class="text-center">Obt<b>e</b><font color="#52C1E5">ɛ</font>ñen</td>
-
+        <td class="text-center"><b>Obt<font color="#52C1E5">ɛ</font>ñ</b>en</td>
     </tr>
     </tbody>
 </table>
@@ -517,42 +513,29 @@
     <tbody class="table-hover">
     <tr>
         <td class="text-center">Eu</td>
-        <td class="text-center">Obtiven</td>
-
+        <td class="text-center"><b>Obtive</b>n</td>
     </tr>
     <tr>
         <td class="text-center">Ti</td>
-        <td class="text-center">Obtiv<b>e</b><font color="#52C1E5">ɛ</font>ches</td>
-
+        <td class="text-center"><b>Obtiv<font color="#52C1E5">ɛ</font></b>ches</td>
     </tr>
     <tr>
         <td class="text-center">El ou ela</td>
-        <td class="text-center">Obtivo</td>
-
+        <td class="text-center"><b>Obtivo</b></td>
     </tr>
     <tr>
         <td class="text-center">Nós</td>
-        <td class="text-center">Obtiv<b>e</b><font color="#52C1E5">ɛ</font>mos</td>
-
-
-</body>
-
-
-
-</td>
-</tr>
-<tr>
-    <td class="text-center">Vós</td>
-    <td class="text-center">Obtiv<b>e</b><font color="#52C1E5">ɛ</font>stes</td>
-
-</tr>
-
-<tr>
-    <td class="text-center">Eles ou elas</td>
-    <td class="text-center">Obtiv<b>e</b><font color="#52C1E5">ɛ</font>ron</td>
-
-</tr>
-</tbody>
+        <td class="text-center"><b>Obtiv<font color="#52C1E5">ɛ</font></b>mos</td>
+    </tr>
+    <tr>
+        <td class="text-center">Vós</td>
+        <td class="text-center"><b>Obtiv<font color="#52C1E5">ɛ</font></b>stes</td>
+    </tr>
+    <tr>
+        <td class="text-center">Eles ou elas</td>
+        <td class="text-center"><b>Obtiv<font color="#52C1E5">ɛ</font></b>ron</td>
+    </tr>
+    </tbody>
 </table>
 
 
