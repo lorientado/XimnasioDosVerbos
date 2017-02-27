@@ -2,10 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="correcións de verbos">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo servir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo servir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/perseguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/perseguir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ferir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
@@ -14,7 +47,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.html" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,33 +74,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="levar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html">
+      <file leaf-file-name="servir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="404" column="20" lean-forward="true" selection-start-line="355" selection-start-column="12" selection-end-line="404" selection-end-column="20" />
+            <state relative-caret-position="280">
+              <caret line="570" column="7" lean-forward="true" selection-start-line="518" selection-start-column="0" selection-end-line="570" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="explicacións_modelo servir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo servir.html">
+      <file leaf-file-name="ferir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/ferir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="272" column="55" lean-forward="true" selection-start-line="272" selection-start-column="55" selection-end-line="272" selection-end-column="55" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="1630">
+              <caret line="482" column="30" lean-forward="false" selection-start-line="482" selection-start-column="30" selection-end-line="482" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servir.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html">
+      <file leaf-file-name="malferir.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/malferir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="376" column="58" lean-forward="false" selection-start-line="376" selection-start-column="58" selection-end-line="376" selection-end-column="58" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,7 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>subex</find>
       <find>traduci</find>
       <find>fix</find>
       <find>tume</find>
@@ -106,8 +135,9 @@
       <find>demo</find>
       <find>&lt;/i&gt;&lt;/b&gt;</find>
       <find>print</find>
-      <find>existen algu</find>
       <find>&lt;/font&gt;</find>
+      <find>Compara con outros modelos de alternancia vocálica</find>
+      <find>existen algu</find>
     </findStrings>
     <replaceStrings>
       <replace>prac</replace>
@@ -151,57 +181,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo pedir.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/inxerir.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/inserir.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/sentar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" />
         <option value="$PROJECT_DIR$/elements_procurar_alternancia.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/querer.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/querer.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/poder.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/poder.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html" />
         <option value="$PROJECT_DIR$/generic_2_trucos_alternancia.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo servir.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/perseguir.html" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/ferir.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" />
       </list>
     </option>
   </component>
@@ -407,7 +437,7 @@
       <workItem from="1487748794130" duration="20061000" />
       <workItem from="1487789326296" duration="46405000" />
       <workItem from="1487977685719" duration="30151000" />
-      <workItem from="1488101079399" duration="10654000" />
+      <workItem from="1488101079399" duration="14177000" />
     </task>
     <task id="LOCAL-00001" summary="correcións trucos alternancia">
       <created>1486988017072</created>
@@ -609,7 +639,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291812000" />
+    <option name="totallyTimeSpent" value="295335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -627,6 +657,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19459888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47562778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32496306" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24678363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32053176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -639,7 +670,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47562778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -712,94 +742,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/inxerir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="503" column="0" lean-forward="true" selection-start-line="503" selection-start-column="0" selection-end-line="503" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/inserir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="497" column="31" lean-forward="false" selection-start-line="497" selection-start-column="31" selection-end-line="497" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo pedir.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="262" column="0" lean-forward="false" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="528" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="473" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="530" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="543" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="542" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="519" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="516" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="535" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/sentar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="541" column="35" lean-forward="false" selection-start-line="541" selection-start-column="35" selection-end-line="541" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="389" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="557" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -810,234 +756,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="365" column="117" lean-forward="false" selection-start-line="365" selection-start-column="117" selection-end-line="365" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="538" column="35" lean-forward="false" selection-start-line="538" selection-start-column="35" selection-end-line="538" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="527" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="526" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="545" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="527" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="356" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="272" column="175" lean-forward="false" selection-start-line="272" selection-start-column="175" selection-end-line="272" selection-end-column="175" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="366" column="5" lean-forward="true" selection-start-line="366" selection-start-column="5" selection-end-line="377" selection-end-column="59" />
-          <folding>
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="407" column="20" lean-forward="true" selection-start-line="358" selection-start-column="12" selection-end-line="407" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="403" column="20" lean-forward="true" selection-start-line="354" selection-start-column="12" selection-end-line="403" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="574" column="0" lean-forward="true" selection-start-line="521" selection-start-column="0" selection-end-line="574" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="403" column="20" lean-forward="true" selection-start-line="354" selection-start-column="12" selection-end-line="403" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="577" column="7" lean-forward="true" selection-start-line="525" selection-start-column="0" selection-end-line="577" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="575" column="0" lean-forward="true" selection-start-line="521" selection-start-column="0" selection-end-line="575" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="574" column="0" lean-forward="true" selection-start-line="521" selection-start-column="0" selection-end-line="574" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="403" column="20" lean-forward="true" selection-start-line="355" selection-start-column="14" selection-end-line="403" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="403" column="20" lean-forward="true" selection-start-line="354" selection-start-column="12" selection-end-line="403" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="573" column="7" lean-forward="true" selection-start-line="521" selection-start-column="0" selection-end-line="573" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="570" column="0" lean-forward="true" selection-start-line="517" selection-start-column="0" selection-end-line="570" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="570" column="7" lean-forward="true" selection-start-line="518" selection-start-column="0" selection-end-line="570" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="570" column="7" lean-forward="true" selection-start-line="518" selection-start-column="0" selection-end-line="570" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="570" column="7" lean-forward="true" selection-start-line="518" selection-start-column="0" selection-end-line="570" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="400" column="20" lean-forward="true" selection-start-line="354" selection-start-column="12" selection-end-line="400" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1081,28 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="363" column="18" lean-forward="true" selection-start-line="363" selection-start-column="18" selection-end-line="363" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="358" column="47" lean-forward="true" selection-start-line="358" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic_2_trucos_alternancia.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1129,26 +829,330 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo servir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="272" column="55" lean-forward="true" selection-start-line="272" selection-start-column="55" selection-end-line="272" selection-end-column="55" />
+        <state relative-caret-position="325">
+          <caret line="258" column="10" lean-forward="true" selection-start-line="258" selection-start-column="10" selection-end-line="258" selection-end-column="10" />
           <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="404" column="20" lean-forward="true" selection-start-line="355" selection-start-column="12" selection-end-line="404" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="376" column="58" lean-forward="false" selection-start-line="376" selection-start-column="58" selection-end-line="376" selection-end-column="58" />
+        <state relative-caret-position="280">
+          <caret line="570" column="7" lean-forward="true" selection-start-line="518" selection-start-column="0" selection-end-line="570" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="392" column="100" lean-forward="false" selection-start-line="392" selection-start-column="100" selection-end-line="392" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="394" column="100" lean-forward="true" selection-start-line="394" selection-start-column="100" selection-end-line="394" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="392" column="100" lean-forward="false" selection-start-line="392" selection-start-column="100" selection-end-line="392" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="400" column="102" lean-forward="false" selection-start-line="400" selection-start-column="102" selection-end-line="400" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="392" column="100" lean-forward="false" selection-start-line="392" selection-start-column="100" selection-end-line="392" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="384" column="100" lean-forward="false" selection-start-line="384" selection-start-column="100" selection-end-line="384" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="397" column="100" lean-forward="false" selection-start-line="397" selection-start-column="100" selection-end-line="397" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="392" column="100" lean-forward="false" selection-start-line="392" selection-start-column="100" selection-end-line="392" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="394" column="100" lean-forward="false" selection-start-line="394" selection-start-column="100" selection-end-line="394" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="384" column="100" lean-forward="false" selection-start-line="384" selection-start-column="100" selection-end-line="384" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="392" column="100" lean-forward="false" selection-start-line="392" selection-start-column="100" selection-end-line="392" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="397" column="100" lean-forward="false" selection-start-line="397" selection-start-column="100" selection-end-line="397" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="397" column="100" lean-forward="false" selection-start-line="397" selection-start-column="100" selection-end-line="397" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="398" column="100" lean-forward="false" selection-start-line="398" selection-start-column="100" selection-end-line="398" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="401" column="100" lean-forward="false" selection-start-line="401" selection-start-column="100" selection-end-line="401" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="392" column="100" lean-forward="false" selection-start-line="392" selection-start-column="100" selection-end-line="392" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="392" column="100" lean-forward="false" selection-start-line="392" selection-start-column="100" selection-end-line="392" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="397" column="100" lean-forward="false" selection-start-line="397" selection-start-column="100" selection-end-line="397" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="397" column="100" lean-forward="false" selection-start-line="397" selection-start-column="100" selection-end-line="397" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="395" column="100" lean-forward="false" selection-start-line="395" selection-start-column="100" selection-end-line="395" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="397" column="100" lean-forward="false" selection-start-line="397" selection-start-column="100" selection-end-line="397" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="394" column="100" lean-forward="false" selection-start-line="394" selection-start-column="100" selection-end-line="394" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="397" column="100" lean-forward="false" selection-start-line="397" selection-start-column="100" selection-end-line="397" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="398" column="100" lean-forward="false" selection-start-line="398" selection-start-column="100" selection-end-line="398" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="394" column="100" lean-forward="false" selection-start-line="394" selection-start-column="100" selection-end-line="394" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="396" column="23" lean-forward="true" selection-start-line="396" selection-start-column="23" selection-end-line="396" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/sentar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="380" column="21" lean-forward="false" selection-start-line="380" selection-start-column="21" selection-end-line="380" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/ferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1630">
+          <caret line="482" column="30" lean-forward="false" selection-start-line="482" selection-start-column="30" selection-end-line="482" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/malferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
