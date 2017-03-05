@@ -30,21 +30,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="elements_procurar_alternancia.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="elements_procurar_alternancia.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="119" column="61" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="elements_procurar_irregulares.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="elements_procurar_irregulares.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_procurar_irregulares.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="130" column="75" lean-forward="false" selection-start-line="130" selection-start-column="75" selection-end-line="130" selection-end-column="75" />
+            <state relative-caret-position="285">
+              <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -178,8 +178,8 @@
         <option value="$PROJECT_DIR$/Data/Irregulares/Antepor.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/andar.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Afacer.html" />
-        <option value="$PROJECT_DIR$/elements_procurar_alternancia.html" />
         <option value="$PROJECT_DIR$/elements_procurar_irregulares.html" />
+        <option value="$PROJECT_DIR$/elements_procurar_alternancia.html" />
       </list>
     </option>
   </component>
@@ -393,7 +393,7 @@
       <workItem from="1487789326296" duration="46405000" />
       <workItem from="1487977685719" duration="30151000" />
       <workItem from="1488101079399" duration="77451000" />
-      <workItem from="1488390059175" duration="86229000" />
+      <workItem from="1488390059175" duration="86456000" />
     </task>
     <task id="LOCAL-00001" summary="correcións trucos alternancia">
       <created>1486988017072</created>
@@ -682,11 +682,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488709669808</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="correcións de verbos">
+      <created>1488710309643</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1488710309643</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="444838000" />
+    <option name="totallyTimeSpent" value="445065000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1181,18 +1188,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
+    <entry file="file://$PROJECT_DIR$/elements_procurar_irregulares.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="119" column="61" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar_irregulares.html">
+    <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="130" column="75" lean-forward="false" selection-start-line="130" selection-start-column="75" selection-end-line="130" selection-end-column="75" />
+        <state relative-caret-position="240">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
