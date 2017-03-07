@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
@@ -12,10 +10,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.html" afterPath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/common.js" afterPath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/styles_com.css" afterPath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/styles_com.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" afterPath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,8 +31,8 @@
       <file leaf-file-name="generic_2_trucos_tema_perfecto.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="382" column="60" lean-forward="false" selection-start-line="382" selection-start-column="60" selection-end-line="382" selection-end-column="60" />
+            <state relative-caret-position="308">
+              <caret line="620" column="36" lean-forward="false" selection-start-line="620" selection-start-column="36" selection-end-line="620" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#ul#1;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#ul#1;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -207,9 +201,9 @@
         <option value="$PROJECT_DIR$/xogos_alternancia.html" />
         <option value="$PROJECT_DIR$/xogos_perfecto.html" />
         <option value="$PROJECT_DIR$/generic_2_trucos_alternancia.html" />
-        <option value="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
         <option value="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
+        <option value="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
       </list>
     </option>
   </component>
@@ -427,7 +421,7 @@
       <workItem from="1488390059175" duration="86517000" />
       <workItem from="1488714536100" duration="5020000" />
       <workItem from="1488724909783" duration="22918000" />
-      <workItem from="1488903115259" duration="4268000" />
+      <workItem from="1488903115259" duration="7042000" />
     </task>
     <task id="LOCAL-00001" summary="correcións trucos alternancia">
       <created>1486988017072</created>
@@ -776,7 +770,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477332000" />
+    <option name="totallyTimeSpent" value="480106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -789,9 +783,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224432" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
@@ -1239,8 +1233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="382" column="60" lean-forward="false" selection-start-line="382" selection-start-column="60" selection-end-line="382" selection-end-column="60" />
+        <state relative-caret-position="308">
+          <caret line="620" column="36" lean-forward="false" selection-start-line="620" selection-start-column="36" selection-end-line="620" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#ul#1;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#ul#1;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
