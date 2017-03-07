@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="es" xmlns="http://www.w3.org/1999/xhtml">
+<html>
 	<head>
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=0">
 		<title>Actividad Completar</title>
 		<link rel="stylesheet" type="text/css" href="styles_com.css">
 		<link rel="stylesheet" type="text/css" href="styles_part.css">
 				<script src="actividad.js"></script>
-				<script src="common.js"></script>
+		<script src="common.js"></script>
 		<script src="particulars.js"></script>
         <script>
 			$(document).data("loadingXmlError","Error en la lectura del fichero XML");
@@ -18,13 +18,7 @@
 	<body>
     
         <!-- Logo personalizado -->
-    <div class="logoPersonalizado">
-        <div class="padLogoPersonalizado">
-            <img id="imgLogo" src=""/>
-        </div>
-    </div>
-        
-    <div id="all">
+
         <!-- cargando -->
 
         
@@ -75,10 +69,15 @@
 						<div class="btnComenzar" id="btnComenzarInicio">
 							<a href="#" class="btn btn-large btn-primary" id="btnComenzar"></a>
 						</div>
-
 					</div>
 				</div>
 				<div class="clear"></div>
+			</div>
+			<div id="banner">
+				<div class="blockBanner">
+            		<div class="close" id="cerrarPubli"><a href="#">&times;</a></div>
+            		<a id="enlacePubli" href="javascript: return false;" target="_blank" rel="nofollow"><img id ="bannerPubli" src="img_html5/adrBanner.png" alt=""></a>
+        		</div>
 			</div>
 		</div>
 
@@ -89,7 +88,6 @@
            		<div class="row">
                  
 					<div class="optionsAct ri">
-                        <a href="#" id="enlacePantallaCompleta" class="full" target="_blank"><div id="tooltipPC" class="tooltip abajo izquierda"></div></a>
                         <a href="#" id="enlaceReiniciar" class="reiniciar"><div id="tooltipR" class="tooltip abajo izquierda"></div></a>
 					</div>
 					
