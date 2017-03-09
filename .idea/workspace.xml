@@ -2,36 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/Bgplayer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/bgarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/iError.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/iExtraInfo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/iPlayer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/iconoRelacionar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/iconsWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/logoEducaplay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/img_html5/preload.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/img_html5/barraV.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/img_html5/bgarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/img_html5/iPlayer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/img_html5/iconoCompletar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/img_html5/iconsWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/jq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/particulars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/styles_com.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/styles_part.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/jq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/particulars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/styles_com.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/styles_part.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
@@ -41,8 +11,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_perfecto.html" afterPath="$PROJECT_DIR$/adestramento_perfecto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" afterPath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,10 +28,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="adestramento_perfecto.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="adestramento_perfecto.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
+            <state relative-caret-position="1432">
               <caret line="376" column="104" lean-forward="false" selection-start-line="376" selection-start-column="104" selection-end-line="376" selection-end-column="104" />
               <folding />
             </state>
@@ -90,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -462,14 +430,7 @@
       <workItem from="1488714536100" duration="5020000" />
       <workItem from="1488724909783" duration="22918000" />
       <workItem from="1488903115259" duration="8683000" />
-      <workItem from="1488966975988" duration="18303000" />
-    </task>
-    <task id="LOCAL-00004" summary="solucion dos fundidos en verde">
-      <created>1487019024290</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1487019024290</updated>
+      <workItem from="1488966975988" duration="18524000" />
     </task>
     <task id="LOCAL-00005" summary="indexación dos verbos irregulares">
       <created>1487020091414</created>
@@ -807,11 +768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489062026006</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="revisión de actividades">
+      <created>1489065342187</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1489065342187</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="500050000" />
+    <option name="totallyTimeSpent" value="500271000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -824,9 +792,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224432" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
@@ -1249,14 +1217,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="376" column="104" lean-forward="false" selection-start-line="376" selection-start-column="104" selection-end-line="376" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1281,6 +1241,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="607">
@@ -1289,10 +1257,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js">
+    <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1432">
+          <caret line="376" column="104" lean-forward="false" selection-start-line="376" selection-start-column="104" selection-end-line="376" selection-end-column="104" />
           <folding />
         </state>
       </provider>
