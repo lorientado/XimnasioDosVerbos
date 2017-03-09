@@ -2,42 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/img_html5/bgarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/img_html5/iconoRelacionarColumnas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/img_html5/iconsWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/img_html5/luzIntensa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/bgarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iForm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iconoTest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iconsWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/jq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/particulars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/styles_com.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/styles_part.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/jq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/particulars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/styles_com.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/styles_part.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/Bgplayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iError.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iExtraInfo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iInfoAdicionalBig.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iLupa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iMultimedia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/logoEducaplay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/preload.gif" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iPlayer.png" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iPlayer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iPlayerReducido.png" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iPlayerReducido.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
@@ -78,8 +42,8 @@
       <file leaf-file-name="adestramento_alternancia.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="360" column="104" lean-forward="false" selection-start-line="360" selection-start-column="104" selection-end-line="360" selection-end-column="104" />
+            <state relative-caret-position="-225">
+              <caret line="375" column="171" lean-forward="false" selection-start-line="375" selection-start-column="171" selection-end-line="375" selection-end-column="171" />
               <folding />
             </state>
           </provider>
@@ -213,8 +177,8 @@
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html" />
-        <option value="$PROJECT_DIR$/adestramento_alternancia.html" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
+        <option value="$PROJECT_DIR$/adestramento_alternancia.html" />
       </list>
     </option>
   </component>
@@ -437,14 +401,7 @@
       <workItem from="1488714536100" duration="5020000" />
       <workItem from="1488724909783" duration="22918000" />
       <workItem from="1488903115259" duration="8683000" />
-      <workItem from="1488966975988" duration="16838000" />
-    </task>
-    <task id="LOCAL-00003" summary="correción de abster">
-      <created>1487009674212</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1487009674212</updated>
+      <workItem from="1488966975988" duration="17099000" />
     </task>
     <task id="LOCAL-00004" summary="solucion dos fundidos en verde">
       <created>1487019024290</created>
@@ -782,11 +739,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489022017710</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="revisión de actividades">
+      <created>1489062026006</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1489062026006</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="498585000" />
+    <option name="totallyTimeSpent" value="498846000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -799,9 +763,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224432" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
@@ -1262,8 +1226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="360" column="104" lean-forward="false" selection-start-line="360" selection-start-column="104" selection-end-line="360" selection-end-column="104" />
+        <state relative-caret-position="-225">
+          <caret line="375" column="171" lean-forward="false" selection-start-line="375" selection-start-column="171" selection-end-line="375" selection-end-column="171" />
           <folding />
         </state>
       </provider>
