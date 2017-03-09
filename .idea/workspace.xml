@@ -2,33 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/Bgplayer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/bgarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iError.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iExtraInfo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iForm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iInfoAdicionalBig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iLupa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iMultimedia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iPlayer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iPlayerReducido.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iconoTest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iconsWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/logoEducaplay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/preload.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/jq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/particulars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/styles_com.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/styles_part.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/img_html5/bgarrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/img_html5/iconoRelacionarColumnas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/img_html5/iconsWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/img_html5/luzIntensa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/bgarrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iForm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iconoTest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iconsWhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/jq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/particulars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/pub.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/styles_com.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/styles_part.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/jq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/particulars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/pub.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/styles_com.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/styles_part.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/Bgplayer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iError.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iExtraInfo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iInfoAdicionalBig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iLupa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iMultimedia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/logoEducaplay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/preload.gif" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iPlayer.png" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iPlayer.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/img_html5/iPlayerReducido.png" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/img_html5/iPlayerReducido.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/varrer.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/varrer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
@@ -37,9 +47,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/varrer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/varrer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_alternancia.html" afterPath="$PROJECT_DIR$/adestramento_alternancia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_perfecto.html" afterPath="$PROJECT_DIR$/adestramento_perfecto.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,41 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generic_2_trucos_alternancia.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generic_2_trucos_alternancia.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-173">
-              <caret line="717" column="114" lean-forward="false" selection-start-line="717" selection-start-column="114" selection-end-line="717" selection-end-column="115" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="adestramento_alternancia.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="323" column="92" lean-forward="false" selection-start-line="323" selection-start-column="92" selection-end-line="323" selection-end-column="92" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actividad.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-900">
-              <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="0" column="13495" lean-forward="false" selection-start-line="0" selection-start-column="13495" selection-end-line="0" selection-end-column="13495" />
+            <state relative-caret-position="390">
+              <caret line="360" column="104" lean-forward="false" selection-start-line="360" selection-start-column="104" selection-end-line="360" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -111,8 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>repoñer</find>
-      <find>#FE6E42&quot;&gt;ó</find>
       <find>&quot;#52C1E5&gt;</find>
       <find>#FE6E42&quot;&gt;é</find>
       <find>&gt;ɛ&lt;</find>
@@ -137,10 +113,12 @@
       <find>intento</find>
       <find>xunta</find>
       <find>png</find>
-      <find>img</find>
       <find>número</find>
+      <find>img</find>
+      <find>intent</find>
       <find>print</find>
       <find>activid</find>
+      <find>quen</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;Pre</replace>
@@ -186,10 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Irregulares/Abster.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/ter.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Advir.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Ater.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Avir.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/conter.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Contravir.html" />
@@ -236,7 +210,11 @@
         <option value="$PROJECT_DIR$/adestramento_perfecto.html" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html" />
         <option value="$PROJECT_DIR$/adestramento_alternancia.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
       </list>
     </option>
   </component>
@@ -459,14 +437,7 @@
       <workItem from="1488714536100" duration="5020000" />
       <workItem from="1488724909783" duration="22918000" />
       <workItem from="1488903115259" duration="8683000" />
-      <workItem from="1488966975988" duration="14952000" />
-    </task>
-    <task id="LOCAL-00002" summary="correcións trucos alternancia">
-      <created>1487007349879</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1487007349879</updated>
+      <workItem from="1488966975988" duration="16838000" />
     </task>
     <task id="LOCAL-00003" summary="correción de abster">
       <created>1487009674212</created>
@@ -804,11 +775,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488917459114</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="revisión de actividades">
+      <created>1489022017709</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1489022017710</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="496699000" />
+    <option name="totallyTimeSpent" value="498585000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -913,34 +891,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/convir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="496" column="59" lean-forward="false" selection-start-line="496" selection-start-column="59" selection-end-line="496" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desavir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="498" column="60" lean-forward="false" selection-start-line="498" selection-start-column="60" selection-end-line="498" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Desconvir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="498" column="62" lean-forward="false" selection-start-line="498" selection-start-column="62" selection-end-line="498" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/deter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="480" column="58" lean-forward="false" selection-start-line="480" selection-start-column="58" selection-end-line="480" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Irregulares/Devir.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -973,6 +923,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="478" column="58" lean-forward="false" selection-start-line="478" selection-start-column="58" selection-end-line="478" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -994,6 +945,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="497" column="61" lean-forward="false" selection-start-line="497" selection-start-column="61" selection-end-line="497" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,6 +967,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="498" column="61" lean-forward="false" selection-start-line="498" selection-start-column="61" selection-end-line="498" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,6 +982,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="478" column="59" lean-forward="false" selection-start-line="478" selection-start-column="59" selection-end-line="478" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,14 +1196,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generic_2_trucos_alternancia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="717" column="114" lean-forward="false" selection-start-line="717" selection-start-column="114" selection-end-line="717" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -1274,10 +1220,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1970">
+          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2922" lean-forward="false" selection-start-line="0" selection-start-column="2915" selection-end-line="0" selection-end-column="2922" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic_2_trucos_alternancia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="932" column="24" lean-forward="true" selection-start-line="932" selection-start-column="24" selection-end-line="932" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="0" column="3284" lean-forward="false" selection-start-line="0" selection-start-column="3284" selection-end-line="0" selection-end-column="3284" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="323" column="92" lean-forward="false" selection-start-line="323" selection-start-column="92" selection-end-line="323" selection-end-column="92" />
+        <state relative-caret-position="390">
+          <caret line="360" column="104" lean-forward="false" selection-start-line="360" selection-start-column="104" selection-end-line="360" selection-end-column="104" />
           <folding />
         </state>
       </provider>
