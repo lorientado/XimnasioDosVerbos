@@ -2,186 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/audio1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/audio2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/audio3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/audio4.ogg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acubrir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acubrir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acudir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acudir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/asentir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/asentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/bulir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/bulir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chuspir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chuspir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conseguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conseguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/consentir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/consentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/consumir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/consumir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conxunguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conxunguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cubrir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cubrir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cumprir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cumprir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cuspir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cuspir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descubrir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descubrir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deslucir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deslucir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desmentir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desmentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desurdir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desurdir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desxunguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desxunguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/disentir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/disentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/durmir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/durmir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/encubrir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/encubrir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/engulir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/engulir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ensumir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ensumir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entrelucir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entrelucir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo servir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo servir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo_subir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo_subir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ferir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fundir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fundir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fuxir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fuxir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/lucir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/lucir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/malferir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/malferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mentir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mulir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mulir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/munguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/munguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/muxir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/muxir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/perseguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/perseguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/presentir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/presentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/proseguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/proseguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pulir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pulir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rebulir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rebulir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recubrir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recubrir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/redescubrir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/redescubrir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/relucir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/relucir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/resentir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/resentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rexurdir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rexurdir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ruxir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ruxir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sacudir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sacudir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/seguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/seguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sentar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sentar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sentir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/subir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/subir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/subseguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/subseguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sufrir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sufrir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sumir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sumir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/translucir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/translucir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tremelucir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tremelucir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tusir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tusir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ulir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ulir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/urdir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/urdir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xunguir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xunguir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xurdir.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xurdir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Abster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Abster.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Antepor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Antepor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Antepoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Antepoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Apor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Apor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Apoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Apoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Arrepor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Arrepor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Arrepoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Arrepoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Ater.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Ater.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Compor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Compor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Contrapor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Contrapor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Contrapoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Contrapoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Depoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Depoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Desapor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Desapor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Desapoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Desapoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Descompor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Descompor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Descompoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Descompoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Dispor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Dispor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Entreter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Entreter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Expor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Expor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Expoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Expoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Impor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Impor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Impoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Impoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Indispor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Indispor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Indispoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Indispoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Interpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Interpor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Interpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Interpoñer.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sons/audio1.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sons/audio2.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sons/audio3.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/sons/audio4.ogg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Opor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Opor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Opoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Opoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Pospor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Pospor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Pospoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Pospoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Predispor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Predispor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Predispoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Predispoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Presupor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Presupor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Presupoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Presupoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Propor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Propor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Propoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Propoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Recompor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Recompor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Recompoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Recompoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reimpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reimpor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reimpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reimpoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Repor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Repor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Repoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Repoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Retraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Retraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Retrotraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrepor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrepor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrepoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrepoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subexpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subexpor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subexpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subexpoñer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Superpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Superpor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Superpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Superpoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Traspor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Traspor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Traspoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Traspoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Xustapor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Xustapor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Xustapoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Xustapoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/compoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/compoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/conter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/conter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/convir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/convir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/depor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/depor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/deter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/deter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/dispoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/dispoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/explicacións_segunda conxugación.html" afterPath="$PROJECT_DIR$/Data/Irregulares/explicacións_segunda conxugación.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/manter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/manter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/sobreexpor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/sobreexpor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/sobreexpoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/sobreexpoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/supor.html" afterPath="$PROJECT_DIR$/Data/Irregulares/supor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/supoñer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/supoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/vir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/vir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_alternancia.html" afterPath="$PROJECT_DIR$/adestramento_alternancia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generic_2_trucos_alternancia.html" afterPath="$PROJECT_DIR$/generic_2_trucos_alternancia.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_procurar.html" afterPath="$PROJECT_DIR$/elements_procurar.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -198,7 +32,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="elements_procurar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elements_procurar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="126" column="69" lean-forward="false" selection-start-line="126" selection-start-column="69" selection-end-line="126" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adestramento_alternancia.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="108" column="43" lean-forward="false" selection-start-line="108" selection-start-column="43" selection-end-line="108" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -228,10 +83,10 @@
       <find>activida</find>
       <find>puntuación</find>
       <find>superaches</find>
-      <find>.ogg</find>
       <find>ɔ</find>
       <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɔ&lt;/b&gt;&lt;/font&gt;]</find>
       <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;]</find>
+      <find>.ogg</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;Pre</replace>
@@ -277,8 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Irregulares/Dispor.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/dispoñer.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Expor.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Expoñer.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Impor.html" />
@@ -328,6 +181,8 @@
         <option value="$PROJECT_DIR$/Data/Irregulares/Reter.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/vir.html" />
+        <option value="$PROJECT_DIR$/elements_procurar.html" />
+        <option value="$PROJECT_DIR$/adestramento_alternancia.html" />
       </list>
     </option>
   </component>
@@ -358,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -383,46 +239,9 @@
               <option name="myItemId" value="Data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Irregulares" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ximnasio_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ximnasio_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Alternancia_Vocalica" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ximnasio_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ximnasio_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -551,6 +370,7 @@
       <workItem from="1488724909783" duration="22918000" />
       <workItem from="1488903115259" duration="8683000" />
       <workItem from="1488966975988" duration="28588000" />
+      <workItem from="1489100097762" duration="1063000" />
     </task>
     <task id="LOCAL-00005" summary="indexación dos verbos irregulares">
       <created>1487020091414</created>
@@ -899,7 +719,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="510335000" />
+    <option name="totallyTimeSpent" value="511398000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -911,13 +731,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68607956" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6854962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224432" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24678363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31960228" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1004,43 +824,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/dispoñer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="491" column="139" lean-forward="false" selection-start-line="491" selection-start-column="139" selection-end-line="491" selection-end-column="139" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Expor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="508" column="138" lean-forward="false" selection-start-line="508" selection-start-column="138" selection-end-line="508" selection-end-column="138" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Expoñer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="491" column="138" lean-forward="false" selection-start-line="491" selection-start-column="138" selection-end-line="491" selection-end-column="138" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Impor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="508" column="138" lean-forward="false" selection-start-line="508" selection-start-column="138" selection-end-line="508" selection-end-column="138" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Irregulares/Impoñer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="138" lean-forward="false" selection-start-line="491" selection-start-column="138" selection-end-line="491" selection-end-column="138" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="141" lean-forward="false" selection-start-line="508" selection-start-column="141" selection-end-line="508" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="141" lean-forward="false" selection-start-line="491" selection-start-column="141" selection-end-line="491" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="141" lean-forward="false" selection-start-line="508" selection-start-column="141" selection-end-line="508" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1072,7 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="141" lean-forward="false" selection-start-line="491" selection-start-column="141" selection-end-line="491" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="137" lean-forward="false" selection-start-line="508" selection-start-column="137" selection-end-line="508" selection-end-column="137" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="137" lean-forward="false" selection-start-line="491" selection-start-column="137" selection-end-line="491" selection-end-column="137" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,7 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="139" lean-forward="false" selection-start-line="508" selection-start-column="139" selection-end-line="508" selection-end-column="139" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="139" lean-forward="false" selection-start-line="491" selection-start-column="139" selection-end-line="491" selection-end-column="139" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1112,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="142" lean-forward="false" selection-start-line="508" selection-start-column="142" selection-end-line="508" selection-end-column="142" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,7 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="142" lean-forward="false" selection-start-line="491" selection-start-column="142" selection-end-line="491" selection-end-column="142" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,7 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="141" lean-forward="false" selection-start-line="508" selection-start-column="141" selection-end-line="508" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,7 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="141" lean-forward="false" selection-start-line="491" selection-start-column="141" selection-end-line="491" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1144,7 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="139" lean-forward="false" selection-start-line="508" selection-start-column="139" selection-end-line="508" selection-end-column="139" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1152,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="139" lean-forward="false" selection-start-line="491" selection-start-column="139" selection-end-line="491" selection-end-column="139" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="141" lean-forward="false" selection-start-line="508" selection-start-column="141" selection-end-line="508" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="141" lean-forward="false" selection-start-line="491" selection-start-column="141" selection-end-line="491" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1176,7 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="140" lean-forward="false" selection-start-line="508" selection-start-column="140" selection-end-line="508" selection-end-column="140" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1184,7 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="140" lean-forward="false" selection-start-line="491" selection-start-column="140" selection-end-line="491" selection-end-column="140" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,7 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="138" lean-forward="false" selection-start-line="508" selection-start-column="138" selection-end-line="508" selection-end-column="138" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,7 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="138" lean-forward="false" selection-start-line="491" selection-start-column="138" selection-end-line="491" selection-end-column="138" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1208,7 +975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="143" lean-forward="false" selection-start-line="508" selection-start-column="143" selection-end-line="508" selection-end-column="143" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1216,7 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="143" lean-forward="false" selection-start-line="491" selection-start-column="143" selection-end-line="491" selection-end-column="143" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1224,7 +989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="141" lean-forward="false" selection-start-line="508" selection-start-column="141" selection-end-line="508" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1232,7 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="141" lean-forward="false" selection-start-line="491" selection-start-column="141" selection-end-line="491" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1240,7 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="141" lean-forward="false" selection-start-line="508" selection-start-column="141" selection-end-line="508" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,7 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="140" lean-forward="false" selection-start-line="491" selection-start-column="140" selection-end-line="491" selection-end-column="140" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,7 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="141" lean-forward="false" selection-start-line="508" selection-start-column="141" selection-end-line="508" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="141" lean-forward="false" selection-start-line="491" selection-start-column="141" selection-end-line="491" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1272,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="138" lean-forward="false" selection-start-line="508" selection-start-column="138" selection-end-line="508" selection-end-column="138" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1280,7 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="138" lean-forward="false" selection-start-line="491" selection-start-column="138" selection-end-line="491" selection-end-column="138" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1288,7 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="140" lean-forward="false" selection-start-line="508" selection-start-column="140" selection-end-line="508" selection-end-column="140" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1296,7 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4228">
           <caret line="491" column="141" lean-forward="false" selection-start-line="491" selection-start-column="141" selection-end-line="491" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1304,7 +1059,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="508" column="141" lean-forward="false" selection-start-line="508" selection-start-column="141" selection-end-line="508" selection-end-column="141" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1312,7 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="491" column="140" lean-forward="false" selection-start-line="491" selection-start-column="140" selection-end-line="491" selection-end-column="140" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1408,6 +1161,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="478" column="139" lean-forward="false" selection-start-line="478" selection-start-column="139" selection-end-line="478" selection-end-column="139" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_procurar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="126" column="69" lean-forward="false" selection-start-line="126" selection-start-column="69" selection-end-line="126" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="108" column="43" lean-forward="false" selection-start-line="108" selection-start-column="43" selection-end-line="108" selection-end-column="43" />
           <folding />
         </state>
       </provider>
