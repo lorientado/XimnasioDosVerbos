@@ -11,53 +11,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_estar/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_estar/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_estar/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/presente_estar/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_haber/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_haber/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_haber/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/presente_haber/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_ir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_ir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_ir/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/presente_ir/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -108,7 +61,7 @@
       <file leaf-file-name="actividad.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="299">
               <caret line="342" column="12" lean-forward="false" selection-start-line="342" selection-start-column="12" selection-end-line="342" selection-end-column="12" />
               <folding />
             </state>
@@ -257,8 +210,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -376,7 +330,6 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.xogar.html">
     <configuration default="false" name="xogar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/xogar.html">
@@ -488,14 +441,7 @@
       <workItem from="1488724909783" duration="22918000" />
       <workItem from="1488903115259" duration="8683000" />
       <workItem from="1488966975988" duration="28588000" />
-      <workItem from="1489100097762" duration="3978000" />
-    </task>
-    <task id="LOCAL-00005" summary="indexación dos verbos irregulares">
-      <created>1487020091414</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1487020091414</updated>
+      <workItem from="1489100097762" duration="4044000" />
     </task>
     <task id="LOCAL-00006" summary="remodelación trucos alternancia">
       <created>1487071264983</created>
@@ -833,11 +779,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489065342187</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="revisión de actividades">
+      <created>1489142870728</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1489142870729</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="514313000" />
+    <option name="totallyTimeSpent" value="514379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -849,7 +802,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1344,7 +1297,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="299">
           <caret line="342" column="12" lean-forward="false" selection-start-line="342" selection-start-column="12" selection-end-line="342" selection-end-column="12" />
           <folding />
         </state>
