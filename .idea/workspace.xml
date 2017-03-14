@@ -11,8 +11,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_perfecto.html" afterPath="$PROJECT_DIR$/adestramento_perfecto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" afterPath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,34 +29,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="adestramento_perfecto.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="adestramento_perfecto.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="358" column="100" lean-forward="false" selection-start-line="358" selection-start-column="100" selection-end-line="358" selection-end-column="100" />
+            <state relative-caret-position="1567">
+              <caret line="358" column="46" lean-forward="false" selection-start-line="358" selection-start-column="46" selection-end-line="358" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#2;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actividad.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="0" column="13832" lean-forward="false" selection-start-line="0" selection-start-column="13832" selection-end-line="0" selection-end-column="13832" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -66,7 +45,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>intento</find>
       <find>xunta</find>
       <find>png</find>
       <find>número</find>
@@ -83,12 +61,10 @@
       <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɔ&lt;/b&gt;&lt;/font&gt;]</find>
       <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;]</find>
       <find>.ogg</find>
-      <find>xogar</find>
       <find>va</find>
       <find>comenzar</find>
       <find>unha base</find>
       <find>comenz</find>
-      <find>print</find>
       <find>adrban</find>
       <find>div</find>
       <find>actividade</find>
@@ -96,6 +72,9 @@
       <find>comenza</find>
       <find>autor</find>
       <find>contén</find>
+      <find>xogar</find>
+      <find>intento</find>
+      <find>print</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;Pre</replace>
@@ -191,9 +170,9 @@
         <option value="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
         <option value="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
-        <option value="$PROJECT_DIR$/adestramento_perfecto.html" />
-        <option value="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" />
+        <option value="$PROJECT_DIR$/adestramento_perfecto.html" />
       </list>
     </option>
   </component>
@@ -246,6 +225,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xogos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ximnasio_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xogos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irregulares_rosca" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -398,14 +417,7 @@
       <workItem from="1489100097762" duration="4163000" />
       <workItem from="1489144807717" duration="2381000" />
       <workItem from="1489321357931" duration="521000" />
-      <workItem from="1489407961958" duration="5588000" />
-    </task>
-    <task id="LOCAL-00006" summary="remodelación trucos alternancia">
-      <created>1487071264983</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1487071264983</updated>
+      <workItem from="1489407961958" duration="6785000" />
     </task>
     <task id="LOCAL-00007" summary="remodelación de actividade">
       <created>1487072365015</created>
@@ -743,11 +755,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489142870729</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="revisión de actividades">
+      <created>1489427752313</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1489427752314</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="522988000" />
+    <option name="totallyTimeSpent" value="524185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -760,9 +779,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45454547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1184,16 +1203,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="358" column="100" lean-forward="false" selection-start-line="358" selection-start-column="100" selection-end-line="358" selection-end-column="100" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#2;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/irregulares_rosca/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -1204,17 +1213,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="0" column="13832" lean-forward="false" selection-start-line="0" selection-start-column="13832" selection-end-line="0" selection-end-column="13832" />
+        <state relative-caret-position="337">
+          <caret line="0" column="11878" lean-forward="false" selection-start-line="0" selection-start-column="11878" selection-end-line="0" selection-end-column="11878" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="1320">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1567">
+          <caret line="358" column="46" lean-forward="false" selection-start-line="358" selection-start-column="46" selection-end-line="358" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#dd#0;n#dl#2;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
