@@ -10,8 +10,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_alternancia.html" afterPath="$PROJECT_DIR$/adestramento_alternancia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_rosca_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_rosca_contrarreloxo/actividad.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,8 +41,8 @@
       <file leaf-file-name="actividad.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_rosca_contrarreloxo/actividad.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="0" column="13804" lean-forward="false" selection-start-line="0" selection-start-column="13804" selection-end-line="0" selection-end-column="13804" />
+            <state relative-caret-position="424">
+              <caret line="0" column="12431" lean-forward="false" selection-start-line="0" selection-start-column="12431" selection-end-line="0" selection-end-column="12431" />
               <folding />
             </state>
           </provider>
@@ -411,7 +410,7 @@
       <workItem from="1489100097762" duration="4163000" />
       <workItem from="1489144807717" duration="2381000" />
       <workItem from="1489321357931" duration="521000" />
-      <workItem from="1489407961958" duration="15512000" />
+      <workItem from="1489407961958" duration="15987000" />
     </task>
     <task id="LOCAL-00007" summary="remodelación de actividade">
       <created>1487072365015</created>
@@ -760,7 +759,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="532912000" />
+    <option name="totallyTimeSpent" value="533387000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -775,7 +774,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45454547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1269,8 +1268,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_rosca_contrarreloxo/actividad.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="0" column="13804" lean-forward="false" selection-start-line="0" selection-start-column="13804" selection-end-line="0" selection-end-column="13804" />
+        <state relative-caret-position="424">
+          <caret line="0" column="12431" lean-forward="false" selection-start-line="0" selection-start-column="12431" selection-end-line="0" selection-end-column="12431" />
           <folding />
         </state>
       </provider>
