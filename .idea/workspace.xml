@@ -2,28 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/img_html5/bgarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/img_html5/iPlayer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/img_html5/iconoRuletaPalabras.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/img_html5/iconsWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/jq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/jquery.fittext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/particulars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/pub.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/styles_com.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/styles_part.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
@@ -32,29 +10,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_alternancia.html" afterPath="$PROJECT_DIR$/adestramento_alternancia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_perfecto.html" afterPath="$PROJECT_DIR$/adestramento_perfecto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_estar/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_estar/actividad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xogos_alternancia.html" afterPath="$PROJECT_DIR$/xogos_alternancia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xogos_perfecto.html" afterPath="$PROJECT_DIR$/xogos_perfecto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_ir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_ir/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,21 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="0" column="12917" lean-forward="false" selection-start-line="0" selection-start-column="12917" selection-end-line="0" selection-end-column="12917" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="actividad.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/presente_haber/actividad.js">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="5817" lean-forward="false" selection-start-line="0" selection-start-column="5817" selection-end-line="0" selection-end-column="5817" />
+              <caret line="0" column="8196" lean-forward="false" selection-start-line="0" selection-start-column="8196" selection-end-line="0" selection-end-column="8196" />
               <folding />
             </state>
           </provider>
@@ -116,7 +72,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>intent</find>
       <find>activid</find>
       <find>quen</find>
       <find>prin</find>
@@ -146,6 +101,7 @@
       <find>maiú</find>
       <find>case superior</find>
       <find>comen</find>
+      <find>48</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;Pre</replace>
@@ -193,22 +149,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.xml" />
         <option value="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.xml" />
         <option value="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.xml" />
         <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.xml" />
         <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.xml" />
         <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.xml" />
         <option value="$PROJECT_DIR$/assets/xogos/presente_haber/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/presente_ir/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" />
-        <option value="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
         <option value="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
         <option value="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" />
@@ -226,7 +172,6 @@
         <option value="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.html" />
         <option value="$PROJECT_DIR$/adestramento_perfecto.html" />
-        <option value="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js" />
@@ -244,6 +189,17 @@
         <option value="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.js" />
         <option value="$PROJECT_DIR$/assets/xogos/presente_estar/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/presente_ir/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/presente_ser/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
       </list>
     </option>
   </component>
@@ -466,7 +422,7 @@
       <workItem from="1489100097762" duration="4163000" />
       <workItem from="1489144807717" duration="2381000" />
       <workItem from="1489321357931" duration="521000" />
-      <workItem from="1489407961958" duration="12095000" />
+      <workItem from="1489407961958" duration="12454000" />
     </task>
     <task id="LOCAL-00007" summary="remodelación de actividade">
       <created>1487072365015</created>
@@ -815,7 +771,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="529495000" />
+    <option name="totallyTimeSpent" value="529854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -833,7 +789,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1683876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45454547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45454547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224432" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24678363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31960228" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -920,76 +876,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5733" lean-forward="false" selection-start-line="0" selection-start-column="5733" selection-end-line="0" selection-end-column="5733" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5970" lean-forward="false" selection-start-line="0" selection-start-column="5970" selection-end-line="0" selection-end-column="5970" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6173" lean-forward="false" selection-start-line="0" selection-start-column="6173" selection-end-line="0" selection-end-column="6173" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7853" lean-forward="false" selection-start-line="0" selection-start-column="7853" selection-end-line="0" selection-end-column="7853" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6757" lean-forward="false" selection-start-line="0" selection-start-column="6757" selection-end-line="0" selection-end-column="6757" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7065" lean-forward="false" selection-start-line="0" selection-start-column="7065" selection-end-line="0" selection-end-column="7065" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5931" lean-forward="false" selection-start-line="0" selection-start-column="5931" selection-end-line="0" selection-end-column="5931" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8253" lean-forward="false" selection-start-line="0" selection-start-column="8253" selection-end-line="0" selection-end-column="8253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/presente_ser/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5549" lean-forward="false" selection-start-line="0" selection-start-column="5549" selection-end-line="0" selection-end-column="5549" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="136" column="354" lean-forward="false" selection-start-line="136" selection-start-column="354" selection-end-line="136" selection-end-column="354" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5295">
@@ -1302,18 +1188,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="0" column="12917" lean-forward="false" selection-start-line="0" selection-start-column="12917" selection-end-line="0" selection-end-column="12917" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/presente_haber/actividad.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5817" lean-forward="false" selection-start-line="0" selection-start-column="5817" selection-end-line="0" selection-end-column="5817" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="0" column="2444" lean-forward="false" selection-start-line="0" selection-start-column="2444" selection-end-line="0" selection-end-column="2444" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/presente_ir/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5781" lean-forward="true" selection-start-line="0" selection-start-column="5781" selection-end-line="0" selection-end-column="5804" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/presente_irregular_facer/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5988" lean-forward="false" selection-start-line="0" selection-start-column="5988" selection-end-line="0" selection-end-column="5988" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/presente_ser/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5820" lean-forward="false" selection-start-line="0" selection-start-column="5820" selection-end-line="0" selection-end-column="5820" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/relacion_verbos irregulares/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8524" lean-forward="false" selection-start-line="0" selection-start-column="8524" selection-end-line="0" selection-end-column="8524" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7348" lean-forward="false" selection-start-line="0" selection-start-column="7348" selection-end-line="0" selection-end-column="7348" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7364" lean-forward="false" selection-start-line="0" selection-start-column="7364" selection-end-line="0" selection-end-column="7364" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7304" lean-forward="false" selection-start-line="0" selection-start-column="7304" selection-end-line="0" selection-end-column="7304" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8124" lean-forward="false" selection-start-line="0" selection-start-column="8124" selection-end-line="0" selection-end-column="8124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7888" lean-forward="false" selection-start-line="0" selection-start-column="7888" selection-end-line="0" selection-end-column="7888" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8196" lean-forward="false" selection-start-line="0" selection-start-column="8196" selection-end-line="0" selection-end-column="8196" />
           <folding />
         </state>
       </provider>
