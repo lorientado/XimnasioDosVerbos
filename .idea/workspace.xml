@@ -12,7 +12,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xogos_alternancia.html" afterPath="$PROJECT_DIR$/xogos_alternancia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xogos_perfecto.html" afterPath="$PROJECT_DIR$/xogos_perfecto.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,8 +42,28 @@
       <file leaf-file-name="xogos_alternancia.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xogos_alternancia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="79" column="53" lean-forward="false" selection-start-line="79" selection-start-column="53" selection-end-line="79" selection-end-column="53" />
+            <state relative-caret-position="270">
+              <caret line="71" column="82" lean-forward="false" selection-start-line="71" selection-start-column="82" selection-end-line="71" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_ordenar/actividad.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4959" lean-forward="true" selection-start-line="0" selection-start-column="4959" selection-end-line="0" selection-end-column="4959" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generic_2_trucos_tema_perfecto.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="731" column="18" lean-forward="false" selection-start-line="448" selection-start-column="24" selection-end-line="731" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -53,8 +72,18 @@
       <file leaf-file-name="xogos_perfecto.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xogos_perfecto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="157">
               <caret line="80" column="53" lean-forward="false" selection-start-line="80" selection-start-column="53" selection-end-line="80" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adestramento_alternancia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="151" column="15" lean-forward="false" selection-start-line="149" selection-start-column="18" selection-end-line="151" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -64,8 +93,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.ogg</find>
-      <find>va</find>
       <find>comenzar</find>
       <find>unha base</find>
       <find>comenz</find>
@@ -73,7 +100,6 @@
       <find>div</find>
       <find>grey</find>
       <find>comenza</find>
-      <find>intento</find>
       <find>apretalo</find>
       <find>maiú</find>
       <find>case superior</find>
@@ -83,17 +109,20 @@
       <find>parabén</find>
       <find>xogar</find>
       <find>altern</find>
-      <find>autor</find>
       <find>(D</find>
       <find>actividade</find>
       <find>intent</find>
       <find>contén</find>
       <find>bgarrow</find>
-      <find>print</find>
-      <find>intentos</find>
-      <find>actividad</find>
       <find>comple</find>
       <find>completa coas</find>
+      <find>completa co</find>
+      <find>print</find>
+      <find>actividad</find>
+      <find>intento</find>
+      <find>autor</find>
+      <find>intentos</find>
+      <find>forma</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;Pre</replace>
@@ -141,10 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" />
@@ -190,8 +215,12 @@
         <option value="$PROJECT_DIR$/assets/xogos/xogos_diálogo/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_diálogo/actividad.js" />
-        <option value="$PROJECT_DIR$/xogos_alternancia.html" />
         <option value="$PROJECT_DIR$/xogos_perfecto.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad.js" />
+        <option value="$PROJECT_DIR$/assets/xogos/xogos_ordenar/actividad.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/xogos_ordenar/actividad.js" />
+        <option value="$PROJECT_DIR$/xogos_alternancia.html" />
       </list>
     </option>
   </component>
@@ -384,14 +413,7 @@
       <workItem from="1489321357931" duration="521000" />
       <workItem from="1489407961958" duration="16099000" />
       <workItem from="1489569847443" duration="9820000" />
-      <workItem from="1489676406456" duration="223000" />
-    </task>
-    <task id="LOCAL-00007" summary="remodelación de actividade">
-      <created>1487072365015</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1487072365015</updated>
+      <workItem from="1489676406456" duration="3253000" />
     </task>
     <task id="LOCAL-00008" summary="correcións">
       <created>1487073283846</created>
@@ -729,11 +751,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489427752314</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="revisión de actividades">
+      <created>1489684777737</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1489684777738</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="543542000" />
+    <option name="totallyTimeSpent" value="546572000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -746,11 +775,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1477363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1477363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45347118" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224432" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24678363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31960228" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -763,7 +793,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45347118" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -838,48 +867,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="351" column="33" lean-forward="false" selection-start-line="351" selection-start-column="33" selection-end-line="351" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia modelo subir/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="0" column="16349" lean-forward="true" selection-start-line="0" selection-start-column="16349" selection-end-line="0" selection-end-column="16371" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_1_conxugacion/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="0" column="14379" lean-forward="false" selection-start-line="0" selection-start-column="14379" selection-end-line="0" selection-end-column="14379" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_2_conxugacion/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7271" lean-forward="false" selection-start-line="0" selection-start-column="7271" selection-end-line="0" selection-end-column="7271" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="0" column="32947" lean-forward="false" selection-start-line="0" selection-start-column="32947" selection-end-line="0" selection-end-column="32947" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="0" column="15699" lean-forward="false" selection-start-line="0" selection-start-column="15699" selection-end-line="0" selection-end-column="15699" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1136,6 +1123,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,25 +1163,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
+    <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="371" column="65" lean-forward="true" selection-start-line="371" selection-start-column="0" selection-end-line="372" selection-end-column="0" />
+        <state relative-caret-position="133">
+          <caret line="80" column="30" lean-forward="true" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6763" lean-forward="false" selection-start-line="0" selection-start-column="6763" selection-end-line="0" selection-end-column="6763" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="731" column="18" lean-forward="false" selection-start-line="448" selection-start-column="24" selection-end-line="731" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xogos_perfecto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="157">
           <caret line="80" column="53" lean-forward="false" selection-start-line="80" selection-start-column="53" selection-end-line="80" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="151" column="15" lean-forward="false" selection-start-line="149" selection-start-column="18" selection-end-line="151" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/presente_ser/styles_part.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="98" lean-forward="true" selection-start-line="22" selection-start-column="98" selection-end-line="22" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_ordenar/actividad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_ordenar/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4959" lean-forward="true" selection-start-line="0" selection-start-column="4959" selection-end-line="0" selection-end-column="4959" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xogos_alternancia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="79" column="53" lean-forward="false" selection-start-line="79" selection-start-column="53" selection-end-line="79" selection-end-column="53" />
+        <state relative-caret-position="270">
+          <caret line="71" column="82" lean-forward="false" selection-start-line="71" selection-start-column="82" selection-end-line="71" selection-end-column="82" />
           <folding />
         </state>
       </provider>

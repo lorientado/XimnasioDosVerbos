@@ -69,7 +69,7 @@
               <tr>
                 <td style="width: 80%; text-align:right; line-height: 2.3; padding-bottom: 8px; word-break:break-all;">
                   <font size="2"><a href="xogos_alternancia.html#xogo1">Xogo 1: completa o diálogo</a><br>
-                    <a href="xogos_alternancia.html#xogo2">Xogo 2: </a><br>
+                    <a href="xogos_alternancia.html#xogo2">Xogo 2: ordena palabras</a><br>
                     <a href="xogos_alternancia.html#xogo3">Xogo 3: </a><br>
                   </font>
                 </td>
@@ -84,13 +84,265 @@
               elaborar exercicios para te preparar para estas situacións. O problema está en <b>como</b> facelo. Por iso, imos necesitar da túa axuda para
               que nos orientes sobre cales son as túas necesidades.</p>
             <p>En fin, quen moito parola fai pouca obra &#x1f602;</p>
-            <h3 id="xogo1">Xogo 1: completa o diálogo</h3>
-            <ul><a href="assets/xogos/xogos_diálogo/actividad.html" class="button fit">Xogo_1</a></ul>
-            <h3 id="xogo2">Xogo 2: </h3>
-            <ul><a href="assets/xogos/xogos_diálogo/actividad.html" class="button fit">Xogo_2</a></ul>
-            <h3 id="xogo3">Xogo 3: </h3>
-            <ul><a href="assets/xogos/xogos_diálogo/actividad.html" class="button fit">Xogo_3</a></ul>
+
+            <section>
+
+              <div class="container">
+                <style>
+                  * {
+                    box-sizing:border-box;
+                  }
+
+                  }
+                  .heading-primary {
+                    font-size:4em;
+                    padding:1em;
+                    text-align:center;
+                  }
+                  .accordion dl,
+                  .accordion-list {
+                  &:after {
+                     content: "";
+                     display:block;
+                     height:1em;
+                     width:150%;
+                   }
+                  }
+                  .accordion dd,
+                  .accordion__panel {
+                    background: -moz-linear-gradient(45deg, rgba(246,41,12,1) 0%, rgba(77,83,106,1) 0%, rgba(240,47,23,1) 99%, rgba(238,40,17,1) 100%);
+                    background: -webkit-linear-gradient(45deg, rgba(246,41,12,1) 0%, rgba(77,83,106,1) 0%, rgba(240,47,23,1) 99%, rgba(238,40,17,1) 100%);
+                    font-size:1em;
+                    line-height:1.5em;
+                  }
+                  .accordion p {
+                    padding:1em 2em 1em 2em;
+                  }
+
+                  .accordion {
+                    position:relative;
+                  }
+                  .container {
+                    max-width:760px;
+                    margin:0 auto;
+                    padding: 0.2em 1 1em 0;
+                  }
+                  .accordionTitle,
+                  .accordion__Heading {
+                    background: rgba(28,34,61,0.9);
+                    background: -moz-linear-gradient(left, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                    background: -webkit-linear-gradient(left, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                    background: -o-linear-gradient(left, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                    background: -ms-linear-gradient(left, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                    background: linear-gradient(to right, rgba(28,34,61,0.9) 0%, rgba(109,130,223,0.97) 61%, rgba(73,102,220,1) 89%, rgba(65,96,219,1) 95%);
+                    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c223d', endColorstr='#4160db', GradientType=1 );
+                    border-radius: 9px 9px 9px 9px;
+                    -moz-border-radius: 9px 9px 9px 9px;
+                    -webkit-border-radius: 9px 9px 9px 9px;
+                    border: 0px hidden #000000;
+                    text-align:right;
+                    font-weight:600;
+                    padding: 0.8em;
+                    display:block;
+                    text-decoration:none;
+                    color:#fff;
+                    transition:background-color 0.5s ease-in-out;
+                  &:before {
+                     content: "+";
+                     font-size:2.5em;
+                     line-height:0.5em;
+                     float:left;
+                     transition: transform 0.3s ease-in-out;
+                   }
+                  &:hover {
+                   }
+                  }
+                  .accordionTitleActive,
+                  .accordionTitle.is-expanded {
+                  &:before {
+
+                     transform:rotate(-125deg);
+                   }
+                  }
+                  .accordionItem {
+                    height:auto;
+                    overflow:hidden;
+                  //SHAME: magic number to allow the accordion to animate
+
+                  max-height:50em;
+                    transition:max-height 1s;
+
+
+                  @media screen and (min-width:48em) {
+                    max-height:15em;
+                    transition:max-height 0.5s
+
+                  }
+
+                  }
+
+                  .accordionItem.is-collapsed {
+                    max-height:0;
+                  }
+                  .no-js .accordionItem.is-collapsed {
+                    max-height: auto;
+                  }
+                  .animateIn {
+                    animation: accordionIn 0.45s normal ease-in-out both 1;
+                  }
+                  .animateOut {
+                    animation: accordionOut 0.45s alternate ease-in-out both 1;
+                  }
+                  @keyframes accordionIn {
+                    0% {
+                      opacity: 0;
+                      transform:scale(0.9) rotateX(-60deg);
+                      transform-origin: 50% 0;
+                    }
+                    100% {
+                      opacity:1;
+                      transform:scale(1);
+                    }
+                  }
+
+                  @keyframes accordionOut {
+                    0% {
+                      opacity: 1;
+                      transform:scale(1);
+                    }
+                    100% {
+                      opacity:0;
+                      transform:scale(0.9) rotateX(-60deg);
+                    }
+                  }
+
+                </style>
+                <div class="accordion">
+                  <h3 id="xogo1">Xogo 1: completa o diálogo</h3>
+
+                  <dl>
+                    <dt>
+                      <a href="#accordion1" aria-expanded="false" aria-controls="accordion1" class="accordion-title accordionTitle js-accordionTrigger">Xogo_1</a>
+                    </dt>
+                    <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
+                      <table>
+                        <tbody>
+                        <tr>
+                          <td>
+                            <br>
+                            <ul><a href="assets/xogos/xogos_diálogo/actividad.html" class="button fit">Xogo_1</a></ul>
+                            <ul><a href="assets/xogos/xogos_completar/actividad.html" class="button fit">Xogo_2</a></ul>
+                          </td>
+                        </tr>
+                        </tbody>
+                      </table>
+                    </dd>
+                  </dl>
+                  <h3 id="xogo2">Xogo 2: ordena palabras</h3>
+
+                  <dl>
+                    <dt>
+                      <a href="#accordion1" aria-expanded="false" aria-controls="accordion3" class="accordion-title accordionTitle js-accordionTrigger">Xogo_2</a>
+                    </dt>
+                    <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
+                      <table>
+                        <tbody>
+                        <tr>
+                          <td>
+                            <ul><a href="assets/xogos/xogos_ordenar/actividad.html" class="button fit">Xogo_2</a></ul>
+                            <ul><a href="assets/xogos/xogos_completar/actividad.html" class="button fit">Xogo_2</a></ul>
+                          </td>
+                        </tr>
+                        </tbody>
+                      </table>
+                    </dd>
+                  </dl>
+                  <h3 id="xogo3">Xogo 3: </h3>
+                  <dl>
+                    <dt>
+                      <a href="#accordion1" aria-expanded="false" aria-controls="accordion2" class="accordion-title accordionTitle js-accordionTrigger">Xoga co diábolo das desinencias</a>
+                    </dt>
+                    <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
+                      <table>
+                        <tbody>
+                        </tbody>
+                      </table>
+                    </dd>
+                  </dl>
+                </div>
+              </div>
+              <script>
+                  (function(){
+                      var d = document,
+                          accordionToggles = d.querySelectorAll('.js-accordionTrigger'),
+                          setAria,
+                          setAccordionAria,
+                          switchAccordion,
+                          touchSupported = ('ontouchstart' in window),
+                          pointerSupported = ('pointerdown' in window);
+
+                      skipClickDelay = function(e){
+                          e.preventDefault();
+                          e.target.click();
+                      }
+
+                      setAriaAttr = function(el, ariaType, newProperty){
+                          el.setAttribute(ariaType, newProperty);
+                      };
+                      setAccordionAria = function(el1, el2, expanded){
+                          switch(expanded) {
+                              case "true":
+                                  setAriaAttr(el1, 'aria-expanded', 'true');
+                                  setAriaAttr(el2, 'aria-hidden', 'false');
+                                  break;
+                              case "false":
+                                  setAriaAttr(el1, 'aria-expanded', 'false');
+                                  setAriaAttr(el2, 'aria-hidden', 'true');
+                                  break;
+                              default:
+                                  break;
+                          }
+                      };
+//function
+                      switchAccordion = function(e) {
+
+                          e.preventDefault();
+                          var thisAnswer = e.target.parentNode.nextElementSibling;
+                          var thisQuestion = e.target;
+                          if(thisAnswer.classList.contains('is-collapsed')) {
+                              setAccordionAria(thisQuestion, thisAnswer, 'true');
+                          } else {
+                              setAccordionAria(thisQuestion, thisAnswer, 'false');
+                          }
+                          thisQuestion.classList.toggle('is-collapsed');
+                          thisQuestion.classList.toggle('is-expanded');
+                          thisAnswer.classList.toggle('is-collapsed');
+                          thisAnswer.classList.toggle('is-expanded');
+
+                          thisAnswer.classList.toggle('animateIn');
+                      };
+                      for (var i=0,len=accordionToggles.length; i<len; i++) {
+                          if(touchSupported) {
+                              accordionToggles[i].addEventListener('touchstart', skipClickDelay, false);
+                          }
+                          if(pointerSupported){
+                              accordionToggles[i].addEventListener('pointerdown', skipClickDelay, false);
+                          }
+                          accordionToggles[i].addEventListener('click', switchAccordion, false);
+                      }
+                  })();
+              </script>
+            </section>
+            </td>
+            </tr>
+            </tbody>
+            </table>
+
+
+
           </div>
+        </section>
+      </div>
         </section>
       </div>
     </div>
