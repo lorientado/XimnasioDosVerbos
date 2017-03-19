@@ -2,94 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/actividad.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/img_html5/barraV.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/img_html5/bgarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/img_html5/iPlayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/img_html5/iconoCompletar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/img_html5/iconsWhite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/jq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/particulars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/pub.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/styles_com.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/condicional_irregular_ver/styles_part.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/actividad.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/img_html5/barraV.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/img_html5/bgarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/img_html5/iPlayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/img_html5/iconoCompletar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/img_html5/iconsWhite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/jq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/particulars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/pub.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/styles_com.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/futuro_irregular_ir/styles_part.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/actividad.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/img_html5/barraV.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/img_html5/bgarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/img_html5/iPlayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/img_html5/iconoCompletar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/img_html5/iconsWhite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/jq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/particulars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/pub.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/styles_com.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/imperfecto_irregular_caber/styles_part.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/actividad.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/img_html5/barraV.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/img_html5/bgarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/img_html5/iPlayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/img_html5/iconoCompletar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/img_html5/iconsWhite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/jq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/particulars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/pub.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/styles_com.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/perfecto_irregular_ter/styles_part.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_futuro_irregular_poner/actividad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/actividad.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/img_html5/barraV.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/img_html5/bgarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/img_html5/iPlayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/img_html5/iconoCompletar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/img_html5/iconsWhite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/jq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/particulars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/pub.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/styles_com.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_imperfecto_irregular_saber/styles_part.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/actividad.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/img_html5/barraV.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/img_html5/bgarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/img_html5/iPlayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/img_html5/iconoCompletar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/img_html5/iconsWhite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/img_html5/luzIntensa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/jq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/particulars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/pub.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/styles_com.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/xogos/subxuntivo_presente_irregular_vir/styles_part.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
@@ -98,8 +10,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adestramento_perfecto.html" afterPath="$PROJECT_DIR$/adestramento_perfecto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" afterPath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xogos_perfecto.html" afterPath="$PROJECT_DIR$/xogos_perfecto.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -120,38 +31,68 @@
       <file leaf-file-name="xogos_perfecto.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xogos_perfecto.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="256" column="93" lean-forward="false" selection-start-line="256" selection-start-column="93" selection-end-line="256" selection-end-column="93" />
+            <state relative-caret-position="360">
+              <caret line="277" column="86" lean-forward="false" selection-start-line="277" selection-start-column="86" selection-end-line="277" selection-end-column="86" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adestramento_perfecto.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
+      <file leaf-file-name="actividad.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/act_2884270_HTML5/actividad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="324" column="116" lean-forward="false" selection-start-line="324" selection-start-column="116" selection-end-line="324" selection-end-column="116" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generic_2_trucos_tema_perfecto.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html">
+      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/act_2884270_HTML5/actividad.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="613" column="126" lean-forward="false" selection-start-line="613" selection-start-column="126" selection-end-line="613" selection-end-column="126" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="actividad_futuro_subxuntivo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/desinencias/actividad_futuro_subxuntivo.html">
+      <file leaf-file-name="actividad_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+            <state relative-caret-position="120">
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actividad_1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actividad_2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actividad_2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -238,8 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/xogos/xogos_diálogo/actividad.html" />
-        <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_ordenar/actividad.html" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_ordenar/actividad.js" />
@@ -273,7 +212,6 @@
         <option value="$PROJECT_DIR$/assets/xogos/xogos_test/actividad_1.js" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_test/actividad_2.js" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_test/actividad_3.html" />
-        <option value="$PROJECT_DIR$/xogos_perfecto.html" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_test/actividad_3.js" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_muda o tempo/actividad_1.html" />
         <option value="$PROJECT_DIR$/assets/xogos/xogos_muda o tempo/actividad_1.js" />
@@ -289,6 +227,9 @@
         <option value="$PROJECT_DIR$/assets/xogos/desinencias/actividad_futuro_subxuntivo.html" />
         <option value="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
         <option value="$PROJECT_DIR$/adestramento_perfecto.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_1.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_2.html" />
+        <option value="$PROJECT_DIR$/xogos_perfecto.html" />
       </list>
     </option>
   </component>
@@ -485,7 +426,7 @@
       <workItem from="1489743914251" duration="2737000" />
       <workItem from="1489752132052" duration="6958000" />
       <workItem from="1489851460738" duration="1135000" />
-      <workItem from="1489925556438" duration="3835000" />
+      <workItem from="1489925556438" duration="4596000" />
     </task>
     <task id="LOCAL-00012" summary="correción actividade">
       <created>1487088821050</created>
@@ -834,7 +775,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="561497000" />
+    <option name="totallyTimeSpent" value="562258000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -939,48 +880,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/elements_entrenamiento.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar_irregulares.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_trucos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_xogos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic_2_trucos_alternancia.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -1230,14 +1129,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xogos_perfecto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="256" column="93" lean-forward="false" selection-start-line="256" selection-start-column="93" selection-end-line="256" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/desinencias/actividad_futuro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1286,10 +1177,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/desinencias/actividad_futuro_subxuntivo.html">
+    <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        <state relative-caret-position="180">
+          <caret line="316" column="43" lean-forward="true" selection-start-line="316" selection-start-column="43" selection-end-line="316" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1302,10 +1193,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adestramento_perfecto.html">
+    <entry file="file://$PROJECT_DIR$/assets/xogos/desinencias/actividad_futuro_subxuntivo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="324" column="116" lean-forward="false" selection-start-line="324" selection-start-column="116" selection-end-line="324" selection-end-column="116" />
+        <state relative-caret-position="135">
+          <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xogos_perfecto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="277" column="86" lean-forward="false" selection-start-line="277" selection-start-column="86" selection-end-line="277" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/act_2884270_HTML5/actividad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/act_2884270_HTML5/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
