@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Reconvir.html" />
@@ -45,8 +44,8 @@
       <file leaf-file-name="elements_quen_somos.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/elements_quen_somos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="99" column="12" lean-forward="true" selection-start-line="94" selection-start-column="8" selection-end-line="99" selection-end-column="12" />
+            <state relative-caret-position="247">
+              <caret line="90" column="132" lean-forward="false" selection-start-line="90" selection-start-column="132" selection-end-line="90" selection-end-column="132" />
               <folding>
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -457,7 +456,7 @@
       <workItem from="1491764127475" duration="1469000" />
       <workItem from="1491781352004" duration="3111000" />
       <workItem from="1492010510803" duration="2452000" />
-      <workItem from="1492368445999" duration="2359000" />
+      <workItem from="1492368445999" duration="3285000" />
     </task>
     <task id="LOCAL-00015" summary="indexación de verbos">
       <created>1487157504681</created>
@@ -806,7 +805,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="687751000" />
+    <option name="totallyTimeSpent" value="688677000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1255,8 +1254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements_quen_somos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="99" column="12" lean-forward="true" selection-start-line="94" selection-start-column="8" selection-end-line="99" selection-end-column="12" />
+        <state relative-caret-position="247">
+          <caret line="90" column="132" lean-forward="false" selection-start-line="90" selection-start-column="132" selection-end-line="90" selection-end-column="132" />
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
