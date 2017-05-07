@@ -197,7 +197,7 @@
                         
 		<pregunta id="10" tipo="unica" obligatoria="si" feedback="Segue o modelo do verbo 'servir'">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Consent__mos (2ª persoa do plural do verbo 'consentir')</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Consent__mos (1ª persoa do plural do verbo 'consentir')</enunciado>
 			<opciones>
             	
             	
