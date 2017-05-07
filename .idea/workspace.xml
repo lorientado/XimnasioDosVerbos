@@ -11,6 +11,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Sobrevir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Soster.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,11 +42,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="actividad.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="249" column="195" lean-forward="true" selection-start-line="249" selection-start-column="66" selection-end-line="249" selection-end-column="195" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="actividad.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="619" column="69" lean-forward="false" selection-start-line="619" selection-start-column="69" selection-end-line="619" selection-end-column="69" />
+            <state relative-caret-position="163">
+              <caret line="656" column="195" lean-forward="false" selection-start-line="656" selection-start-column="100" selection-end-line="656" selection-end-column="195" />
               <folding />
             </state>
           </provider>
@@ -54,36 +66,34 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>console.log</find>
-      <find>http://fonts.googleapis.com/</find>
-      <find>irregul</find>
-      <find>querer</find>
-      <find>axud</find>
-      <find>va axu</find>
-      <find>[&lt;a href=&quot;sons/1.mp3&quot;&gt;&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;a href=&quot;sons/1.mp3&quot;&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;a href=&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;a href&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;a hre&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;a hr&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;a h&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;a &lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;a&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;]</find>
-      <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/a]</find>
-      <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;/]</find>
-      <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;&lt;]</find>
-      <find>[&lt;font color=&quot;#FE6E42&quot;&gt;&lt;b&gt;ɛ&lt;/b&gt;&lt;/font&gt;]</find>
-      <find>desconvir</find>
-      <find>ser</find>
-      <find>facer</find>
-      <find>consen</find>
       <find>c</find>
-      <find>co</find>
       <find>con</find>
       <find>consent</find>
       <find>consent_</find>
+      <find>como é a</find>
+      <find>como é a 3</find>
+      <find>como é a 3ª</find>
+      <find>como é a 3ª persoa</find>
+      <find>como é a 3ª persoa do</find>
+      <find>como é a 3ª persoa do plu</find>
+      <find>como é a 3ª persoa do plura</find>
+      <find>como é a 3ª persoa do plural</find>
+      <find>como é a 3ª persoa do plural do</find>
+      <find>como é a 3ª persoa do plural do v</find>
+      <find>como é a 3ª persoa do plural do ver</find>
+      <find>como é a 3ª persoa do plural do verbo</find>
+      <find>como é a 3ª persoa do plural do verbo '</find>
+      <find>como é a 3ª persoa do plural do verbo 'd</find>
+      <find>como é a 3ª persoa do plural do verbo 'des</find>
+      <find>É correc</find>
+      <find>É correcto</find>
+      <find>É correcto '</find>
+      <find>É correcto 'sigu</find>
+      <find>co</find>
+      <find>´</find>
+      <find>É</find>
+      <find>É correcto</find>
+      <find>É correcto 'si</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;recon</replace>
@@ -131,9 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Irregulares/Sorrir.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Soster.html" />
-        <option value="$PROJECT_DIR$/Data/Irregulares/Subexpor.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Subexpoñer.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Subtraer.html" />
         <option value="$PROJECT_DIR$/Data/Irregulares/Superpor.html" />
@@ -182,6 +189,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/xogos_alternancia.html" />
         <option value="$PROJECT_DIR$/xogos_perfecto.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.xml" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml" />
+        <option value="$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.xml" />
       </list>
     </option>
   </component>
@@ -192,7 +202,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
+    <option name="x" value="177" />
     <option name="y" value="26" />
     <option name="width" value="1013" />
     <option name="height" value="770" />
@@ -213,7 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -243,6 +252,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -458,7 +468,8 @@
       <workItem from="1493737320097" duration="175000" />
       <workItem from="1493737849607" duration="229000" />
       <workItem from="1494122741250" duration="353000" />
-      <workItem from="1494192432466" duration="877000" />
+      <workItem from="1494192432466" duration="1253000" />
+      <workItem from="1494197449566" duration="922000" />
     </task>
     <task id="LOCAL-00018" summary="indexación de verbos">
       <created>1487243097738</created>
@@ -807,7 +818,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="695730000" />
+    <option name="totallyTimeSpent" value="697028000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -819,16 +830,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="26" width="1013" height="770" extended-state="1" />
+    <frame x="177" y="26" width="1013" height="770" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20866935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33588958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33588958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31755725" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24678363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31748468" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31748468" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39694658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -899,20 +911,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Superpor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="373" column="244" lean-forward="false" selection-start-line="373" selection-start-column="244" selection-end-line="373" selection-end-column="244" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Irregulares/Superpoñer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="373" column="268" lean-forward="false" selection-start-line="373" selection-start-column="268" selection-end-line="373" selection-end-column="268" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Irregulares/supor.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1162,7 +1160,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1177,7 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1185,7 +1181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1193,10 +1188,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1204,7 +1195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,7 +1202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1220,7 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,7 +1216,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1236,7 +1223,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1244,7 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1252,6 +1237,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo pedir/actividad.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="147" column="79" lean-forward="false" selection-start-line="147" selection-start-column="79" selection-end-line="147" selection-end-column="79" />
           <folding />
         </state>
       </provider>
@@ -1266,10 +1258,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_modelo servir/actividad.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="249" column="195" lean-forward="true" selection-start-line="249" selection-start-column="66" selection-end-line="249" selection-end-column="195" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/modelo alternancia_xuntos/actividad.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="619" column="69" lean-forward="false" selection-start-line="619" selection-start-column="69" selection-end-line="619" selection-end-column="69" />
+        <state relative-caret-position="163">
+          <caret line="656" column="195" lean-forward="false" selection-start-line="656" selection-start-column="100" selection-end-line="656" selection-end-column="195" />
           <folding />
         </state>
       </provider>

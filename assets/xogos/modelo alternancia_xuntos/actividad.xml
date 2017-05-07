@@ -654,7 +654,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="45" tipo="unica" obligatoria="no" feedback="Segue o modelo do verbo 'servir'">
+		<pregunta id="45" tipo="unica" obligatoria="no" feedback="Segue o modelo do verbo 'servir'. Polo tanto, a 2ª persoa do singular do presente é 's[&amp;#603;]gues' e no imperativo é 'sigue'">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >É correcto 'sigues'?</enunciado>
 			<opciones>
