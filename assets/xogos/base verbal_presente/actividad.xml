@@ -78,7 +78,7 @@
 		-->
                 
                         
-		<pregunta id="1" tipo="unica" obligatoria="si" feedback="Noraboa! O pretérito imperfecto é había, habías,.... Un exemplo: había moito tempo que non te vía">
+		<pregunta id="1" tipo="unica" obligatoria="si" feedback="O pretérito imperfecto é había, habías,.... Un exemplo: había moito tempo que non te vía">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'haber' é: hei, has, ha ou hai, habemos, habedes, han. Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
 			<opciones>
@@ -95,7 +95,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="2" tipo="unica" obligatoria="si" feedback="Noraboa! Neste caso os tempos do presente usan máis dunha base verbal. No pretérito imperfecto, a 1ª persoa do singular é 'facía', pero no presente de subxuntivo da mesma persoa é 'faga'">
+		<pregunta id="2" tipo="unica" obligatoria="si" feedback="Neste caso os tempos do presente usan máis dunha base verbal. No pretérito imperfecto, a 1ª persoa do singular é 'facía', pero no presente de subxuntivo da mesma persoa é 'faga'">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'facer' é: fago, fas, fai, facemos, facedes, fan. Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
 			<opciones>
