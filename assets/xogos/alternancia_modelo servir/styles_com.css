@@ -83,8 +83,10 @@ auto}.iconActividad
 img{width:146px;height:auto}.iconActividad{padding:20px
 0 10px}#preActividad .btn-primary{width:60%;font-size:18px;line-height:24px;font-weight:bold;margin-bottom:12px;box-shadow:rgba(0,0,0,.2)0 6px 15px}.infoExtraPreAct{padding:18px
 10px 0;border-top:1px solid rgba(255,255,255,.3)}.nomAutor{line-height:22px}#banner{position:fixed;bottom:0;width:100%;text-align:center;left:0;line-height:0;font-size:0}#banner
-img{max-width:100%;height:auto}#preLoad{width:100%;height:100%;position:relative;text-align:center;background-color:#7CB139}#preLoad
-img{position:relative;top:50%;margin-top:-80px;width:152px;height:auto;animation:fade 3s;-moz-animation:fade 3s;-webkit-animation:fade 3s;-o-animation:fade 3s}.blockBanner{display:inline-block;position:relative;margin:0
+img{max-width:100%;height:auto}#preLoad{width:100%;height:100%;position:relative;text-align:center}#preLoad
+img{position:relative;top:50%;margin-top:-80px;height:auto;animation:fade 3s;-moz-animation:fade 3s;-webkit-animation:fade 3s;-o-animation:fade 3s}.carganormal
+img{width:152px}.cargapremium
+img{width:32px}.carganormal{background-color:#7CB139}.cargapremium{background:#EEE}.blockBanner{display:inline-block;position:relative;margin:0
 auto;max-width:100%;box-shadow:rgba(0,0,0,.15)0 0 15px;border-radius:4px 4px 0 0;overflow:hidden;vertical-align:bottom}#info.visible,#shadow.visible{display:block}#info.oculto,#shadow.oculto{display:none}.visible{display:block}.oculto{display:none}@media all and (min-width:500px){#preActividad .btn-primary{font-size:28px;line-height:40px;font-weight:bold;margin-bottom:20px}.iconActividad
 img{width:182px;height:auto}.btnsExtraPreAct
 img{height:auto;width:34px}.nomAutor{line-height:34px}.iconActividad{padding:35px
@@ -102,7 +104,7 @@ auto;box-shadow:rgba(0,0,0,.25) 0 5px 15px;background-color:#fff}body,html{backg
 .close{display:block}.headCorrecto{padding:20px
 5%}.titCorrecto{font-size:23px;line-height:34px}.groupInfoRespuestas{float:left;width:48%;padding-top:25px}.groupInfoPlayer{float:right;width:48%;padding-top:14px}#help{width:64%;left:18%}.colInfoActividad{float:right;width:62%}.iconActividad{float:left;width:36%}.iconActividad
 img{max-width:100%}#preActividad{max-width:780px!important;padding:35px
-16px 20px 0!important}.shadow{max-width:796px}#info{width:35%;background-color:#fff;bottom:60px;max-height:inherit!important;position:absolute;top:100px;overflow:auto;right:0;border-radius:0}#wrapper{bottom:60px}#footAct .btn-large{padding:9px
+16px 20px 0!important}#info{width:35%;background-color:#fff;bottom:60px;max-height:inherit!important;position:absolute;top:100px;overflow:auto;right:0;border-radius:0}#wrapper{bottom:60px}#footAct .btn-large{padding:9px
 21px;font-size:15px;line-height:24px}#footAct{padding:8px
 0}}@media all and (max-width:480px){.boxIndicador{padding:4px
 0 3px}.puntos

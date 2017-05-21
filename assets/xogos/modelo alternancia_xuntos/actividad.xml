@@ -511,7 +511,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="34" tipo="unica" obligatoria="no" feedback="Desculpa, pero algunha pequena trampa tiña que pór, ou!">
+		<pregunta id="34" tipo="unica" obligatoria="no" feedback="Desculpa, pero algunha pequena trampa tiña que pór, ou! Este verbo é regular">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Constr___en (3ª persoa do plural do verbo 'construír')</enunciado>
 			<opciones>
@@ -563,7 +563,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="38" tipo="unica" obligatoria="no" feedback="Este verbo non segue o mesmo model có verbo 'ferir', senón o de 'pedir' ">
+		<pregunta id="38" tipo="unica" obligatoria="no" feedback="Este verbo non segue o mesmo modelo có verbo 'ferir', senón o de 'pedir' ">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Pref___ro (1ª persoa do singular do verbo 'preferir')</enunciado>
 			<opciones>
@@ -604,7 +604,7 @@
                         
 		<pregunta id="41" tipo="escrita" obligatoria="no" feedback="Segue o modelo do verbo 'pedir'">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a (3ª persoa do singular do verbo 'interferir')</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a 3ª persoa do singular do verbo 'interferir'</enunciado>
 			<opciones>
             	
             	
@@ -654,7 +654,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="45" tipo="unica" obligatoria="no" feedback="Segue o modelo do verbo 'servir'. Polo tanto, a 2ª persoa do singular do presente é 's[&amp;#603;]gues' e no imperativo é 'sigue'">
+		<pregunta id="45" tipo="unica" obligatoria="no" feedback="Segue o modelo do verbo 'servir'. Non é nin a 2ª persoa do singular do presente nin o é 's[?]gues' e no imperativo é 'sigue'">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >É correcto 'sigues'?</enunciado>
 			<opciones>
