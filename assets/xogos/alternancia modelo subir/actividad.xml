@@ -78,9 +78,9 @@
 		-->
                 
                         
-		<pregunta id="1" tipo="unica" obligatoria="si" feedback="">
+		<pregunta id="1" tipo="unica" obligatoria="si" feedback="Lembra o dos verbos catiúsca. A 2ª e 3ª persoa do singular mais a 3ª persoa do plural é onde se dan a mudanza de 'u' a 'o [&amp;#596;]'">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Que forma verbal é correcta?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >ue forma verbal de 'acudir' é correcta?</enunciado>
 			<opciones>
             	
             	
@@ -91,7 +91,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="2" tipo="unica" obligatoria="si" feedback="">
+		<pregunta id="2" tipo="unica" obligatoria="si" feedback="Lembra o dos verbos catiúsca. A 2ª e 3ª persoa do singular mais a 3ª persoa do plural é onde se dan a mudanza de 'u' a 'o [&amp;#596;]'">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Ac__dides</enunciado>
 			<opciones>
@@ -104,7 +104,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="3" tipo="escrita" obligatoria="si" feedback="">
+		<pregunta id="3" tipo="escrita" obligatoria="si" feedback="Lembra o dos verbos catiúsca. A 2ª e 3ª persoa do singular mais a 3ª persoa do plural é onde se dan a mudanza de 'u' a 'o [&amp;#596;]'">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a 3ª persoa do singular do verbo 'bulir'?</enunciado>
 			<opciones>
@@ -112,14 +112,14 @@
             	
                 <opcion resp="1">Bole</opcion>
         		
-                <opcion resp="1">Bole</opcion>
+                <opcion resp="1">bole</opcion>
         					</opciones>
 		</pregunta>
                 
                         
-		<pregunta id="4" tipo="unica" obligatoria="si" feedback="">
+		<pregunta id="4" tipo="unica" obligatoria="si" feedback="A 1ª persoa do singular destes verbos manten sempre a 'u'">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta do verbo 'durmir'?</enunciado>
 			<opciones>
             	
             	
@@ -130,7 +130,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="5" tipo="unica" obligatoria="si" feedback="">
+		<pregunta id="5" tipo="unica" obligatoria="si" feedback="A 3ª persoa do plural deste tipo de verbos sempre... &#x1F61C;">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >F__xen</enunciado>
 			<opciones>
@@ -143,7 +143,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="6" tipo="escrita" obligatoria="si" feedback="Lembra que o imperativo non ten alternancia vocálica">
+		<pregunta id="6" tipo="escrita" obligatoria="si" feedback="Lembra que o imperativo non ten alternancia vocálica &#x1F609;">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a 2ª persoa do singular do imperativo de 'fuxir'?</enunciado>
 			<opciones>
@@ -156,9 +156,9 @@
 		</pregunta>
                 
                         
-		<pregunta id="7" tipo="unica" obligatoria="si" feedback="">
+		<pregunta id="7" tipo="unica" obligatoria="si" feedback="A 3ª persoa do plural deste tipo de verbos sempre... &#x1F61C;">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta do verbo 'ulir'?</enunciado>
 			<opciones>
             	
             	
@@ -169,7 +169,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="8" tipo="unica" obligatoria="si" feedback="">
+		<pregunta id="8" tipo="unica" obligatoria="si" feedback="A 2ª persoa do singular deste tipo de verbos sempre... &#x1F61C;">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cons__mes</enunciado>
 			<opciones>
@@ -182,7 +182,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="9" tipo="unica" obligatoria="si" feedback="">
+		<pregunta id="9" tipo="unica" obligatoria="si" feedback="Lembra o dos verbos catiúsca. A 2ª e 3ª persoa do singular mais a 3ª persoa do plural é onde se dan a mudanza de 'u' a 'o [&amp;#596;]'">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como son a 1ª, 2ª e 3ª persoa do singular do verbo 'ruxir'?</enunciado>
 			<opciones>
@@ -197,20 +197,20 @@
 		</pregunta>
                 
                         
-		<pregunta id="10" tipo="unica" obligatoria="si" feedback="">
+		<pregunta id="10" tipo="unica" obligatoria="si" feedback="1ª persoa do plural deste tipo de verbo mantén o \'u\'">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta do verbo 'lucir'?</enunciado>
 			<opciones>
             	
             	
-                <opcion resp="1">lucimos</opcion>
+                <opcion resp="1">Lucimos</opcion>
         		
                 <opcion resp="0">Locimos</opcion>
         					</opciones>
 		</pregunta>
                 
                         
-		<pregunta id="11" tipo="unica" obligatoria="si" feedback="Ten coidado co imperativo que non leva [&amp;#596;]">
+		<pregunta id="11" tipo="unica" obligatoria="si" feedback="Ten coidado co imperativo que non leva [&amp;#596;] &#x1F640;">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Eng__le (imperativo)</enunciado>
 			<opciones>
@@ -223,7 +223,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="12" tipo="escrita" obligatoria="no" feedback="Ollo ao piollo! Resumir é un verbo que non deriva de 'sumir' e, polo tanto, non ten alternancia vocálica">
+		<pregunta id="12" tipo="escrita" obligatoria="no" feedback="Ollo ao piollo! 'Resumir' é un verbo que non deriva de 'sumir' e, polo tanto, non ten alternancia vocálica &#x1F383;">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Como é a 3ª persoa do plural do verbo 'resumir'?</enunciado>
 			<opciones>
@@ -238,7 +238,7 @@
                         
 		<pregunta id="13" tipo="multiple" obligatoria="si" feedback="Ollo que tanto 'engole [&amp;#596;]' (3ª persoa do singular do presente) como 'engule' (2ª persoa do singular do imperativo) son correctas">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Que formas do verbo 'engulir' son correctas?</enunciado>
 			<opciones>
             	
             	
@@ -275,7 +275,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="16" tipo="unica" obligatoria="no" feedback="">
+		<pregunta id="16" tipo="unica" obligatoria="no" feedback="O mantra destes verbos: a 2º e 3ª persoa do singular e a 3ª persoa do plural deste tipo de verbos sempre... &#x1F61C;">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Cal é a forma correcta do verbo sumir?</enunciado>
 			<opciones>
