@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html" afterPath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Maltraer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Irregulares/Obter.html" afterPath="$PROJECT_DIR$/Data/Irregulares/Obter.html" />
@@ -32,8 +33,8 @@
       <file leaf-file-name="explicacións_primeira conxugación.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="311" column="36" lean-forward="false" selection-start-line="311" selection-start-column="36" selection-end-line="311" selection-end-column="36" />
+            <state relative-caret-position="192">
+              <caret line="622" column="42" lean-forward="false" selection-start-line="622" selection-start-column="42" selection-end-line="622" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -42,8 +43,8 @@
       <file leaf-file-name="explicacións_segunda conxugación.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="512" column="26" lean-forward="false" selection-start-line="512" selection-start-column="26" selection-end-line="512" selection-end-column="26" />
+            <state relative-caret-position="451">
+              <caret line="300" column="34" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/sorber.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/socorrer.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/romper.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/revolver.html" />
@@ -180,6 +180,7 @@
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/vestir.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/prover.html" />
+        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html" />
       </list>
     </option>
@@ -508,21 +509,7 @@
       <workItem from="1505658313885" duration="10578000" />
       <workItem from="1505751243542" duration="141000" />
       <workItem from="1505934822072" duration="3981000" />
-      <workItem from="1506197880141" duration="1991000" />
-    </task>
-    <task id="LOCAL-00053" summary="revisión de actividades">
-      <created>1489065342187</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1489065342187</updated>
-    </task>
-    <task id="LOCAL-00054" summary="revisión de actividades">
-      <created>1489142870728</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1489142870729</updated>
+      <workItem from="1506197880141" duration="4519000" />
     </task>
     <task id="LOCAL-00055" summary="revisión de actividades">
       <created>1489427752313</created>
@@ -853,11 +840,25 @@
       <option name="project" value="LOCAL" />
       <updated>1505750795012</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="correcións de verbos de alternancia e irregulares">
+      <created>1506209816534</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1506209816535</updated>
+    </task>
+    <task id="LOCAL-00103" summary="correcións de verbos de alternancia e irregulares">
+      <created>1506209874782</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1506209874782</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1176008000" />
+    <option name="totallyTimeSpent" value="1178536000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -871,7 +872,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="764" height="773" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25168237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25168237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32300884" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31563422" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
@@ -1879,16 +1880,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="311" column="36" lean-forward="false" selection-start-line="311" selection-start-column="36" selection-end-line="311" selection-end-column="36" />
+        <state relative-caret-position="192">
+          <caret line="622" column="42" lean-forward="false" selection-start-line="622" selection-start-column="42" selection-end-line="622" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="512" column="26" lean-forward="false" selection-start-line="512" selection-start-column="26" selection-end-line="512" selection-end-column="26" />
+        <state relative-caret-position="451">
+          <caret line="300" column="34" lean-forward="false" selection-start-line="300" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
           <folding />
         </state>
       </provider>
