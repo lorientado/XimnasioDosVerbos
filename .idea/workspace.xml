@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="redimensionar os verbos con alternancia e irregulares">
+    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Abster.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Abstraer.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Advir.html" afterPath="" />
@@ -1500,14 +1500,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xunguir.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xurdir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Irregulares/maltraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Irregulares/obter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Irregulares/reconvir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Irregulares/retraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Irregulares/retrotraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Irregulares/sobrevir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Irregulares/soster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Irregulares/subtraer.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_quen_somos.html" afterPath="$PROJECT_DIR$/elements_quen_somos.html" />
     </list>
@@ -1529,8 +1521,8 @@
       <file leaf-file-name="elements_quen_somos.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/elements_quen_somos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="246" column="158" lean-forward="false" selection-start-line="246" selection-start-column="158" selection-end-line="246" selection-end-column="158" />
+            <state relative-caret-position="285">
+              <caret line="216" column="23" lean-forward="false" selection-start-line="216" selection-start-column="23" selection-end-line="216" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -1981,14 +1973,7 @@
       <workItem from="1506528268342" duration="146000" />
       <workItem from="1506529263641" duration="47000" />
       <workItem from="1506536575995" duration="405000" />
-      <workItem from="1506542800357" duration="602000" />
-    </task>
-    <task id="LOCAL-00066" summary="revisión de actividades">
-      <created>1494123005228</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1494123005229</updated>
+      <workItem from="1506542800357" duration="892000" />
     </task>
     <task id="LOCAL-00067" summary="revisión de actividades">
       <created>1494684023781</created>
@@ -2326,11 +2311,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506542027733</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="redimensionar os verbos con alternancia e irregulares">
+      <created>1506589944985</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1506589944985</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1230850000" />
+    <option name="totallyTimeSpent" value="1231140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2532,8 +2524,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements_quen_somos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="246" column="158" lean-forward="false" selection-start-line="246" selection-start-column="158" selection-end-line="246" selection-end-column="158" />
+        <state relative-caret-position="285">
+          <caret line="216" column="23" lean-forward="false" selection-start-line="216" selection-start-column="23" selection-end-line="216" selection-end-column="23" />
           <folding />
         </state>
       </provider>
