@@ -2,1505 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Abster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Abstraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Advir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Afacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Antepor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Antepoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Apor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Apoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Arrepor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Arrepoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Ater.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Atraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Avir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Bendicir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Compor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Contraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Contrafacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Contrapor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Contrapoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Contravir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Depoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Desafacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Desapor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Desapoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Desavir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Descompor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Descompoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Descontraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Desconvir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Descrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Desdicir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Desouvir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Detraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Devir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Dicir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Dispor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Distraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Entreouvir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Entreter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Equivaler.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Expor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Expoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Extraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Impor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Impoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Indispor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Indispoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Interpor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Interpoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Intervir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Maldicir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Malparir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Maltraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Obter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Opor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Opoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Ouvir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Parir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Pospor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Pospoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Predispor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Predispoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Presupor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Presupoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Propor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Propoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Rarefacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Recompor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Recompoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Reconvir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Refacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Reimpor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Reimpoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Reler.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Repor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Repoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Reter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Retraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Retrotraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Sobrepor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Sobrepoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Sobreser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Sobrevir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Sorrir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Soster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Subexpor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Subexpoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Subtraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Superpor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Superpoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Traspor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Traspoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Tumefacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Valer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Xustapor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/Xustapoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abandonar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abarrotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abordar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abortar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/abreviar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/absolver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/absorber.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acaer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acceder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acelerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aceptar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acoitelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acoller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aconsellar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acordar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acosar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acougar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acubrir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/acudir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/adestrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/adherir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/adobar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/adoptar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/adorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/adulterar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/advertir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/afectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/afeitar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aferrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/afogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aforcar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aglomerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/agredir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/agregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alegrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alicerzar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alienar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/almacenar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alterar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/alternar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amarelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ambientar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amencer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amestrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amoblar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amoestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amolar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amontoar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/amosar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/andar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/anelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/anestesiar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/anexar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/anhelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/anotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/anovar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/apelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/apertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/apestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/apoderar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/apostar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aprender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aprobar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aquecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/arrepentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/arrestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ascender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/asediar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/asentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aseverar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/asociar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/asolar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/atafegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/atender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/aterrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/atestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/atopar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/atravesar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/atrever.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/atropelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/avergoñar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/axotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/beber.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/berrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/berregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/botar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/bulir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/caber.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/caer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cancelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/catalogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cear.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ceder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/celebrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cerrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cheirar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/choer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/choiar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/chuspir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cobrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cocer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/colaborar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/colgar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/coller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/colocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comerciar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cometer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/competir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/completar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comportar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/compoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comprender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comprobar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/comprometer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conceder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/concernir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/concertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/concienciar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/concordar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/condecorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/condoer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/confesar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conformar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/confortar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conmemorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conmover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/connotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conseguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/consentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conservar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/considerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/consolar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/constar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/consumir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contradicir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/contrarrestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/controlar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/convencer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conversar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/converter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/convir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conxelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/conxunguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cooperar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/copiar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/correr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/corresponder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/corroborar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/corroer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/corromper.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/coser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/crebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/crecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/crer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cronometrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cubrir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cumprir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/cuspir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/dar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/debaer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deber.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/decaer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/decorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/decrecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/defender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deforestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/degraer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deliberar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/demoler.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/demorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/demostrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/denegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/denotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/depender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/depor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/derreter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/derrotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desacelerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desafogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desagregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desapedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desapertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desasosegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desatender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desbordar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deschoer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descolgar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descolocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descomedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desconcertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desconectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desconsiderar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desconsolar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descontrolar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desconxelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descorrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descoser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/descubrir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desempedernir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desenfocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desengaiolar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desentender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desenterrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desenvolver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desexar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desfacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desherdar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desinfectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deslucir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desmantelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desmentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desnivelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desorientar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desoír.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/despedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/despegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/despezar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/despregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desprender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desprotexer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desrevestir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/destecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desterrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desurdir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desvelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desvestir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/desxunguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/detectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/deter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/detestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/devolver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/devorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/dexenerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/dialogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/diferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/discernir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/discorrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/disentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/disgregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/disolver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/dispoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/divertir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/diverxer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/divorciar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/dixerir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/doer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/domar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/dopar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/dotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/drogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/durmir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/elaborar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/elevar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/emerxer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/empapelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/empedrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/empezar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/emprender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/encadernar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/encarcerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/encher.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/encoller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/encubrir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/enfocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/engaiolar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/engulir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ensumir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/enterrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entrecocer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entrelucir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entreoír.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entretecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/entrever.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/enumerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/envolver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/envorcar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/enxergar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/enxerir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/erguer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/errar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/esaxerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/escoller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/escolmar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/escoltar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/esconder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/escorrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/esparexer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espelir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espoliar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/espremer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/esquecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/estar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/estender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/estremecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/esvaer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/exceder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/exercer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/expedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo pedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo servir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_modelo_subir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_primeira conxugación.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explicacións_segunda conxugación.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/explotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/exportar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/expropiar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/facer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/feder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ferver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/filosofar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/flotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/foder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fotocopiar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/frecuentar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fundir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/fuxir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/gobernar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/golpear.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/haber.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/herdar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/hibernar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/hipotecar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/homologar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/idear.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ignorar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/impacientar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/impedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/imperar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/importar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/incomodar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/incorporar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/indixestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/infectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/inferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/informar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/innovar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/inquietar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/inserir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/integrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/interceptar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/interferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/interpelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/interpretar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/interrogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/interromper.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/invernar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/investir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/inxectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/inxerir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/irromper.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ler.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/leriar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/levar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/liberar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/liderar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/lucir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/malferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/malvender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/malversar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/manifestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/manobrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/manter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/medir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/medrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mercar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/meter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/modelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/moderar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/moer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/molestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mollar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/montar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/morar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/morder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/morrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mostrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/mulir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/munguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/muxir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/navegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/negar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/negociar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/nivelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/nomear.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/notar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/novelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/numerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/obrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/observar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/obviar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/obxectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/odiar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ofender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ofertar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ofrecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/operar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/optar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/orientar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/orquestrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/outorgar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/oír.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/parodiar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/parolar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/partir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pecar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pechar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/percorrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/perder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/perpetrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/perseguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/perseverar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pertencer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pescar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/petar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/poder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/portar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/posar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/poñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pracer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/predicir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/preferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/premer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/prender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/presentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/preservar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/prestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/preterir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/prever.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/previr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/probar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/proceder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/procesar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/proer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/proferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/profesar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/proliferar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/prometer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/promover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/prorrogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/proseguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/prosperar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/protestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/protexer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/prover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/provir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/proxectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pulir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/pór.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/quecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/quentar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/querer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/raer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rebelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rebotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rebrotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rebulir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recaer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recobrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recocer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recoller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reconsiderar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reconverter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recordar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recubrir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/recuperar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/redescubrir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reelaborar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reencher.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reexpedir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/referir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/referver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reflectir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reflotar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/refogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reforestar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/refrixerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/regar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reincorporar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reinserir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reintegrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reinvestir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reiterar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/relar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/relegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/relevar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/relucir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/remexer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/remodelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/remoer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/remolcar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/remover.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/remunerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/renegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/renovar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/repetir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/repregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reprochar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reptar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/requecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/requentar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/resentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reservar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/resolver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/respectar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/responder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/restar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/retar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/retocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/retomar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/retorcer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/retroceder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/revelar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rever.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/reverter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/revestir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/revolver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rexenerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rexer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rexurdir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rezar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rodar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/roer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/romper.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ruxir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/saber.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sacudir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/salientar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/satisfacer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/saír.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/secuestrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/segar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/segregar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/seguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sentar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sentir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/serrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/servir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sobreexpor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sobreexpoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sobresaír.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/socorrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/somerxer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/someter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Abster.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Abstraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Acaer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Advir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Afacer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Antepor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Antepoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Apor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Arrepor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Arrepoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ater.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Atraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Avir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Bendicir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Caber.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Caer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Choer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Compor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Compoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Condoer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Conter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Contradicir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Contraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Contrafacer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Contrapor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Contrapoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Contravir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Convir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Corroer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Crer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Dar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Debaer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Decaer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Degraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Depor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Depoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desafacer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desapor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desapoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desavir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Deschoer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Descompor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Descompoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Descontraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desconvir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Descrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desdicir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desempedernir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desexar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desfacer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Deslucir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desmentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desouvir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desoír.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Despedir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desrevestir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desurdir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Desxunguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Deter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Detraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Devir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Dicir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Diferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Discernir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Disentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Dispor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Dispoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Distraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Divertir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Dixerir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Doer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Durmir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Encubrir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Engulir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ensumir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Entregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Entrelucir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Entreouvir_1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Entreouvir_2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Entreoír_1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Entreoír_2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Entreter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Entrever.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Enxerir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Equivaler.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Espelir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Espertar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Espir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Estar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Esvaer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Expedir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Expor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Expoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Extraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Facer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Fundir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Fuxir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Golpear.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Haber.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Impedir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Impor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Impoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Indispor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Indispoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Inferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Inserir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Interferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Interpor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Interpoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Intervir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Investir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Inxerir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ler.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Levar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Lucir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Maldicir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Malferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Malparir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Maltraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Manter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Medir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Medrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Mentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Moer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Mollar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Montar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Mulir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Munguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Muxir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Negar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Nomear.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Obter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Opor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Opoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ouvir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Oír.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Parir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Partir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Pecar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Pechar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Pedir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Perseguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Petar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Poder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Pospor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Pospoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Poñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Pracer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Predicir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Predispor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Predispoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Preferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Presentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Presupor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Presupoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Preterir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Prever.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Previr.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Proer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Proferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Propor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Propoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Proseguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Prover.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Provir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Pulir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Pór.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Querer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Raer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Rarefacer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Recaer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Recompor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Recompoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Reconvir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Recubrir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Redescubrir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Reexpedir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Refacer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Referir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Reflectir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Regar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Reimpor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Reimpoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Reinvestir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Reler.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Relucir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Remoer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Repetir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Repor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Repoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Resentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Reter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Retraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Retrotraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Rever.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Revestir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Rexurdir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Rir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Roer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Rogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ruxir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Saber.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sacudir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Satisfacer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Saír.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Segar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Seguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sentar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ser.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Servir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobreexpor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobreexpor_2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobreexpoñer_1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobreexpoñer_2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobrepor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobrepoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobresaír.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobreser.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sobrevir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sorrir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Soster.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Subexpor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Subexpoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Subir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Subseguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Subtraer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sufrir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Sumir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Superpor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Supor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Supoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Suxerir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Tocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Tornar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Traer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Transferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Transgredir_1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Transgredir_2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Translucir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Trasler.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Traspor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Traspoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Travestir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Tremelucir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Tumefacer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Tusir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ulir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Urdir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Valer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Varrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Ver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Vestir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Vir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Xogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Xunguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Xurdir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Xustapor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/Xustapoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/abandonar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/abarrotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/abordar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/abortar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/abreviar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/absolver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/absorber.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acceder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acelerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aceptar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acertar_aberta.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acertar_pechada.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acoitelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acoller.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aconsellar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acordar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acosar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acougar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acubrir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/acudir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/adestrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/adherir_1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/adherir_2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/adobar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/adoptar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/adorar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/adulterar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/advertir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/afectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/afeitar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aferrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/afogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aforcar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aglomerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/agredir_1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/agredir_2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/agregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/alegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/alegrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/alertar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/alicerzar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/alienar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/almacenar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/alterar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/alternar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/amarelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/ambientar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/amencer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/amestrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/amoblar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/amoestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/amolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/amontoar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/amosar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/andar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/anelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/anestesiar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/anexar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/anhelar_n alveolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/anhelar_velar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/anotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/anovar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/apelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/apertar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/apestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/apoderar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/apostar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/apoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aprender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aprobar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aquecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/arrepentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/arrestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/ascender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/asediar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/asentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aseverar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/asociar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/asolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/atafegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/atender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/aterrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/atestar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/atestar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/atopar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/atravesar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/atrever.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/atropelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/avergoñar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/axotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/beber.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/berrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/berregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/botar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/bulir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cancelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/catalogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cear.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/ceder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/celebrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cerrar_aberta.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cerrar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cheirar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/chocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/choiar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/chorar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/chover.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/chuspir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cobrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cocer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/colaborar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/colgar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/coller.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/colocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/comedir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/comer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/comerciar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cometer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/competir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/completar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/comportar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/comprender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/comprobar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/comprometer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conceder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/concernir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/concertar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/concienciar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/concordar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/condecorar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/confesar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conformar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/confortar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conmemorar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conmover.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/connotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conseguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/consentir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conservar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/considerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/consolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/constar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/consumir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/contar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/contestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/contrarrestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/controlar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/convencer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conversar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/converter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conxelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/conxunguir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cooperar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/copiar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/correr.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/corresponder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/corroborar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/corromper.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/coser.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/crebar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/crecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cronometrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cubrir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cumprir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/cuspir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/deber.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/decorar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/decrecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/defender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/deferir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/deforestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/deliberar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/demoler.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/demorar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/demostrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/denegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/denotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/depender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/derreter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/derrotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desacelerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desafogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desagregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desapedir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desapertar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desasosegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desatender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desbordar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/descender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/descolgar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/descolocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/descomedir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desconcertar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desconectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desconsiderar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desconsolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/descontrolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desconxelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/descorrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/descoser.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/descubrir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desenfocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desengaiolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desentender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desenterrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desenvolver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desertar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desherdar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desherdar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desinfectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desmantelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desnivelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desorientar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/despegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/despezar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/despregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desprender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desprotexer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/destecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desterrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/desvelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/detectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/detestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/devolver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/devorar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/devorar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/dexenerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/dialogar_1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/dialogar_2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/discorrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/disgregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/disolver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/diverxer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/divorciar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/domar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/dopar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/dotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/drogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/elaborar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/elevar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/emerxer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/empapelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/empedrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/empezar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/emprender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/encadernar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/encarcerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/encher.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/encoller.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/enfocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/engaiolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/entender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/enterrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/entrecocer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/entretecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/enumerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/envolver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/envorcar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/envorcar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/enxergar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/erguer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/errar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/esaxerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/escoller.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/escolmar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/escoltar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/esconder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/escorrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/esparexer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/espoliar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/espremer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/esquecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/estender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/estremecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/exceder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/exercer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/explorar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/explotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/exportar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/expropiar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/feder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/fender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/ferver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/filosofar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/flotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/foder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/fotocopiar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/frecuentar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/fregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/gobernar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/herdar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/herdar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/hibernar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/hipotecar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/homologar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/idear.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/ignorar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/impacientar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/imperar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/importar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/importar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/incomodar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/incorporar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/indixestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/infectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/informar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/innovar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/inquietar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/integrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/interceptar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/interpelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/interpretar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/interrogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/interromper.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/invernar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/inxectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/irromper.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/leriar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/leriar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/liberar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/liderar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/malvender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/malversar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/manifestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/manobrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/mercar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/meter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/modelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/moderar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/molestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/morar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/morder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/morrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/mostrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/mover.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/navegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/negociar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/nivelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/notar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/novelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/numerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/obrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/observar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/obviar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/obxectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/odiar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/ofender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/ofertar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/ofrecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/operar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/optar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/orientar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/orquestrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/outorgar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/parodiar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/parolar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/pegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/pelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/pender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/percorrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/perder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/perpetrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/perpretar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/perseverar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/pertencer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/pescar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/portar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/posar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/pregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/premer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/prender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/preservar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/prestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/probar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/proceder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/procesar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/procesar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/profesar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/proliferar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/prometer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/promover.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/prorrogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/prosperar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/protestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/protexer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/proxectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/quecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/quentar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rebelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rebotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rebrotar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rebrotar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rebulir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/recobrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/recocer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/recoller.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reconsiderar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reconverter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/recordar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/recuperar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reelaborar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reencher.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/referver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reflotar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/refogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reforestar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/refrixerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reincorporar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reinserir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reintegrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reiterar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/relar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/relegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/relevar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/remexer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/remodelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/remolcar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/remover.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/remunerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/renegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/renovar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/repregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reprochar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reptar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/requecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/requentar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reservar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/resolver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/respectar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/responder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/restar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/retar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/retocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/retomar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/retorcer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/retroceder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/revelar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/reverter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/revolver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rexenerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rexer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rezar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/rodar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/romper.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/salientar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/secuestrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/segregar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/serrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/socorrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/somerxer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/someter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/soportar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/sorber.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/sorprender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/sosegar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/soterrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/sublevar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/subverter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/suceder.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/sufocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/superar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/superpoñer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/suspender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/tecer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/temer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/tender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/terxiversar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/tolerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/torcer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/transcorrer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/transportar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/tremer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/trocar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/tropezar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/uniformar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/velar_aberto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/velar_pechado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/vencer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/vender.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/venerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/verter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/violar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/vociferar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/vogar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/volver.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/votar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/vulnerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/xebrar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sons/xerar.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/soportar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sorber.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sorprender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sosegar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/soterrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/subir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sublevar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/subseguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/subverter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/suceder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sufocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sufrir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/sumir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/superar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/supor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/supoñer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/suspender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/suxerir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tecer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/temer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/terxiversar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tolerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/torcer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/traer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/transcorrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/transferir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/transgredir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/translucir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/transportar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/trasler.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/travestir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tremelucir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tremer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/trocar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tropezar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/tusir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ulir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/uniformar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/urdir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/varrer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/velar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/vencer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/vender.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/venerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/ver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/verter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/vestir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/violar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/vir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/vociferar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/vogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/volver.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/votar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/vulnerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xebrar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xerar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xunguir.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Alternancia_Vocalica/xurdir.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/abandonar.html" afterPath="$PROJECT_DIR$/Data/abandonar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements_quen_somos.html" afterPath="$PROJECT_DIR$/elements_quen_somos.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -1517,12 +20,32 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="elements_quen_somos.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="elements_quen_somos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements_quen_somos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="216" column="23" lean-forward="false" selection-start-line="216" selection-start-column="23" selection-end-line="216" selection-end-column="23" />
+            <state relative-caret-position="208">
+              <caret line="249" column="304" lean-forward="false" selection-start-line="249" selection-start-column="304" selection-end-line="249" selection-end-column="304" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="explicacións_modelo pedir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo pedir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3496">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abarrotar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/abarrotar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5099">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -1609,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/informar.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/innovar.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/interrogar.html" />
         <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/manobrar.html" />
@@ -1660,6 +182,7 @@
         <option value="$PROJECT_DIR$/elements_procurar_irregulares.html" />
         <option value="$PROJECT_DIR$/elements_procurar_alternancia.html" />
         <option value="$PROJECT_DIR$/elements_quen_somos.html" />
+        <option value="$PROJECT_DIR$/Data/abandonar.html" />
       </list>
     </option>
   </component>
@@ -1698,6 +221,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1705,12 +230,15 @@
               <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1973,14 +501,8 @@
       <workItem from="1506528268342" duration="146000" />
       <workItem from="1506529263641" duration="47000" />
       <workItem from="1506536575995" duration="405000" />
-      <workItem from="1506542800357" duration="892000" />
-    </task>
-    <task id="LOCAL-00067" summary="revisión de actividades">
-      <created>1494684023781</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1494684023781</updated>
+      <workItem from="1506542800357" duration="1428000" />
+      <workItem from="1506592752845" duration="985000" />
     </task>
     <task id="LOCAL-00068" summary="revisión de actividades">
       <created>1500481025090</created>
@@ -2318,11 +840,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506589944985</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="redimensionar os verbos con alternancia e irregulares">
+      <created>1506590422892</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1506590422892</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1231140000" />
+    <option name="totallyTimeSpent" value="1232661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2336,15 +865,15 @@
   <component name="ToolWindowManager">
     <frame x="103" y="23" width="981" height="773" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.153125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32300884" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31563422" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2462845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31603053" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39694658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39694658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2442,10 +971,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/innovar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/interrogar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/manobrar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/morar.html" />
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/mostrar.html" />
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/negociar.html" />
     <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/notar.html" />
@@ -2524,8 +1049,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements_quen_somos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="216" column="23" lean-forward="false" selection-start-line="216" selection-start-column="23" selection-end-line="216" selection-end-column="23" />
+        <state relative-caret-position="208">
+          <caret line="249" column="304" lean-forward="false" selection-start-line="249" selection-start-column="304" selection-end-line="249" selection-end-column="304" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/explicacións_primeira conxugación.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5714">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/abandonar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="366" column="23" lean-forward="true" selection-start-line="366" selection-start-column="23" selection-end-line="366" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo pedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3496">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/abarrotar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5099">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
