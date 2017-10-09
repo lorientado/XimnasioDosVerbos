@@ -1,75 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
+    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="corrección de verbos irregulares">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Abstraer.html" afterPath="$PROJECT_DIR$/Data/Abstraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Afacer.html" afterPath="$PROJECT_DIR$/Data/Afacer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Antepoñer.html" afterPath="$PROJECT_DIR$/Data/Antepoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Atraer.html" afterPath="$PROJECT_DIR$/Data/Atraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Bendicir.html" afterPath="$PROJECT_DIR$/Data/Bendicir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Contrapor.html" afterPath="$PROJECT_DIR$/Data/Contrapor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Contrapoñer.html" afterPath="$PROJECT_DIR$/Data/Contrapoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Descompoñer.html" afterPath="$PROJECT_DIR$/Data/Descompoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Desouvir.html" afterPath="$PROJECT_DIR$/Data/Desouvir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Detraer.html" afterPath="$PROJECT_DIR$/Data/Detraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Devir.html" afterPath="$PROJECT_DIR$/Data/Devir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Dicir.html" afterPath="$PROJECT_DIR$/Data/Dicir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Entreouvir.html" afterPath="$PROJECT_DIR$/Data/Entreouvir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Equivaler.html" afterPath="$PROJECT_DIR$/Data/Equivaler.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Expor.html" afterPath="$PROJECT_DIR$/Data/Expor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Extraer.html" afterPath="$PROJECT_DIR$/Data/Extraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Impor.html" afterPath="$PROJECT_DIR$/Data/Impor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Maltraer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Obter.html" afterPath="$PROJECT_DIR$/Data/Obter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Opor.html" afterPath="$PROJECT_DIR$/Data/Opor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Ouvir.html" afterPath="$PROJECT_DIR$/Data/Ouvir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Pospor.html" afterPath="$PROJECT_DIR$/Data/Pospor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Presupoñer.html" afterPath="$PROJECT_DIR$/Data/Presupoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Recompor.html" afterPath="$PROJECT_DIR$/Data/Recompor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Reconvir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Reler.html" afterPath="$PROJECT_DIR$/Data/Reler.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Repoñer.html" afterPath="$PROJECT_DIR$/Data/Repoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Reter.html" afterPath="$PROJECT_DIR$/Data/Reter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/Superpor.html" afterPath="$PROJECT_DIR$/Data/Superpor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/abarrotar.html" afterPath="$PROJECT_DIR$/Data/abarrotar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/adherir.html" afterPath="$PROJECT_DIR$/Data/adherir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/advertir.html" afterPath="$PROJECT_DIR$/Data/advertir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/andar.html" afterPath="$PROJECT_DIR$/Data/andar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/beber.html" afterPath="$PROJECT_DIR$/Data/beber.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/cear.html" afterPath="$PROJECT_DIR$/Data/cear.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/aferir.html" afterPath="$PROJECT_DIR$/Data/aferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/agredir.html" afterPath="$PROJECT_DIR$/Data/agredir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/arrepentir.html" afterPath="$PROJECT_DIR$/Data/arrepentir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/comedir.html" afterPath="$PROJECT_DIR$/Data/comedir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/competir.html" afterPath="$PROJECT_DIR$/Data/competir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/concernir.html" afterPath="$PROJECT_DIR$/Data/concernir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/contar.html" afterPath="$PROJECT_DIR$/Data/contar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/conter.html" afterPath="$PROJECT_DIR$/Data/conter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/contradicir.html" afterPath="$PROJECT_DIR$/Data/contradicir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/corroer.html" afterPath="$PROJECT_DIR$/Data/corroer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/crer.html" afterPath="$PROJECT_DIR$/Data/crer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/dar.html" afterPath="$PROJECT_DIR$/Data/dar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/debaer.html" afterPath="$PROJECT_DIR$/Data/debaer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/deter.html" afterPath="$PROJECT_DIR$/Data/deter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/doer.html" afterPath="$PROJECT_DIR$/Data/doer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/engulir.html" afterPath="$PROJECT_DIR$/Data/engulir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/entrever.html" afterPath="$PROJECT_DIR$/Data/entrever.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/estar.html" afterPath="$PROJECT_DIR$/Data/estar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/conferir.html" afterPath="$PROJECT_DIR$/Data/conferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/deferir.html" afterPath="$PROJECT_DIR$/Data/deferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/desapedir.html" afterPath="$PROJECT_DIR$/Data/desapedir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/descomedir.html" afterPath="$PROJECT_DIR$/Data/descomedir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/desempedernir.html" afterPath="$PROJECT_DIR$/Data/desempedernir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/despedir.html" afterPath="$PROJECT_DIR$/Data/despedir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/desrevestir.html" afterPath="$PROJECT_DIR$/Data/desrevestir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/desvestir.html" afterPath="$PROJECT_DIR$/Data/desvestir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/diferir.html" afterPath="$PROJECT_DIR$/Data/diferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/discernir.html" afterPath="$PROJECT_DIR$/Data/discernir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/divertir.html" afterPath="$PROJECT_DIR$/Data/divertir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/dixerir.html" afterPath="$PROJECT_DIR$/Data/dixerir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/enxerir.html" afterPath="$PROJECT_DIR$/Data/enxerir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/espelir.html" afterPath="$PROJECT_DIR$/Data/espelir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/espir.html" afterPath="$PROJECT_DIR$/Data/espir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/expedir.html" afterPath="$PROJECT_DIR$/Data/expedir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/explicacións_modelo pedir.html" afterPath="$PROJECT_DIR$/Data/explicacións_modelo pedir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/ferir.html" afterPath="$PROJECT_DIR$/Data/ferir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/impedir.html" afterPath="$PROJECT_DIR$/Data/impedir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/inferir.html" afterPath="$PROJECT_DIR$/Data/inferir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/inserir.html" afterPath="$PROJECT_DIR$/Data/inserir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/manter.html" afterPath="$PROJECT_DIR$/Data/manter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/nomear.html" afterPath="$PROJECT_DIR$/Data/nomear.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/provir.html" afterPath="$PROJECT_DIR$/Data/provir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/interferir.html" afterPath="$PROJECT_DIR$/Data/interferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/investir.html" afterPath="$PROJECT_DIR$/Data/investir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/inxerir.html" afterPath="$PROJECT_DIR$/Data/inxerir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/malferir.html" afterPath="$PROJECT_DIR$/Data/malferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/medir.html" afterPath="$PROJECT_DIR$/Data/medir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/pedir.html" afterPath="$PROJECT_DIR$/Data/pedir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/preferir.html" afterPath="$PROJECT_DIR$/Data/preferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/preterir.html" afterPath="$PROJECT_DIR$/Data/preterir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/proferir.html" afterPath="$PROJECT_DIR$/Data/proferir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/reexpedir.html" afterPath="$PROJECT_DIR$/Data/reexpedir.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/referir.html" afterPath="$PROJECT_DIR$/Data/referir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/remoer.html" afterPath="$PROJECT_DIR$/Data/remoer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/rir.html" afterPath="$PROJECT_DIR$/Data/rir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/roer.html" afterPath="$PROJECT_DIR$/Data/roer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/sacudir.html" afterPath="$PROJECT_DIR$/Data/sacudir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/satisfacer.html" afterPath="$PROJECT_DIR$/Data/satisfacer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/sentir.html" afterPath="$PROJECT_DIR$/Data/sentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/ser.html" afterPath="$PROJECT_DIR$/Data/ser.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/sobresaír.html" afterPath="$PROJECT_DIR$/Data/sobresaír.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/supor.html" afterPath="$PROJECT_DIR$/Data/supor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/supoñer.html" afterPath="$PROJECT_DIR$/Data/supoñer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/ter.html" afterPath="$PROJECT_DIR$/Data/ter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/trasler.html" afterPath="$PROJECT_DIR$/Data/trasler.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/ver.html" afterPath="$PROJECT_DIR$/Data/ver.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/vir.html" afterPath="$PROJECT_DIR$/Data/vir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/reflectir.html" afterPath="$PROJECT_DIR$/Data/reflectir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/reinserir.html" afterPath="$PROJECT_DIR$/Data/reinserir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/reinvestir.html" afterPath="$PROJECT_DIR$/Data/reinvestir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/repetir.html" afterPath="$PROJECT_DIR$/Data/repetir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/revestir.html" afterPath="$PROJECT_DIR$/Data/revestir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/suxerir.html" afterPath="$PROJECT_DIR$/Data/suxerir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/transferir.html" afterPath="$PROJECT_DIR$/Data/transferir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/transgredir.html" afterPath="$PROJECT_DIR$/Data/transgredir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/travestir.html" afterPath="$PROJECT_DIR$/Data/travestir.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/vestir.html" afterPath="$PROJECT_DIR$/Data/vestir.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -86,61 +70,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="elements_quen_somos.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_quen_somos.html">
+      <file leaf-file-name="transferir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/transferir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="249" column="304" lean-forward="false" selection-start-line="249" selection-start-column="304" selection-end-line="249" selection-end-column="304" />
+            <state relative-caret-position="266">
+              <caret line="352" column="259" lean-forward="false" selection-start-line="352" selection-start-column="259" selection-end-line="352" selection-end-column="259" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="elements_procurar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements_procurar.html">
+      <file leaf-file-name="transgredir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/transgredir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="95" column="18" lean-forward="false" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
+            <state relative-caret-position="272">
+              <caret line="356" column="132" lean-forward="false" selection-start-line="356" selection-start-column="132" selection-end-line="356" selection-end-column="132" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dicir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/Dicir.html">
+      <file leaf-file-name="vestir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/vestir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="351" column="251" lean-forward="false" selection-start-line="351" selection-start-column="251" selection-end-line="351" selection-end-column="251" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Obter.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data/Obter.html">
+      <file leaf-file-name="desrevestir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/desrevestir.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="234">
+              <caret line="353" column="132" lean-forward="false" selection-start-line="353" selection-start-column="132" selection-end-line="353" selection-end-column="132" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="desvestir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/desvestir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="345" column="224" lean-forward="false" selection-start-line="345" selection-start-column="224" selection-end-line="345" selection-end-column="224" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="investir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/investir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reinvestir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/reinvestir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="352" column="131" lean-forward="false" selection-start-line="352" selection-start-column="131" selection-end-line="352" selection-end-column="131" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="revestir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/revestir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="353" column="255" lean-forward="false" selection-start-line="353" selection-start-column="255" selection-end-line="353" selection-end-column="255" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="travestir.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/travestir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="354" column="135" lean-forward="false" selection-start-line="354" selection-start-column="130" selection-end-line="354" selection-end-column="135" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="explicacións_modelo servir.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo servir.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2207">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="explicacións_modelo pedir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo pedir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="abarrotar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/abarrotar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,11 +174,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>acudir</find>
-      <find>xungui</find>
-      <find>gostar</find>
-      <find>expelir</find>
-      <find>Medir</find>
       <find>Medir.mp</find>
       <find>&amp;#9654;&amp;#9654;</find>
       <find>&lt;/font&gt;&lt;font color</find>
@@ -178,13 +197,15 @@
       <find>Data/Irr</find>
       <find>Data/Irregulares</find>
       <find>Data/Alternancia_Vocalica</find>
-      <find>hover</find>
       <find>hover td {</find>
+      <find>hover</find>
+      <find>&lt;a href=&quot;adherir.html&quot;&gt;&lt;b&gt;arrepent&lt;/b&gt;ir&lt;/a&gt;</find>
+      <find>&lt;a href=&quot;desapedir.html&quot;&gt;&lt;b&gt;descomed&lt;/b&gt;ir&lt;/a&gt;</find>
+      <find>&lt;a href=&quot;desapedir.html&quot;&gt;&lt;b&gt;desempedern&lt;/b&gt;ir&lt;/a&gt;</find>
+      <find>&lt;a href=&quot;referir.html&quot;&gt;&lt;b&gt;reexped&lt;/b&gt;ir&lt;/a&gt;</find>
+      <find>conxu</find>
     </findStrings>
     <replaceStrings>
-      <replace>&lt;font color=&quot;#FE6E42&quot;&gt;í&lt;/font&gt;&lt;/b&gt;</replace>
-      <replace>&lt;font color=&quot;#FE6E42&quot;&gt;é&lt;/font&gt;&lt;/b&gt;</replace>
-      <replace>&lt;font color=&quot;#FE6E42&quot;&gt;i&lt;/font&gt;</replace>
       <replace>&lt;font color=&quot;#FE6E42&quot;&gt;e&lt;/font&gt;</replace>
       <replace>&lt;font color=&quot;#FE6E42&quot;&gt;a&lt;/font&gt;&lt;/b&gt;</replace>
       <replace>&lt;font color=&quot;#FE6E42&quot;&gt;i&lt;/font&gt;&lt;/b&gt;</replace>
@@ -212,6 +233,9 @@
       <replace>Data/Alternancia_Vocalica</replace>
       <replace />
       <replace>Data</replace>
+      <replace>&lt;a href=&quot;arrepentir.html&quot;&gt;&lt;b&gt;arrepent&lt;/b&gt;ir&lt;/a&gt;</replace>
+      <replace>&lt;a href=&quot;descomedir.html&quot;&gt;&lt;b&gt;descomed&lt;/b&gt;ir&lt;/a&gt;</replace>
+      <replace>&lt;a href=&quot;desapedir.html&quot;&gt;&lt;b&gt;desempedern&lt;/b&gt;ir&lt;/a&gt;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/Data</dir>
@@ -227,57 +251,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/manobrar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/morar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/mostrar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/negociar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/notar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/obrar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/obviar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/odiar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/optar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/outorgar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/parodiar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/parolar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/portar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/posar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/probar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/prorrogar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/rebotar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/rebrotar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/recobrar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/recordar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/reelaborar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/reflotar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/refogar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/reincorporar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/remolcar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/renovar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/reprochar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/retocar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/retomar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/rodar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/soportar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/sufocar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/transportar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/trocar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/uniformar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/violar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/vogar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/votar.html" />
-        <option value="$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" />
-        <option value="$PROJECT_DIR$/generic_2_trucos_alternancia.html" />
-        <option value="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
-        <option value="$PROJECT_DIR$/adestramento_alternancia.html" />
-        <option value="$PROJECT_DIR$/elements_procurar_irregulares.html" />
-        <option value="$PROJECT_DIR$/elements_procurar_alternancia.html" />
-        <option value="$PROJECT_DIR$/elements_quen_somos.html" />
-        <option value="$PROJECT_DIR$/Data/abandonar.html" />
-        <option value="$PROJECT_DIR$/elements_procurar.html" />
-        <option value="$PROJECT_DIR$/Data/Dicir.html" />
+        <option value="$PROJECT_DIR$/Data/explicacións_modelo pedir.html" />
+        <option value="$PROJECT_DIR$/Data/reinserir.html" />
+        <option value="$PROJECT_DIR$/Data/adherir.html" />
+        <option value="$PROJECT_DIR$/Data/ferir.html" />
+        <option value="$PROJECT_DIR$/Data/malferir.html" />
+        <option value="$PROJECT_DIR$/Data/mentir.html" />
+        <option value="$PROJECT_DIR$/Data/advertir.html" />
+        <option value="$PROJECT_DIR$/Data/aferir.html" />
+        <option value="$PROJECT_DIR$/Data/agredir.html" />
+        <option value="$PROJECT_DIR$/Data/arrepentir.html" />
+        <option value="$PROJECT_DIR$/Data/comedir.html" />
+        <option value="$PROJECT_DIR$/Data/competir.html" />
+        <option value="$PROJECT_DIR$/Data/concernir.html" />
+        <option value="$PROJECT_DIR$/Data/conferir.html" />
+        <option value="$PROJECT_DIR$/Data/deferir.html" />
+        <option value="$PROJECT_DIR$/Data/desapedir.html" />
+        <option value="$PROJECT_DIR$/Data/descomedir.html" />
+        <option value="$PROJECT_DIR$/Data/desempedernir.html" />
+        <option value="$PROJECT_DIR$/Data/despedir.html" />
+        <option value="$PROJECT_DIR$/Data/diferir.html" />
+        <option value="$PROJECT_DIR$/Data/discernir.html" />
+        <option value="$PROJECT_DIR$/Data/divertir.html" />
+        <option value="$PROJECT_DIR$/Data/dixerir.html" />
+        <option value="$PROJECT_DIR$/Data/enxerir.html" />
+        <option value="$PROJECT_DIR$/Data/espelir.html" />
+        <option value="$PROJECT_DIR$/Data/espir.html" />
+        <option value="$PROJECT_DIR$/Data/expedir.html" />
+        <option value="$PROJECT_DIR$/Data/impedir.html" />
+        <option value="$PROJECT_DIR$/Data/inferir.html" />
+        <option value="$PROJECT_DIR$/Data/inserir.html" />
+        <option value="$PROJECT_DIR$/Data/interferir.html" />
+        <option value="$PROJECT_DIR$/Data/inxerir.html" />
+        <option value="$PROJECT_DIR$/Data/medir.html" />
+        <option value="$PROJECT_DIR$/Data/pedir.html" />
+        <option value="$PROJECT_DIR$/Data/preferir.html" />
+        <option value="$PROJECT_DIR$/Data/preterir.html" />
+        <option value="$PROJECT_DIR$/Data/proferir.html" />
+        <option value="$PROJECT_DIR$/Data/reexpedir.html" />
+        <option value="$PROJECT_DIR$/Data/referir.html" />
+        <option value="$PROJECT_DIR$/Data/reflectir.html" />
+        <option value="$PROJECT_DIR$/Data/repetir.html" />
+        <option value="$PROJECT_DIR$/Data/suxerir.html" />
+        <option value="$PROJECT_DIR$/Data/transferir.html" />
+        <option value="$PROJECT_DIR$/Data/transgredir.html" />
+        <option value="$PROJECT_DIR$/Data/vestir.html" />
+        <option value="$PROJECT_DIR$/Data/desrevestir.html" />
+        <option value="$PROJECT_DIR$/Data/desvestir.html" />
+        <option value="$PROJECT_DIR$/Data/investir.html" />
+        <option value="$PROJECT_DIR$/Data/reinvestir.html" />
+        <option value="$PROJECT_DIR$/Data/revestir.html" />
+        <option value="$PROJECT_DIR$/Data/travestir.html" />
       </list>
     </option>
   </component>
@@ -332,8 +356,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -600,14 +624,9 @@
       <workItem from="1506592752845" duration="1074000" />
       <workItem from="1506670862406" duration="130000" />
       <workItem from="1506684739012" duration="96000" />
-      <workItem from="1507201639087" duration="4338000" />
-    </task>
-    <task id="LOCAL-00070" summary="revisión de actividades">
-      <created>1500584747251</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1500584747252</updated>
+      <workItem from="1507201639087" duration="5130000" />
+      <workItem from="1507406843343" duration="537000" />
+      <workItem from="1507471480589" duration="19399000" />
     </task>
     <task id="LOCAL-00071" summary="revisión de actividades">
       <created>1500916061251</created>
@@ -945,11 +964,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507201890796</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="corrección de verbos irregulares">
+      <created>1507224733009</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1507224733009</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1237314000" />
+    <option name="totallyTimeSpent" value="1258042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -963,10 +989,10 @@
   <component name="ToolWindowManager">
     <frame x="103" y="23" width="981" height="773" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12916666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16979167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32300884" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33480826" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31563422" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2462845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1036,7 +1062,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solucion dos fundidos en verde" />
     <MESSAGE value="indexación dos verbos irregulares" />
     <MESSAGE value="remodelación trucos alternancia" />
     <MESSAGE value="remodelación de actividade" />
@@ -1061,7 +1086,8 @@
     <MESSAGE value="redimensionar os verbos con alternancia e irregulares" />
     <MESSAGE value="correción dos verbos con alternancia" />
     <MESSAGE value="remodelación da sección procurar" />
-    <option name="LAST_COMMIT_MESSAGE" value="remodelación da sección procurar" />
+    <MESSAGE value="corrección de verbos irregulares" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrección de verbos irregulares" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1070,136 +1096,412 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/obrar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/obviar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/odiar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/optar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/outorgar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/parodiar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/parolar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/portar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/posar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/probar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/prorrogar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/rebotar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/rebrotar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/recobrar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/recordar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/reelaborar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/reflotar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/refogar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/reincorporar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/remolcar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/renovar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/reprochar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/retocar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/retomar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/rodar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/rogar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/soportar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/sufocar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/tocar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/votar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/xogar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/vogar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/violar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/uniformar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/trocar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/transportar.html" />
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/tornar.html" />
-    <entry file="file://$PROJECT_DIR$/generic_2_trucos_alternancia.html">
+    <entry file="file://$PROJECT_DIR$/Data/adherir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-942">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="1593">
+          <caret line="448" column="6" lean-forward="true" selection-start-line="343" selection-start-column="4" selection-end-line="448" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html">
+    <entry file="file://$PROJECT_DIR$/Data/mentir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="430" column="140" lean-forward="false" selection-start-line="430" selection-start-column="140" selection-end-line="430" selection-end-column="140" />
+        <state relative-caret-position="465">
+          <caret line="402" column="10" lean-forward="true" selection-start-line="402" selection-start-column="10" selection-end-line="402" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Alternancia_Vocalica/Abster.html" />
-    <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
+    <entry file="file://$PROJECT_DIR$/Data/malferir.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
-          <caret line="140" column="94" lean-forward="true" selection-start-line="140" selection-start-column="94" selection-end-line="140" selection-end-column="94" />
+          <caret line="423" column="6" lean-forward="true" selection-start-line="345" selection-start-column="4" selection-end-line="423" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adestramento_alternancia.html">
+    <entry file="file://$PROJECT_DIR$/Data/ferir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="308" column="18" lean-forward="true" selection-start-line="308" selection-start-column="18" selection-end-line="308" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar_irregulares.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/explicacións_primeira conxugación.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5714">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/abandonar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="366" column="23" lean-forward="true" selection-start-line="366" selection-start-column="23" selection-end-line="366" selection-end-column="23" />
+        <state relative-caret-position="75">
+          <caret line="344" column="4" lean-forward="false" selection-start-line="344" selection-start-column="4" selection-end-line="422" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo pedir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="370">
+          <caret line="259" column="30" lean-forward="false" selection-start-line="259" selection-start-column="30" selection-end-line="259" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/abarrotar.html">
+    <entry file="file://$PROJECT_DIR$/Data/advertir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="313">
+          <caret line="351" column="255" lean-forward="false" selection-start-line="351" selection-start-column="255" selection-end-line="351" selection-end-column="255" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_quen_somos.html">
+    <entry file="file://$PROJECT_DIR$/Data/aferir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="249" column="304" lean-forward="false" selection-start-line="249" selection-start-column="304" selection-end-line="249" selection-end-column="304" />
+        <state relative-caret-position="266">
+          <caret line="352" column="321" lean-forward="false" selection-start-line="352" selection-start-column="321" selection-end-line="352" selection-end-column="321" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar.html">
+    <entry file="file://$PROJECT_DIR$/Data/agredir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/arrepentir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="351" column="259" lean-forward="false" selection-start-line="351" selection-start-column="259" selection-end-line="351" selection-end-column="259" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/comedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/competir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="353" column="223" lean-forward="false" selection-start-line="353" selection-start-column="223" selection-end-line="353" selection-end-column="223" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/concernir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="353" column="257" lean-forward="false" selection-start-line="353" selection-start-column="257" selection-end-line="353" selection-end-column="257" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/conferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="353" column="223" lean-forward="false" selection-start-line="353" selection-start-column="223" selection-end-line="353" selection-end-column="223" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/deferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="353" column="128" lean-forward="false" selection-start-line="353" selection-start-column="128" selection-end-line="353" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/desapedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="353" column="130" lean-forward="false" selection-start-line="353" selection-start-column="130" selection-end-line="353" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/descomedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="354" column="131" lean-forward="false" selection-start-line="354" selection-start-column="131" selection-end-line="354" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/desempedernir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="353" column="134" lean-forward="false" selection-start-line="353" selection-start-column="134" selection-end-line="353" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/despedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/diferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="353" column="253" lean-forward="false" selection-start-line="353" selection-start-column="253" selection-end-line="353" selection-end-column="253" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/discernir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="352" column="257" lean-forward="false" selection-start-line="352" selection-start-column="257" selection-end-line="352" selection-end-column="257" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/divertir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/dixerir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/enxerir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/espelir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/espir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/expedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="353" column="222" lean-forward="false" selection-start-line="353" selection-start-column="222" selection-end-line="353" selection-end-column="222" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/impedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/inferir.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="95" column="18" lean-forward="false" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
+          <caret line="352" column="222" lean-forward="false" selection-start-line="352" selection-start-column="222" selection-end-line="352" selection-end-column="222" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Dicir.html">
+    <entry file="file://$PROJECT_DIR$/Data/inserir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        <state relative-caret-position="213">
+          <caret line="353" column="253" lean-forward="false" selection-start-line="353" selection-start-column="253" selection-end-line="353" selection-end-column="253" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Obter.html">
+    <entry file="file://$PROJECT_DIR$/Data/interferir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="288">
+          <caret line="352" column="225" lean-forward="false" selection-start-line="352" selection-start-column="225" selection-end-line="352" selection-end-column="225" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/inxerir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/medir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/pedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/preferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/preterir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="355" column="90" lean-forward="true" selection-start-line="355" selection-start-column="90" selection-end-line="355" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/proferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="352" column="129" lean-forward="false" selection-start-line="352" selection-start-column="129" selection-end-line="352" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/reexpedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="352" column="130" lean-forward="false" selection-start-line="352" selection-start-column="130" selection-end-line="352" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/referir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/reflectir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="353" column="257" lean-forward="false" selection-start-line="353" selection-start-column="257" selection-end-line="353" selection-end-column="257" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/repetir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="352" column="116" lean-forward="false" selection-start-line="352" selection-start-column="116" selection-end-line="352" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/suxerir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/transferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="352" column="259" lean-forward="false" selection-start-line="352" selection-start-column="259" selection-end-line="352" selection-end-column="259" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/transgredir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="356" column="132" lean-forward="false" selection-start-line="356" selection-start-column="132" selection-end-line="356" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/vestir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="351" column="251" lean-forward="false" selection-start-line="351" selection-start-column="251" selection-end-line="351" selection-end-column="251" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/desrevestir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="353" column="132" lean-forward="false" selection-start-line="353" selection-start-column="132" selection-end-line="353" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/desvestir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="345" column="224" lean-forward="false" selection-start-line="345" selection-start-column="224" selection-end-line="345" selection-end-column="224" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/investir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/reinvestir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="352" column="131" lean-forward="false" selection-start-line="352" selection-start-column="131" selection-end-line="352" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/revestir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="353" column="255" lean-forward="false" selection-start-line="353" selection-start-column="255" selection-end-line="353" selection-end-column="255" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/travestir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="354" column="135" lean-forward="false" selection-start-line="354" selection-start-column="130" selection-end-line="354" selection-end-column="135" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo servir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2207">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
