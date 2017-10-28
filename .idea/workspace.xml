@@ -1,59 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="corrección de verbos irregulares">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/abarrotar.html" afterPath="$PROJECT_DIR$/Data/abarrotar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/adherir.html" afterPath="$PROJECT_DIR$/Data/adherir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/advertir.html" afterPath="$PROJECT_DIR$/Data/advertir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/aferir.html" afterPath="$PROJECT_DIR$/Data/aferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/agredir.html" afterPath="$PROJECT_DIR$/Data/agredir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/arrepentir.html" afterPath="$PROJECT_DIR$/Data/arrepentir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/comedir.html" afterPath="$PROJECT_DIR$/Data/comedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/competir.html" afterPath="$PROJECT_DIR$/Data/competir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/concernir.html" afterPath="$PROJECT_DIR$/Data/concernir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/conferir.html" afterPath="$PROJECT_DIR$/Data/conferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/deferir.html" afterPath="$PROJECT_DIR$/Data/deferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/desapedir.html" afterPath="$PROJECT_DIR$/Data/desapedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/descomedir.html" afterPath="$PROJECT_DIR$/Data/descomedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/desempedernir.html" afterPath="$PROJECT_DIR$/Data/desempedernir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/despedir.html" afterPath="$PROJECT_DIR$/Data/despedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/desrevestir.html" afterPath="$PROJECT_DIR$/Data/desrevestir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/desvestir.html" afterPath="$PROJECT_DIR$/Data/desvestir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/diferir.html" afterPath="$PROJECT_DIR$/Data/diferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/discernir.html" afterPath="$PROJECT_DIR$/Data/discernir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/divertir.html" afterPath="$PROJECT_DIR$/Data/divertir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/dixerir.html" afterPath="$PROJECT_DIR$/Data/dixerir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/enxerir.html" afterPath="$PROJECT_DIR$/Data/enxerir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/espelir.html" afterPath="$PROJECT_DIR$/Data/espelir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/espir.html" afterPath="$PROJECT_DIR$/Data/espir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/expedir.html" afterPath="$PROJECT_DIR$/Data/expedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/explicacións_modelo pedir.html" afterPath="$PROJECT_DIR$/Data/explicacións_modelo pedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/ferir.html" afterPath="$PROJECT_DIR$/Data/ferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/impedir.html" afterPath="$PROJECT_DIR$/Data/impedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/inferir.html" afterPath="$PROJECT_DIR$/Data/inferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/inserir.html" afterPath="$PROJECT_DIR$/Data/inserir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/interferir.html" afterPath="$PROJECT_DIR$/Data/interferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/investir.html" afterPath="$PROJECT_DIR$/Data/investir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/inxerir.html" afterPath="$PROJECT_DIR$/Data/inxerir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/malferir.html" afterPath="$PROJECT_DIR$/Data/malferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/medir.html" afterPath="$PROJECT_DIR$/Data/medir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/pedir.html" afterPath="$PROJECT_DIR$/Data/pedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/preferir.html" afterPath="$PROJECT_DIR$/Data/preferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/preterir.html" afterPath="$PROJECT_DIR$/Data/preterir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/proferir.html" afterPath="$PROJECT_DIR$/Data/proferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/reexpedir.html" afterPath="$PROJECT_DIR$/Data/reexpedir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/referir.html" afterPath="$PROJECT_DIR$/Data/referir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/reflectir.html" afterPath="$PROJECT_DIR$/Data/reflectir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/reinserir.html" afterPath="$PROJECT_DIR$/Data/reinserir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/reinvestir.html" afterPath="$PROJECT_DIR$/Data/reinvestir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/repetir.html" afterPath="$PROJECT_DIR$/Data/repetir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/revestir.html" afterPath="$PROJECT_DIR$/Data/revestir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/suxerir.html" afterPath="$PROJECT_DIR$/Data/suxerir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/transferir.html" afterPath="$PROJECT_DIR$/Data/transferir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/transgredir.html" afterPath="$PROJECT_DIR$/Data/transgredir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/travestir.html" afterPath="$PROJECT_DIR$/Data/travestir.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data/vestir.html" afterPath="$PROJECT_DIR$/Data/vestir.html" />
+    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,102 +20,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="transferir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/transferir.html">
+      <file leaf-file-name="actividad.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="352" column="259" lean-forward="false" selection-start-line="352" selection-start-column="259" selection-end-line="352" selection-end-column="259" />
+            <state relative-caret-position="60">
+              <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="transgredir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/transgredir.html">
+      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="356" column="132" lean-forward="false" selection-start-line="356" selection-start-column="132" selection-end-line="356" selection-end-column="132" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vestir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/vestir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="351" column="251" lean-forward="false" selection-start-line="351" selection-start-column="251" selection-end-line="351" selection-end-column="251" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="desrevestir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/desrevestir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="353" column="132" lean-forward="false" selection-start-line="353" selection-start-column="132" selection-end-line="353" selection-end-column="132" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="desvestir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/desvestir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="345" column="224" lean-forward="false" selection-start-line="345" selection-start-column="224" selection-end-line="345" selection-end-column="224" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="investir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/investir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reinvestir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/reinvestir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="352" column="131" lean-forward="false" selection-start-line="352" selection-start-column="131" selection-end-line="352" selection-end-column="131" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="revestir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/revestir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="353" column="255" lean-forward="false" selection-start-line="353" selection-start-column="255" selection-end-line="353" selection-end-column="255" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="travestir.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/travestir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="354" column="135" lean-forward="false" selection-start-line="354" selection-start-column="130" selection-end-line="354" selection-end-column="135" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="explicacións_modelo servir.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo servir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2207">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="239">
+              <caret line="0" column="16203" lean-forward="false" selection-start-line="0" selection-start-column="16203" selection-end-line="0" selection-end-column="16203" />
+              <folding>
+                <marker date="1509204057000" expanded="true" signature="11104:11109" ph="&amp;" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,7 +46,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Medir.mp</find>
       <find>&amp;#9654;&amp;#9654;</find>
       <find>&lt;/font&gt;&lt;font color</find>
       <find>&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;EDE4E7&quot;&gt;</find>
@@ -204,6 +75,7 @@
       <find>&lt;a href=&quot;desapedir.html&quot;&gt;&lt;b&gt;desempedern&lt;/b&gt;ir&lt;/a&gt;</find>
       <find>&lt;a href=&quot;referir.html&quot;&gt;&lt;b&gt;reexped&lt;/b&gt;ir&lt;/a&gt;</find>
       <find>conxu</find>
+      <find>id=</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;font color=&quot;#FE6E42&quot;&gt;e&lt;/font&gt;</replace>
@@ -251,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/explicacións_modelo pedir.html" />
         <option value="$PROJECT_DIR$/Data/reinserir.html" />
         <option value="$PROJECT_DIR$/Data/adherir.html" />
         <option value="$PROJECT_DIR$/Data/ferir.html" />
@@ -302,6 +173,7 @@
         <option value="$PROJECT_DIR$/Data/reinvestir.html" />
         <option value="$PROJECT_DIR$/Data/revestir.html" />
         <option value="$PROJECT_DIR$/Data/travestir.html" />
+        <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
       </list>
     </option>
   </component>
@@ -321,7 +193,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="103" />
     <option name="y" value="23" />
-    <option name="width" value="981" />
+    <option name="width" value="1117" />
     <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -340,6 +212,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -350,14 +224,30 @@
             <path>
               <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="xogos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="xogos" type="462c0819:PsiDirectoryNode" />
+              <item name="alternancia_contrarreloxo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
               <item name="Data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,14 +284,10 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.subverter.html">
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/index.html" />
+    <configuration name="poder.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Irregulares/poder.html" />
+    <configuration name="subverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/subverter.html" />
+    <configuration name="xogar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/xogar.html" />
     <configuration default="true" type="PhoneGap" factoryName="PhoneGap/Cordova">
       <option name="myExecutable" value="/usr/local/bin/cordova" />
       <option name="myWorkDir" value="" />
@@ -469,10 +355,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/index.html" />
-    <configuration name="poder.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Irregulares/poder.html" />
-    <configuration name="subverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/subverter.html" />
-    <configuration name="xogar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/xogar.html" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.xogar.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.poder.html" />
@@ -626,28 +516,17 @@
       <workItem from="1506684739012" duration="96000" />
       <workItem from="1507201639087" duration="5130000" />
       <workItem from="1507406843343" duration="537000" />
-      <workItem from="1507471480589" duration="19399000" />
-    </task>
-    <task id="LOCAL-00071" summary="revisión de actividades">
-      <created>1500916061251</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1500916061252</updated>
-    </task>
-    <task id="LOCAL-00072" summary="revisión de actividades">
-      <created>1500918283309</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1500918283310</updated>
-    </task>
-    <task id="LOCAL-00073" summary="revisión de actividades">
-      <created>1501503089964</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1501503089965</updated>
+      <workItem from="1507471480589" duration="19594000" />
+      <workItem from="1507714306927" duration="2125000" />
+      <workItem from="1507829968606" duration="11219000" />
+      <workItem from="1508262278502" duration="258000" />
+      <workItem from="1508584119686" duration="132000" />
+      <workItem from="1508585284056" duration="1116000" />
+      <workItem from="1509034706152" duration="629000" />
+      <workItem from="1509107146328" duration="2046000" />
+      <workItem from="1509202660152" duration="1174000" />
+      <workItem from="1509220107572" duration="27000" />
+      <workItem from="1509220256062" duration="18000" />
     </task>
     <task id="LOCAL-00074" summary="revisión de actividades">
       <created>1502485198130</created>
@@ -971,11 +850,32 @@
       <option name="project" value="LOCAL" />
       <updated>1507224733009</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="corrección de verbos irregulares">
+      <created>1507549167288</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1507549167289</updated>
+    </task>
+    <task id="LOCAL-00121" summary="correción de actividades">
+      <created>1507975846926</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1507975846926</updated>
+    </task>
+    <task id="LOCAL-00122" summary="correción de actividades">
+      <created>1508585626844</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1508585626845</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1258042000" />
+    <option name="totallyTimeSpent" value="1276981000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -987,12 +887,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="23" width="981" height="773" extended-state="0" />
+    <frame x="103" y="23" width="1117" height="773" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16979167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14872263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32300884" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31563422" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2462845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1006,6 +905,7 @@
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1062,7 +962,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="indexación dos verbos irregulares" />
     <MESSAGE value="remodelación trucos alternancia" />
     <MESSAGE value="remodelación de actividade" />
     <MESSAGE value="correcións" />
@@ -1087,7 +986,8 @@
     <MESSAGE value="correción dos verbos con alternancia" />
     <MESSAGE value="remodelación da sección procurar" />
     <MESSAGE value="corrección de verbos irregulares" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrección de verbos irregulares" />
+    <MESSAGE value="correción de actividades" />
+    <option name="LAST_COMMIT_MESSAGE" value="correción de actividades" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1096,46 +996,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/adherir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1593">
-          <caret line="448" column="6" lean-forward="true" selection-start-line="343" selection-start-column="4" selection-end-line="448" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/mentir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="402" column="10" lean-forward="true" selection-start-line="402" selection-start-column="10" selection-end-line="402" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#dd#0;n#dl#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/malferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="423" column="6" lean-forward="true" selection-start-line="345" selection-start-column="4" selection-end-line="423" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/ferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="344" column="4" lean-forward="false" selection-start-line="344" selection-start-column="4" selection-end-line="422" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo pedir.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="259" column="30" lean-forward="false" selection-start-line="259" selection-start-column="30" selection-end-line="259" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,7 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="351" column="255" lean-forward="false" selection-start-line="351" selection-start-column="255" selection-end-line="351" selection-end-column="255" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1151,7 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="352" column="321" lean-forward="false" selection-start-line="352" selection-start-column="321" selection-end-line="352" selection-end-column="321" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1159,7 +1021,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1167,7 +1028,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="351" column="259" lean-forward="false" selection-start-line="351" selection-start-column="259" selection-end-line="351" selection-end-column="259" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,7 +1035,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1183,7 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="353" column="223" lean-forward="false" selection-start-line="353" selection-start-column="223" selection-end-line="353" selection-end-column="223" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1191,7 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="353" column="257" lean-forward="false" selection-start-line="353" selection-start-column="257" selection-end-line="353" selection-end-column="257" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1199,7 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="353" column="223" lean-forward="false" selection-start-line="353" selection-start-column="223" selection-end-line="353" selection-end-column="223" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1207,7 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="353" column="128" lean-forward="false" selection-start-line="353" selection-start-column="128" selection-end-line="353" selection-end-column="128" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1215,7 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="353" column="130" lean-forward="false" selection-start-line="353" selection-start-column="130" selection-end-line="353" selection-end-column="130" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1223,7 +1077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="354" column="131" lean-forward="false" selection-start-line="354" selection-start-column="131" selection-end-line="354" selection-end-column="131" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1231,7 +1084,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="353" column="134" lean-forward="false" selection-start-line="353" selection-start-column="134" selection-end-line="353" selection-end-column="134" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1239,7 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1247,7 +1098,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="353" column="253" lean-forward="false" selection-start-line="353" selection-start-column="253" selection-end-line="353" selection-end-column="253" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1255,15 +1105,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="352" column="257" lean-forward="false" selection-start-line="352" selection-start-column="257" selection-end-line="352" selection-end-column="257" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/divertir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1271,7 +1112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1279,7 +1119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1287,7 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1295,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1303,7 +1140,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="353" column="222" lean-forward="false" selection-start-line="353" selection-start-column="222" selection-end-line="353" selection-end-column="222" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1311,7 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1319,7 +1154,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="352" column="222" lean-forward="false" selection-start-line="352" selection-start-column="222" selection-end-line="352" selection-end-column="222" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1327,7 +1161,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="353" column="253" lean-forward="false" selection-start-line="353" selection-start-column="253" selection-end-line="353" selection-end-column="253" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1335,7 +1168,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="352" column="225" lean-forward="false" selection-start-line="352" selection-start-column="225" selection-end-line="352" selection-end-column="225" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1343,7 +1175,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1351,7 +1182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1359,7 +1189,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1367,7 +1196,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1375,7 +1203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="355" column="90" lean-forward="true" selection-start-line="355" selection-start-column="90" selection-end-line="355" selection-end-column="90" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1383,7 +1210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="352" column="129" lean-forward="false" selection-start-line="352" selection-start-column="129" selection-end-line="352" selection-end-column="129" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1391,7 +1217,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="352" column="130" lean-forward="false" selection-start-line="352" selection-start-column="130" selection-end-line="352" selection-end-column="130" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1399,7 +1224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1407,7 +1231,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="353" column="257" lean-forward="false" selection-start-line="353" selection-start-column="257" selection-end-line="353" selection-end-column="257" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1415,7 +1238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="352" column="116" lean-forward="false" selection-start-line="352" selection-start-column="116" selection-end-line="352" selection-end-column="116" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1423,87 +1245,115 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/transferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="352" column="259" lean-forward="false" selection-start-line="352" selection-start-column="259" selection-end-line="352" selection-end-column="259" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/transgredir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="5340">
           <caret line="356" column="132" lean-forward="false" selection-start-line="356" selection-start-column="132" selection-end-line="356" selection-end-column="132" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/vestir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="5265">
           <caret line="351" column="251" lean-forward="false" selection-start-line="351" selection-start-column="251" selection-end-line="351" selection-end-column="251" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/desrevestir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="353" column="132" lean-forward="false" selection-start-line="353" selection-start-column="132" selection-end-line="353" selection-end-column="132" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/desvestir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="5175">
           <caret line="345" column="224" lean-forward="false" selection-start-line="345" selection-start-column="224" selection-end-line="345" selection-end-column="224" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/investir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="5280">
           <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/reinvestir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="352" column="131" lean-forward="false" selection-start-line="352" selection-start-column="131" selection-end-line="352" selection-end-column="131" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/revestir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="5295">
           <caret line="353" column="255" lean-forward="false" selection-start-line="353" selection-start-column="255" selection-end-line="353" selection-end-column="255" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/travestir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="5310">
           <caret line="354" column="135" lean-forward="false" selection-start-line="354" selection-start-column="130" selection-end-line="354" selection-end-column="135" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo servir.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2207">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="568">
+          <caret line="185" column="3" lean-forward="false" selection-start-line="185" selection-start-column="3" selection-end-line="185" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/reinvestir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="352" column="131" lean-forward="false" selection-start-line="352" selection-start-column="131" selection-end-line="352" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/desrevestir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="353" column="132" lean-forward="false" selection-start-line="353" selection-start-column="132" selection-end-line="353" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/transferir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="352" column="259" lean-forward="false" selection-start-line="352" selection-start-column="259" selection-end-line="352" selection-end-column="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/divertir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="345" column="96" lean-forward="true" selection-start-line="345" selection-start-column="96" selection-end-line="345" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="0" column="16203" lean-forward="false" selection-start-line="0" selection-start-column="16203" selection-end-line="0" selection-end-column="16203" />
+          <folding>
+            <marker date="1509204057000" expanded="true" signature="11104:11109" ph="&amp;" />
+          </folding>
         </state>
       </provider>
     </entry>
