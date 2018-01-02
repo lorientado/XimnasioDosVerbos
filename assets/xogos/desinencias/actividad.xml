@@ -23,8 +23,8 @@
 	<tiempo maximo="0">no</tiempo>
 	
 	<autor>Gabriel Durán</autor>
-	<descripcionUsuario>Xunta as pezas para facer o pretérito imperfecto de indicativo do verbo caber</descripcionUsuario>
-    <descripcionUsuarioLimpio>Xunta as pezas para facer o pretérito imperfecto de indicativo do verbo caber</descripcionUsuarioLimpio>
+	<descripcionUsuario>Xunta as pezas para facer o copretérito de indicativo do verbo caber</descripcionUsuario>
+    <descripcionUsuarioLimpio>Xunta as pezas para facer o copretérito de indicativo do verbo caber</descripcionUsuarioLimpio>
 	<origen_recursos></origen_recursos><xorigen_recursos>https://d3c41a1a64ri6i.cloudfront.net/recursos/87/2799498/</xorigen_recursos>
 	
       <registro>
@@ -68,7 +68,7 @@
 	<forma_completar>clickar</forma_completar>
 	<titulo>Instrucións</titulo>
 	
-	<tituloAplicacion>Monta un imperfecto</tituloAplicacion>
+	<tituloAplicacion>Monta un copretérito</tituloAplicacion>
 	
 	<!-- Indica la forma de realizar la actividad, es decir la ayuda de la actividad -->
 	<descripcion>Tente completar o texto coas palabras que faltan.
@@ -77,7 +77,7 @@
 </descripcion>
 	<enunciado>Complete este texto</enunciado>
     <!-- parametro solo para la importación a ADR -->
-    <enunciado_edu>Monta un imperfecto</enunciado_edu>
+    <enunciado_edu>Monta un copretérito</enunciado_edu>
     
 	<texto>1. (1º persoa do singular): Cab ía 
 2. (2º persoa do singular): Cab ías 

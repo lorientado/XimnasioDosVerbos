@@ -80,25 +80,25 @@
     <enunciado_edu>O LEGO dos verbos</enunciado_edu>
     
 	<texto>1. (presente, nós, estar) Est a mos 
-2. (imperfecto de indicativo, vós, ser) Er a des 
-3. (perfecto de indicativo, ti, ter) Tiv e ches 
-4. (pluscuamperfecto, eu, haber) Houb e ra 
+2. (copretérito de indicativo, vós, ser) Er a des
+3. (pretérito de indicativo, ti, ter) Tiv e ches
+4. (antepretérito, eu, haber) Houb e ra
 5. (condicional, nós, ver) Ver i amos 
 6. (futuro de indicativo, el, caber) Cab e rá 
 7. (presente de subxuntivo, eles, facer) Fag an 
-8. (imperfecto de subxuntivo, ti, saber) Soub e ses 
+8. (pretérito de subxuntivo, ti, saber) Soub e ses
 9. (futuro de subxuntivo, nós, traer) Troux e rmos 
-10. (perfecto de indicativo, vós, ir) Fo stes</texto>
+10. (pretérito de indicativo, vós, ir) Fo stes</texto>
     <textoLimpio>1. (presente, nós, estar) Est a mos 
-2. (imperfecto de indicativo, vós, ser) Er a des 
-3. (perfecto de indicativo, ti, ter) Tiv e ches 
-4. (pluscuamperfecto, eu, haber) Houb e ra 
+2. (copretérito de indicativo, vós, ser) Er a des
+3. (pretérito de indicativo, ti, ter) Tiv e ches
+4. (antepretérito, eu, haber) Houb e ra
 5. (condicional, nós, ver) Ver i amos 
 6. (futuro de indicativo, el, caber) Cab e rá 
 7. (presente de subxuntivo, eles, facer) Fag an 
-8. (imperfecto de subxuntivo, ti, saber) Soub e ses 
+8. (pretérito de subxuntivo, ti, saber) Soub e ses
 9. (futuro de subxuntivo, nós, traer) Troux e rmos 
-10. (perfecto de indicativo, vós, ir) Fo stes</textoLimpio>
+10. (pretérito de indicativo, vós, ir) Fo stes</textoLimpio>
 	<!-- Las palabras que seran eliminadas del texto -->
 	<palabras>
     		<palabra>32</palabra>

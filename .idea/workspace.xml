@@ -3,7 +3,201 @@
   <component name="ChangeListManager">
     <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/Data/Abster.html" afterPath="$PROJECT_DIR$/Data/Abster.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Abstraer.html" afterPath="$PROJECT_DIR$/Data/Abstraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Advir.html" afterPath="$PROJECT_DIR$/Data/Advir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Afacer.html" afterPath="$PROJECT_DIR$/Data/Afacer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Antepor.html" afterPath="$PROJECT_DIR$/Data/Antepor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Antepoñer.html" afterPath="$PROJECT_DIR$/Data/Antepoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Apor.html" afterPath="$PROJECT_DIR$/Data/Apor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Apoñer.html" afterPath="$PROJECT_DIR$/Data/Apoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Arrepor.html" afterPath="$PROJECT_DIR$/Data/Arrepor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Arrepoñer.html" afterPath="$PROJECT_DIR$/Data/Arrepoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Ater.html" afterPath="$PROJECT_DIR$/Data/Ater.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Atraer.html" afterPath="$PROJECT_DIR$/Data/Atraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Avir.html" afterPath="$PROJECT_DIR$/Data/Avir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Bendicir.html" afterPath="$PROJECT_DIR$/Data/Bendicir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Compor.html" afterPath="$PROJECT_DIR$/Data/Compor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Contraer.html" afterPath="$PROJECT_DIR$/Data/Contraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Contrafacer.html" afterPath="$PROJECT_DIR$/Data/Contrafacer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Contrapor.html" afterPath="$PROJECT_DIR$/Data/Contrapor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Contrapoñer.html" afterPath="$PROJECT_DIR$/Data/Contrapoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Contravir.html" afterPath="$PROJECT_DIR$/Data/Contravir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Depoñer.html" afterPath="$PROJECT_DIR$/Data/Depoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Desafacer.html" afterPath="$PROJECT_DIR$/Data/Desafacer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Desapor.html" afterPath="$PROJECT_DIR$/Data/Desapor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Desapoñer.html" afterPath="$PROJECT_DIR$/Data/Desapoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Desavir.html" afterPath="$PROJECT_DIR$/Data/Desavir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Descompor.html" afterPath="$PROJECT_DIR$/Data/Descompor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Descompoñer.html" afterPath="$PROJECT_DIR$/Data/Descompoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Descontraer.html" afterPath="$PROJECT_DIR$/Data/Descontraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Desconvir.html" afterPath="$PROJECT_DIR$/Data/Desconvir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Descrer.html" afterPath="$PROJECT_DIR$/Data/Descrer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Desdicir.html" afterPath="$PROJECT_DIR$/Data/Desdicir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Desouvir.html" afterPath="$PROJECT_DIR$/Data/Desouvir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Detraer.html" afterPath="$PROJECT_DIR$/Data/Detraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Devir.html" afterPath="$PROJECT_DIR$/Data/Devir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Dicir.html" afterPath="$PROJECT_DIR$/Data/Dicir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Dispor.html" afterPath="$PROJECT_DIR$/Data/Dispor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Distraer.html" afterPath="$PROJECT_DIR$/Data/Distraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Entreouvir.html" afterPath="$PROJECT_DIR$/Data/Entreouvir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Entreter.html" afterPath="$PROJECT_DIR$/Data/Entreter.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Equivaler.html" afterPath="$PROJECT_DIR$/Data/Equivaler.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Expor.html" afterPath="$PROJECT_DIR$/Data/Expor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Expoñer.html" afterPath="$PROJECT_DIR$/Data/Expoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Extraer.html" afterPath="$PROJECT_DIR$/Data/Extraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Impor.html" afterPath="$PROJECT_DIR$/Data/Impor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Impoñer.html" afterPath="$PROJECT_DIR$/Data/Impoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Indispor.html" afterPath="$PROJECT_DIR$/Data/Indispor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Indispoñer.html" afterPath="$PROJECT_DIR$/Data/Indispoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Interpor.html" afterPath="$PROJECT_DIR$/Data/Interpor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Interpoñer.html" afterPath="$PROJECT_DIR$/Data/Interpoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Intervir.html" afterPath="$PROJECT_DIR$/Data/Intervir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Maldicir.html" afterPath="$PROJECT_DIR$/Data/Maldicir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Malparir.html" afterPath="$PROJECT_DIR$/Data/Malparir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Maltraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Obter.html" afterPath="$PROJECT_DIR$/Data/Obter.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Opor.html" afterPath="$PROJECT_DIR$/Data/Opor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Opoñer.html" afterPath="$PROJECT_DIR$/Data/Opoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Ouvir.html" afterPath="$PROJECT_DIR$/Data/Ouvir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Parir.html" afterPath="$PROJECT_DIR$/Data/Parir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Pospor.html" afterPath="$PROJECT_DIR$/Data/Pospor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Pospoñer.html" afterPath="$PROJECT_DIR$/Data/Pospoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Predispor.html" afterPath="$PROJECT_DIR$/Data/Predispor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Predispoñer.html" afterPath="$PROJECT_DIR$/Data/Predispoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Presupor.html" afterPath="$PROJECT_DIR$/Data/Presupor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Presupoñer.html" afterPath="$PROJECT_DIR$/Data/Presupoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Propor.html" afterPath="$PROJECT_DIR$/Data/Propor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Propoñer.html" afterPath="$PROJECT_DIR$/Data/Propoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Rarefacer.html" afterPath="$PROJECT_DIR$/Data/Rarefacer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Recompor.html" afterPath="$PROJECT_DIR$/Data/Recompor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Recompoñer.html" afterPath="$PROJECT_DIR$/Data/Recompoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Reconvir.html" afterPath="$PROJECT_DIR$/Data/Reconvir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Refacer.html" afterPath="$PROJECT_DIR$/Data/Refacer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Reimpor.html" afterPath="$PROJECT_DIR$/Data/Reimpor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Reimpoñer.html" afterPath="$PROJECT_DIR$/Data/Reimpoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Reler.html" afterPath="$PROJECT_DIR$/Data/Reler.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Repor.html" afterPath="$PROJECT_DIR$/Data/Repor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Repoñer.html" afterPath="$PROJECT_DIR$/Data/Repoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Reter.html" afterPath="$PROJECT_DIR$/Data/Reter.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Retraer.html" afterPath="$PROJECT_DIR$/Data/Retraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Retrotraer.html" afterPath="$PROJECT_DIR$/Data/Retrotraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Sobrepor.html" afterPath="$PROJECT_DIR$/Data/Sobrepor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Sobrepoñer.html" afterPath="$PROJECT_DIR$/Data/Sobrepoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Sobreser.html" afterPath="$PROJECT_DIR$/Data/Sobreser.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Sobrevir.html" afterPath="$PROJECT_DIR$/Data/Sobrevir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Sorrir.html" afterPath="$PROJECT_DIR$/Data/Sorrir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Soster.html" afterPath="$PROJECT_DIR$/Data/Soster.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Subexpor.html" afterPath="$PROJECT_DIR$/Data/Subexpor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Subexpoñer.html" afterPath="$PROJECT_DIR$/Data/Subexpoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Subtraer.html" afterPath="$PROJECT_DIR$/Data/Subtraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Superpor.html" afterPath="$PROJECT_DIR$/Data/Superpor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Superpoñer.html" afterPath="$PROJECT_DIR$/Data/Superpoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Traspor.html" afterPath="$PROJECT_DIR$/Data/Traspor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Traspoñer.html" afterPath="$PROJECT_DIR$/Data/Traspoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Tumefacer.html" afterPath="$PROJECT_DIR$/Data/Tumefacer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Valer.html" afterPath="$PROJECT_DIR$/Data/Valer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Xustapor.html" afterPath="$PROJECT_DIR$/Data/Xustapor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/Xustapoñer.html" afterPath="$PROJECT_DIR$/Data/Xustapoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/acaer.html" afterPath="$PROJECT_DIR$/Data/acaer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/amencer.html" afterPath="$PROJECT_DIR$/Data/amencer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/andar.html" afterPath="$PROJECT_DIR$/Data/andar.html" />
+      <change beforePath="$PROJECT_DIR$/Data/aquecer.html" afterPath="$PROJECT_DIR$/Data/aquecer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/caber.html" afterPath="$PROJECT_DIR$/Data/caber.html" />
+      <change beforePath="$PROJECT_DIR$/Data/caer.html" afterPath="$PROJECT_DIR$/Data/caer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/choer.html" afterPath="$PROJECT_DIR$/Data/choer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/compoñer.html" afterPath="$PROJECT_DIR$/Data/compoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/condoer.html" afterPath="$PROJECT_DIR$/Data/condoer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/conter.html" afterPath="$PROJECT_DIR$/Data/conter.html" />
+      <change beforePath="$PROJECT_DIR$/Data/contradicir.html" afterPath="$PROJECT_DIR$/Data/contradicir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/convir.html" afterPath="$PROJECT_DIR$/Data/convir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/corroer.html" afterPath="$PROJECT_DIR$/Data/corroer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/crer.html" afterPath="$PROJECT_DIR$/Data/crer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/dar.html" afterPath="$PROJECT_DIR$/Data/dar.html" />
+      <change beforePath="$PROJECT_DIR$/Data/debaer.html" afterPath="$PROJECT_DIR$/Data/debaer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/deber.html" afterPath="$PROJECT_DIR$/Data/deber.html" />
+      <change beforePath="$PROJECT_DIR$/Data/decaer.html" afterPath="$PROJECT_DIR$/Data/decaer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/degraer.html" afterPath="$PROJECT_DIR$/Data/degraer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/depor.html" afterPath="$PROJECT_DIR$/Data/depor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/deschoer.html" afterPath="$PROJECT_DIR$/Data/deschoer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/desfacer.html" afterPath="$PROJECT_DIR$/Data/desfacer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/desoír.html" afterPath="$PROJECT_DIR$/Data/desoír.html" />
+      <change beforePath="$PROJECT_DIR$/Data/deter.html" afterPath="$PROJECT_DIR$/Data/deter.html" />
+      <change beforePath="$PROJECT_DIR$/Data/dispoñer.html" afterPath="$PROJECT_DIR$/Data/dispoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/doer.html" afterPath="$PROJECT_DIR$/Data/doer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/entreoír.html" afterPath="$PROJECT_DIR$/Data/entreoír.html" />
+      <change beforePath="$PROJECT_DIR$/Data/entrever.html" afterPath="$PROJECT_DIR$/Data/entrever.html" />
+      <change beforePath="$PROJECT_DIR$/Data/esquecer.html" afterPath="$PROJECT_DIR$/Data/esquecer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/estar.html" afterPath="$PROJECT_DIR$/Data/estar.html" />
+      <change beforePath="$PROJECT_DIR$/Data/esvaer.html" afterPath="$PROJECT_DIR$/Data/esvaer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/facer.html" afterPath="$PROJECT_DIR$/Data/facer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/haber.html" afterPath="$PROJECT_DIR$/Data/haber.html" />
+      <change beforePath="$PROJECT_DIR$/Data/ir.html" afterPath="$PROJECT_DIR$/Data/ir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/ler.html" afterPath="$PROJECT_DIR$/Data/ler.html" />
+      <change beforePath="$PROJECT_DIR$/Data/manter.html" afterPath="$PROJECT_DIR$/Data/manter.html" />
+      <change beforePath="$PROJECT_DIR$/Data/moer.html" afterPath="$PROJECT_DIR$/Data/moer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/oír.html" afterPath="$PROJECT_DIR$/Data/oír.html" />
+      <change beforePath="$PROJECT_DIR$/Data/partir.html" afterPath="$PROJECT_DIR$/Data/partir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/poder.html" afterPath="$PROJECT_DIR$/Data/poder.html" />
+      <change beforePath="$PROJECT_DIR$/Data/poñer.html" afterPath="$PROJECT_DIR$/Data/poñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/pracer.html" afterPath="$PROJECT_DIR$/Data/pracer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/predicir.html" afterPath="$PROJECT_DIR$/Data/predicir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/prever.html" afterPath="$PROJECT_DIR$/Data/prever.html" />
+      <change beforePath="$PROJECT_DIR$/Data/previr.html" afterPath="$PROJECT_DIR$/Data/previr.html" />
+      <change beforePath="$PROJECT_DIR$/Data/proer.html" afterPath="$PROJECT_DIR$/Data/proer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/prover.html" afterPath="$PROJECT_DIR$/Data/prover.html" />
+      <change beforePath="$PROJECT_DIR$/Data/provir.html" afterPath="$PROJECT_DIR$/Data/provir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/pór.html" afterPath="$PROJECT_DIR$/Data/pór.html" />
+      <change beforePath="$PROJECT_DIR$/Data/quecer.html" afterPath="$PROJECT_DIR$/Data/quecer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/querer.html" afterPath="$PROJECT_DIR$/Data/querer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/raer.html" afterPath="$PROJECT_DIR$/Data/raer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/recaer.html" afterPath="$PROJECT_DIR$/Data/recaer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/remoer.html" afterPath="$PROJECT_DIR$/Data/remoer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/requecer.html" afterPath="$PROJECT_DIR$/Data/requecer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/rever.html" afterPath="$PROJECT_DIR$/Data/rever.html" />
+      <change beforePath="$PROJECT_DIR$/Data/rir.html" afterPath="$PROJECT_DIR$/Data/rir.html" />
+      <change beforePath="$PROJECT_DIR$/Data/roer.html" afterPath="$PROJECT_DIR$/Data/roer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/saber.html" afterPath="$PROJECT_DIR$/Data/saber.html" />
+      <change beforePath="$PROJECT_DIR$/Data/satisfacer.html" afterPath="$PROJECT_DIR$/Data/satisfacer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/saír.html" afterPath="$PROJECT_DIR$/Data/saír.html" />
+      <change beforePath="$PROJECT_DIR$/Data/ser.html" afterPath="$PROJECT_DIR$/Data/ser.html" />
+      <change beforePath="$PROJECT_DIR$/Data/sobreexpor.html" afterPath="$PROJECT_DIR$/Data/sobreexpor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/sobreexpoñer.html" afterPath="$PROJECT_DIR$/Data/sobreexpoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/sobresaír.html" afterPath="$PROJECT_DIR$/Data/sobresaír.html" />
+      <change beforePath="$PROJECT_DIR$/Data/supor.html" afterPath="$PROJECT_DIR$/Data/supor.html" />
+      <change beforePath="$PROJECT_DIR$/Data/supoñer.html" afterPath="$PROJECT_DIR$/Data/supoñer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/ter.html" afterPath="$PROJECT_DIR$/Data/ter.html" />
+      <change beforePath="$PROJECT_DIR$/Data/traer.html" afterPath="$PROJECT_DIR$/Data/traer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/trasler.html" afterPath="$PROJECT_DIR$/Data/trasler.html" />
+      <change beforePath="$PROJECT_DIR$/Data/varrer.html" afterPath="$PROJECT_DIR$/Data/varrer.html" />
+      <change beforePath="$PROJECT_DIR$/Data/ver.html" afterPath="$PROJECT_DIR$/Data/ver.html" />
+      <change beforePath="$PROJECT_DIR$/Data/vir.html" afterPath="$PROJECT_DIR$/Data/vir.html" />
+      <change beforePath="$PROJECT_DIR$/adestramento_perfecto.html" afterPath="$PROJECT_DIR$/adestramento_perfecto.html" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_pasado/actividad.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/desinencias/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/desinencias/actividad.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_imperfecto.js" afterPath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_imperfecto.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_imperfecto_subxuntivo.js" afterPath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_imperfecto_subxuntivo.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_perfecto.js" afterPath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_perfecto.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/irregulares_rosca_contrarreloxo/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/pluscuamperfecto_irregular_ser/actividad.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_1.js" afterPath="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_1.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_2.js" afterPath="$PROJECT_DIR$/assets/xogos/xogos_completar/actividad_2.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/xogos_muda o tempo/actividad_1.js" afterPath="$PROJECT_DIR$/assets/xogos/xogos_muda o tempo/actividad_1.js" />
+      <change beforePath="$PROJECT_DIR$/assets/xogos/xogos_test/actividad_2.js" afterPath="$PROJECT_DIR$/assets/xogos/xogos_test/actividad_2.js" />
+      <change beforePath="$PROJECT_DIR$/elements_procurar_irregulares.html" afterPath="$PROJECT_DIR$/elements_procurar_irregulares.html" />
+      <change beforePath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" afterPath="$PROJECT_DIR$/generic_2_trucos_tema_perfecto.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,7 +217,7 @@
       <file leaf-file-name="actividad.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="0">
               <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
               <folding />
             </state>
@@ -33,7 +227,7 @@
       <file leaf-file-name="actividad.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
+            <state relative-caret-position="83">
               <caret line="0" column="24249" lean-forward="false" selection-start-line="0" selection-start-column="24249" selection-end-line="0" selection-end-column="24249" />
               <folding>
                 <marker date="1509367778000" expanded="true" signature="11104:11109" ph="&amp;" />
@@ -58,8 +252,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&amp;#9654;&amp;#9654;</find>
-      <find>&lt;/font&gt;&lt;font color</find>
       <find>&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;EDE4E7&quot;&gt;</find>
       <find>tremer</find>
       <find>medir</find>
@@ -88,6 +280,8 @@
       <find>&lt;a href=&quot;referir.html&quot;&gt;&lt;b&gt;reexped&lt;/b&gt;ir&lt;/a&gt;</find>
       <find>conxu</find>
       <find>id=</find>
+      <find>imperfecto</find>
+      <find>perfecto</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;font color=&quot;#FE6E42&quot;&gt;e&lt;/font&gt;</replace>
@@ -135,7 +329,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Data/reinserir.html" />
         <option value="$PROJECT_DIR$/Data/adherir.html" />
         <option value="$PROJECT_DIR$/Data/ferir.html" />
         <option value="$PROJECT_DIR$/Data/malferir.html" />
@@ -186,6 +379,7 @@
         <option value="$PROJECT_DIR$/Data/revestir.html" />
         <option value="$PROJECT_DIR$/Data/travestir.html" />
         <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
+        <option value="$PROJECT_DIR$/Data/Desouvir.html" />
       </list>
     </option>
   </component>
@@ -224,30 +418,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="xogos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="xogos" type="462c0819:PsiDirectoryNode" />
-              <item name="alternancia_contrarreloxo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
@@ -259,7 +436,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -539,14 +715,18 @@
       <workItem from="1509202660152" duration="1174000" />
       <workItem from="1509220107572" duration="27000" />
       <workItem from="1509220256062" duration="6193000" />
-      <workItem from="1509309865431" duration="2532000" />
-    </task>
-    <task id="LOCAL-00077" summary="correción dos verbos">
-      <created>1502705153787</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1502705153787</updated>
+      <workItem from="1509309865431" duration="3078000" />
+      <workItem from="1509979511993" duration="119000" />
+      <workItem from="1509979758329" duration="159000" />
+      <workItem from="1510169127587" duration="39000" />
+      <workItem from="1511177764130" duration="432000" />
+      <workItem from="1511179027576" duration="74000" />
+      <workItem from="1511179183942" duration="183000" />
+      <workItem from="1511711889169" duration="32000" />
+      <workItem from="1511712190920" duration="172000" />
+      <workItem from="1514333119456" duration="7000" />
+      <workItem from="1514496153185" duration="11000" />
+      <workItem from="1514668748974" duration="16447000" />
     </task>
     <task id="LOCAL-00078" summary="correción dos verbos">
       <created>1502705712505</created>
@@ -884,11 +1064,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509309939674</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="correción de actividades">
+      <created>1509367807776</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1509367807776</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1285688000" />
+    <option name="totallyTimeSpent" value="1303909000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -904,7 +1091,9 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14872263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32300884" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31563422" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2462845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -918,7 +1107,6 @@
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1009,13 +1197,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo pedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="259" column="30" lean-forward="false" selection-start-line="259" selection-start-column="30" selection-end-line="259" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/advertir.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
@@ -1354,15 +1535,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="0">
           <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Desouvir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="501" column="45" lean-forward="false" selection-start-line="501" selection-start-column="45" selection-end-line="501" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#h5#0;n#div#0;n#body#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="83">
           <caret line="0" column="24249" lean-forward="false" selection-start-line="0" selection-start-column="24249" selection-end-line="0" selection-end-column="24249" />
           <folding>
             <marker date="1509367778000" expanded="true" signature="11104:11109" ph="&amp;" />

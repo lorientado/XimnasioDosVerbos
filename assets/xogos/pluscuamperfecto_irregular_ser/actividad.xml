@@ -65,9 +65,9 @@
 	<descripcion>Formar os grupos de palabras correctamente. Para iso pulsa sobre un dos elementos e a continuación completa o seu grupo segundo o criterio que che indique o exercicio, así ata completar todos os grupos,una vez elixido o elemento poderás eliminar a devandita selección volvendo pulsar sobre o devandito elemento.</descripcion>
 	<enunciado>Relaciona estos elementos</enunciado>
     <!-- parametro solo para la importación a ADR -->
-    <enunciado_edu>Investiga no pluscuamperfecto</enunciado_edu>
+    <enunciado_edu>Investiga no antepretérito</enunciado_edu>
     
-	<tituloApli>Investiga no pluscuamperfecto</tituloApli>
+	<tituloApli>Investiga no antepretérito</tituloApli>
     <parejas>
     		<pareja id="1" nombre="1_1486224118" numero_elementos="2" texto="Grupo 1" respuesta="Grupo Certo">
         			<elemento id="1">1ª persoa do singular</elemento>

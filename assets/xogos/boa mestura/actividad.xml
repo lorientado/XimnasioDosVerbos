@@ -84,20 +84,20 @@
     		<pareja id="3" nombre="3_1485885881" numero_elementos="4" texto="Agrupa as formas verbais cos pronomes persoais 'el' ou 'ela'" respuesta="Grupo Certo">
         			<elemento id="3">Sexa (presente de subxuntivo)</elemento>
         			<elemento id="3">Foi (pretérito de indicativo)</elemento>
-        			<elemento id="3">Estivera (pluscuamperfecto)</elemento>
+        			<elemento id="3">Estivera (antepretérito)</elemento>
         			<elemento id="3">Ten (presente de indicativo)</elemento>
         		</pareja>
     		<pareja id="4" nombre="4_1485885881" numero_elementos="4" texto="Relaciona as formas verbais co pronome persoal 'nós'" respuesta="Grupo Certo">
-        			<elemento id="4">Fomos (perfecto indicativo)</elemento>
+        			<elemento id="4">Fomos (pretérito indicativo)</elemento>
         			<elemento id="4">Imos (presente de indicativo)</elemento>
-        			<elemento id="4">Estabamos (imperfecto de indicativo)</elemento>
-        			<elemento id="4">Tivemos (perfecto de indicativo)</elemento>
+        			<elemento id="4">Estabamos (copretérito de indicativo)</elemento>
+        			<elemento id="4">Tivemos (pretérito de indicativo)</elemento>
         		</pareja>
     		<pareja id="5" nombre="5_1485885881" numero_elementos="4" texto="Relaciona as formas verbais co pronome persoal 'vós'" respuesta="Grupo Certo">
-        			<elemento id="5">Fósedes (perfecto de subxuntivo)</elemento>
+        			<elemento id="5">Fósedes (pretérito de subxuntivo)</elemento>
         			<elemento id="5">Vaiades (presente de subxuntivo)</elemento>
-        			<elemento id="5">Estivestes (perfecto de indicativo)</elemento>
-        			<elemento id="5">Tivésedes (perfecto de subxuntivo)</elemento>
+        			<elemento id="5">Estivestes (pretérito de indicativo)</elemento>
+        			<elemento id="5">Tivésedes (pretérito de subxuntivo)</elemento>
         		</pareja>
     		<pareja id="6" nombre="6_1485885881" numero_elementos="4" texto="Relaciona as formas verbais cos pronomes persoais 'eles' ou 'elas'" respuesta="Grupo Certo">
         			<elemento id="6">Sexan (presente de subxuntivo)</elemento>

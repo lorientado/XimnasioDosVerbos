@@ -14,8 +14,8 @@
 	
 	<!-- Parametros nuevos - dic 2012 -->
 	<autor>Gabriel Durán</autor>
-	<descripcionUsuario>A partir das formas do perfecto de indicativo, atopa a base (ou bases) do verbo que che vai servir para construír todos os tempos do pasado</descripcionUsuario>
-    <descripcionUsuarioLimpio>A partir das formas do perfecto de indicativo, atopa a base (ou bases) do verbo que che vai servir para construír todos os tempos do pasado</descripcionUsuarioLimpio>
+	<descripcionUsuario>A partir das formas do pretérito de indicativo, atopa a base (ou bases) do verbo que che vai servir para construír todos os tempos do pasado</descripcionUsuario>
+    <descripcionUsuarioLimpio>A partir das formas do pretérito de indicativo, atopa a base (ou bases) do verbo que che vai servir para construír todos os tempos do pasado</descripcionUsuarioLimpio>
 	<origen_recursos></origen_recursos><xorigen_recursos>https://d3c41a1a64ri6i.cloudfront.net/recursos/87/2786538/</xorigen_recursos>
 	
 	<globalFeedback>1</globalFeedback>
@@ -78,9 +78,9 @@
 		-->
                 
                         
-		<pregunta id="1" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: houbera, houberas, houbera,... Tamén no pretérito perfecto de subxuntivo telo igual: houbese, houbeses, houbese,...">
+		<pregunta id="1" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o antepretérito ten a mesma base: houbera, houberas, houbera,... Tamén no pretérito de subxuntivo telo igual: houbese, houbeses, houbese,...">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'haber' é: houben, houbeches, houbo, houbemos, houbestes, houberon. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O pretérito de indicativo do verbo 'haber' é: houben, houbeches, houbo, houbemos, houbestes, houberon. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
 			<opciones>
             	
             	
@@ -95,9 +95,9 @@
 		</pregunta>
                 
                         
-		<pregunta id="2" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: fixera, fixeras, fixera,... Igual que sucede no pretérito perfecto de subxuntivo telo igual: fixese, fixeses, fixese,...">
+		<pregunta id="2" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o antepretérito ten a mesma base: fixera, fixeras, fixera,... Igual que sucede no pretérito de subxuntivo telo igual: fixese, fixeses, fixese,...">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'facer' é: fixen, fixeches, fixo, fixemos, fixestes e fixeron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O pretérito de indicativo do verbo 'facer' é: fixen, fixeches, fixo, fixemos, fixestes e fixeron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
 			<opciones>
             	
             	
@@ -112,9 +112,9 @@
 		</pregunta>
                 
                         
-		<pregunta id="3" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: puidera, puideras, puidera,... Tamén no pretérito perfecto de subxuntivo telo igual: puidese, puideses, puidese,...">
+		<pregunta id="3" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o antepretérito ten a mesma base: puidera, puideras, puidera,... Tamén no pretérito de subxuntivo telo igual: puidese, puideses, puidese,...">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'poder' é: puiden, puideches, puido, puidemos, puidestes e puideron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O pretérito de indicativo do verbo 'poder' é: puiden, puideches, puido, puidemos, puidestes e puideron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
 			<opciones>
             	
             	
@@ -129,9 +129,9 @@
 		</pregunta>
                 
                         
-		<pregunta id="4" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: coubera, couberas, coubera,... Tamén no pretérito perfecto de subxuntivo telo igual: coubese, coubeses, coubese,...">
+		<pregunta id="4" tipo="unica" obligatoria="si" feedback="Como podes comprobar, o antepretérito ten a mesma base: coubera, couberas, coubera,... Tamén no pretérito de subxuntivo telo igual: coubese, coubeses, coubese,...">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'caber' é: couben, coubeches, coubo, coubemos, coubestes e couberon. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O pretérito de indicativo do verbo 'caber' é: couben, coubeches, coubo, coubemos, coubestes e couberon. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
 			<opciones>
             	
             	
@@ -146,7 +146,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="5" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: estivera, estiveras, estivera,... Tamén no pretérito perfecto de subxuntivo telo igual: estivese, estiveses, estivesen,...">
+		<pregunta id="5" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o antepretérito ten a mesma base: estivera, estiveras, estivera,... Tamén no pretérito de subxuntivo telo igual: estivese, estiveses, estivesen,...">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O pretérito de indicativo do verbo 'estar' é: estiven, estiveches, estivo, estivemos, estivestes e estiveron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
 			<opciones>
@@ -163,9 +163,9 @@
 		</pregunta>
                 
                         
-		<pregunta id="6" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: quixera, quixeras, quixera,... Tamén no pretérito perfecto de subxuntivo telo igual: quixese, quixeses, quixese,...">
+		<pregunta id="6" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o antepretérito ten a mesma base: quixera, quixeras, quixera,... Tamén no pretérito de subxuntivo telo igual: quixese, quixeses, quixese,...">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'querer' é: quixen, quixeches, quixo, quixemos, quixestes e quixerron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O pretérito de indicativo do verbo 'querer' é: quixen, quixeches, quixo, quixemos, quixestes e quixerron. Cal será a base do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
 			<opciones>
             	
             	
@@ -180,7 +180,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="7" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: tivera, tiveras, tivera,... Tamén no pretérito perfecto de subxuntivo telo igual: tivese, tiveses, tivese,...">
+		<pregunta id="7" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o antepretérito ten a mesma base: tivera, tiveras, tivera,... Tamén no pretérito de subxuntivo telo igual: tivese, tiveses, tivese,...">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'ter' é: tiven, tiveches, tivo, tivemos, tivestes e tiveron. Cal será a base (ou bases) do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
 			<opciones>
@@ -199,22 +199,22 @@
                         
 		<pregunta id="8" tipo="unica" obligatoria="no" feedback="">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Xa sabes que a base do verbo 'ter' para os tempos de pasado é: tiv-. Como se fará a 1ª persoa do sing do pluscuamperfecto (-era, eras,...) e do pretérito de subxuntivo (-ese, -eses,...)?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Xa sabes que a base do verbo 'ter' para os tempos de pasado é: tiv-. Como se fará a 1ª persoa do sing do antepretérito (-era, eras,...) e do pretérito de subxuntivo (-ese, -eses,...)?</enunciado>
 			<opciones>
             	
             	
-                <opcion resp="0">tiviera (pluscuamperfecto) e tiviese (pretérito de subxuntivo)</opcion>
+                <opcion resp="0">tiviera (antepretérito) e tiviese (pretérito de subxuntivo)</opcion>
         		
-                <opcion resp="1">tivera (pluscuamperfecto) e tivese (pretérito de subxuntivo)</opcion>
+                <opcion resp="1">tivera (antepretérito) e tivese (pretérito de subxuntivo)</opcion>
         		
-                <opcion resp="0">tuviera (pluscuamperfecto) e tuviese (pretérito de subxuntivo)</opcion>
+                <opcion resp="0">tuviera (antepretérito) e tuviese (pretérito de subxuntivo)</opcion>
         					</opciones>
 		</pregunta>
                 
                         
-		<pregunta id="9" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o pluscuamperfecto ten a mesma base: fora, foras, fora,... Tamén no pretérito perfecto de subxuntivo telo igual: fose, foses, fose,...">
+		<pregunta id="9" tipo="unica" obligatoria="no" feedback="Como podes comprobar, o antepretérito ten a mesma base: fora, foras, fora,... Tamén no pretérito de subxuntivo telo igual: fose, foses, fose,...">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O perfecto de indicativo do verbo 'ser' é: fun, fuches, foi, fomos, fostes e foron. Cal será a base (ou bases) do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O pretérito de indicativo do verbo 'ser' é: fun, fuches, foi, fomos, fostes e foron. Cal será a base (ou bases) do verbo que nos vai valer para construír os demais tempos do pasado?</enunciado>
 			<opciones>
             	
             	
@@ -231,15 +231,15 @@
                         
 		<pregunta id="10" tipo="unica" obligatoria="no" feedback="">
                 	                
-		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Xa sabes que a base do verbo 'ser' para os tempos de pasado é: fo-. Como se fará a 1ª persoa do sing do pluscuamperfecto (-ra, ras,...) e do pretérito de subxuntivo (-se, -ses,...)?</enunciado>
+		<enunciado tipo="texto" video="" videoStartTime="" audio="" >Xa sabes que a base do verbo 'ser' para os tempos de pasado é: fo-. Como se fará a 1ª persoa do sing. do antepretérito (-ra, ras,...) e do pretérito de subxuntivo (-se, -ses,...)?</enunciado>
 			<opciones>
             	
             	
-                <opcion resp="0">foara (pluscuamperfecto) e foase (pretérito de subxuntivo)</opcion>
+                <opcion resp="0">foara (antepretérito) e foase (pretérito de subxuntivo)</opcion>
         		
-                <opcion resp="0">foera (pluscuamperfecto) e foese (pretérito de subxuntivo)</opcion>
+                <opcion resp="0">foera (antepretérito) e foese (pretérito de subxuntivo)</opcion>
         		
-                <opcion resp="1">fora (pluscuamperfecto) e fose (pretérito de subxuntivo)</opcion>
+                <opcion resp="1">fora (antepretérito) e fose (pretérito de subxuntivo)</opcion>
         					</opciones>
 		</pregunta>
                 	</preguntas>
