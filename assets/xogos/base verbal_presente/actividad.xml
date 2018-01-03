@@ -129,7 +129,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="4" tipo="unica" obligatoria="no" feedback="Felicidades! Se te fixas coa base verbal 'caib-' podes construír o presente de subxuntivo: caiba, caibas, caiba... Pola contra, con 'cab-' podes facer o futuro (caberei, caberás...), o condicional (cabería, caberías,...) e o Copretérito (cabía, cabías,...).">
+		<pregunta id="4" tipo="unica" obligatoria="no" feedback="Felicidades! Se te fixas coa base verbal 'caib-' podes construír o presente de subxuntivo: caiba, caibas, caiba... Pola contra, con 'cab-' podes facer o futuro (caberei, caberás...), o pospretérito (cabería, caberías,...) e o Copretérito (cabía, cabías,...).">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'caber' é: caibo, cabes, cabe, cabemos, cabedes, caben . Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
 			<opciones>
@@ -163,7 +163,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="6" tipo="unica" obligatoria="no" feedback="Como podes comprobar, coa base 'quer-' podes construír o copretérito (quería, querías,...), o futuro (quererei, quererás,...), o condicional (querería, quererías,...). Pero presente de subxuntivo constrúese a partir de queir-: queira, queiras, queira,... :-D ">
+		<pregunta id="6" tipo="unica" obligatoria="no" feedback="Como podes comprobar, coa base 'quer-' podes construír o copretérito (quería, querías,...), o futuro (quererei, quererás,...), o pospretérito (querería, quererías,...). Pero presente de subxuntivo constrúese a partir de queir-: queira, queiras, queira,... :-D ">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'querer' é: quero, queres, quere, queremos, queredes, queren. Cal será a base do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
 			<opciones>
@@ -180,7 +180,7 @@
 		</pregunta>
                 
                         
-		<pregunta id="7" tipo="unica" obligatoria="si" feedback="Había unha pequena argallada. Os tempos do presente deste verbos usan dúas bases. Por unha banda, está 'prac-' para o copretérito (pracía, pracías,...), futuro (pracerei, pracerás,...) e condicional (pracería, pracerías,...). Pola outra, está 'praz-' que se usa só no presente de subxuntivo: praza, prazas, praza,...">
+		<pregunta id="7" tipo="unica" obligatoria="si" feedback="Había unha pequena argallada. Os tempos do presente deste verbos usan dúas bases. Por unha banda, está 'prac-' para o copretérito (pracía, pracías,...), futuro (pracerei, pracerás,...) e pospretérito (pracería, pracerías,...). Pola outra, está 'praz-' que se usa só no presente de subxuntivo: praza, prazas, praza,...">
                 	                
 		<enunciado tipo="texto" video="" videoStartTime="" audio="" >O presente do verbo 'pracer' é: prazo, praces, prace, pracemos, pracedes, pracen. Cal será a base (ou bases) do verbo que nos vai valer para construír os demais tempos do presente?</enunciado>
 			<opciones>
