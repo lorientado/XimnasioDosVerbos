@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="Corrección_quen somos">
+    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="Corrección_quen somos_1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elements_quen_somos.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements_quen_somos.html" afterDir="false" />
     </list>
@@ -355,14 +355,7 @@
       <workItem from="1514496153185" duration="11000" />
       <workItem from="1514668748974" duration="22280000" />
       <workItem from="1597223741076" duration="1149000" />
-      <workItem from="1597238582672" duration="1465000" />
-    </task>
-    <task id="LOCAL-00081" summary="correción dos verbos">
-      <created>1503336544360</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1503336544360</updated>
+      <workItem from="1597238582672" duration="1907000" />
     </task>
     <task id="LOCAL-00082" summary="novos sons verbos">
       <created>1503336654503</created>
@@ -700,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597238425287</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Corrección_quen somos_1">
+      <created>1597310965075</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1597310965078</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TodoView">
@@ -728,7 +728,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remodelación de actividade" />
     <MESSAGE value="correcións" />
     <MESSAGE value="modificacións do TODO" />
     <MESSAGE value="correción de abster" />
@@ -753,6 +752,13 @@
     <MESSAGE value="corrección de verbos irregulares" />
     <MESSAGE value="correción de actividades" />
     <MESSAGE value="Corrección_quen somos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrección_quen somos" />
+    <MESSAGE value="Corrección_quen somos_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección_quen somos_1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597310975079">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="480" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597310975079" />
   </component>
 </project>
