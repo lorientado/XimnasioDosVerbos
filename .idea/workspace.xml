@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="Corrección_quen somos_1">
+    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="Corrección_quen somos_2">
+      <changelist_data name="Gabriel" email="lorientado@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elements_quen_somos.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements_quen_somos.html" afterDir="false" />
     </list>
@@ -105,7 +106,13 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gabriel &lt;lorientado@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
@@ -355,14 +362,7 @@
       <workItem from="1514496153185" duration="11000" />
       <workItem from="1514668748974" duration="22280000" />
       <workItem from="1597223741076" duration="1149000" />
-      <workItem from="1597238582672" duration="1907000" />
-    </task>
-    <task id="LOCAL-00082" summary="novos sons verbos">
-      <created>1503336654503</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1503336654503</updated>
+      <workItem from="1597238582672" duration="2294000" />
     </task>
     <task id="LOCAL-00083" summary="novos sons verbos">
       <created>1503336948290</created>
@@ -700,7 +700,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597310965078</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Corrección_quen somos_1">
+      <created>1597331008499</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1597331008499</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TodoView">
