@@ -1,105 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Data/Abster.html" afterPath="$PROJECT_DIR$/Data/Abster.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Advir.html" afterPath="$PROJECT_DIR$/Data/Advir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Afacer.html" afterPath="$PROJECT_DIR$/Data/Afacer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Antepor.html" afterPath="$PROJECT_DIR$/Data/Antepor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Arrepoñer.html" afterPath="$PROJECT_DIR$/Data/Arrepoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Ater.html" afterPath="$PROJECT_DIR$/Data/Ater.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Compor.html" afterPath="$PROJECT_DIR$/Data/Compor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Contrafacer.html" afterPath="$PROJECT_DIR$/Data/Contrafacer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Contrapor.html" afterPath="$PROJECT_DIR$/Data/Contrapor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Contrapoñer.html" afterPath="$PROJECT_DIR$/Data/Contrapoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Contravir.html" afterPath="$PROJECT_DIR$/Data/Contravir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Desapor.html" afterPath="$PROJECT_DIR$/Data/Desapor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Desapoñer.html" afterPath="$PROJECT_DIR$/Data/Desapoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Descompor.html" afterPath="$PROJECT_DIR$/Data/Descompor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Descompoñer.html" afterPath="$PROJECT_DIR$/Data/Descompoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Descontraer.html" afterPath="$PROJECT_DIR$/Data/Descontraer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Desdicir.html" afterPath="$PROJECT_DIR$/Data/Desdicir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Dicir.html" afterPath="$PROJECT_DIR$/Data/Dicir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Dispor.html" afterPath="$PROJECT_DIR$/Data/Dispor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Distraer.html" afterPath="$PROJECT_DIR$/Data/Distraer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Entreter.html" afterPath="$PROJECT_DIR$/Data/Entreter.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Expoñer.html" afterPath="$PROJECT_DIR$/Data/Expoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Extraer.html" afterPath="$PROJECT_DIR$/Data/Extraer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Impor.html" afterPath="$PROJECT_DIR$/Data/Impor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Impoñer.html" afterPath="$PROJECT_DIR$/Data/Impoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Indispor.html" afterPath="$PROJECT_DIR$/Data/Indispor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Indispoñer.html" afterPath="$PROJECT_DIR$/Data/Indispoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Intervir.html" afterPath="$PROJECT_DIR$/Data/Intervir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Maldicir.html" afterPath="$PROJECT_DIR$/Data/Maldicir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Maltraer.html" afterPath="$PROJECT_DIR$/Data/Maltraer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Opoñer.html" afterPath="$PROJECT_DIR$/Data/Opoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Ouvir.html" afterPath="$PROJECT_DIR$/Data/Ouvir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Parir.html" afterPath="$PROJECT_DIR$/Data/Parir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Predispoñer.html" afterPath="$PROJECT_DIR$/Data/Predispoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Presupor.html" afterPath="$PROJECT_DIR$/Data/Presupor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Propoñer.html" afterPath="$PROJECT_DIR$/Data/Propoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Rarefacer.html" afterPath="$PROJECT_DIR$/Data/Rarefacer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Recompor.html" afterPath="$PROJECT_DIR$/Data/Recompor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Reimpor.html" afterPath="$PROJECT_DIR$/Data/Reimpor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Reimpoñer.html" afterPath="$PROJECT_DIR$/Data/Reimpoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Reler.html" afterPath="$PROJECT_DIR$/Data/Reler.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Sobrepoñer.html" afterPath="$PROJECT_DIR$/Data/Sobrepoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Subexpoñer.html" afterPath="$PROJECT_DIR$/Data/Subexpoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Traspor.html" afterPath="$PROJECT_DIR$/Data/Traspor.html" />
-      <change beforePath="$PROJECT_DIR$/Data/Xustapoñer.html" afterPath="$PROJECT_DIR$/Data/Xustapoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/acaer.html" afterPath="$PROJECT_DIR$/Data/acaer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/andar.html" afterPath="$PROJECT_DIR$/Data/andar.html" />
-      <change beforePath="$PROJECT_DIR$/Data/caber.html" afterPath="$PROJECT_DIR$/Data/caber.html" />
-      <change beforePath="$PROJECT_DIR$/Data/caer.html" afterPath="$PROJECT_DIR$/Data/caer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/choer.html" afterPath="$PROJECT_DIR$/Data/choer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/compoñer.html" afterPath="$PROJECT_DIR$/Data/compoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/contradicir.html" afterPath="$PROJECT_DIR$/Data/contradicir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/convir.html" afterPath="$PROJECT_DIR$/Data/convir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/corroer.html" afterPath="$PROJECT_DIR$/Data/corroer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/decaer.html" afterPath="$PROJECT_DIR$/Data/decaer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/desfacer.html" afterPath="$PROJECT_DIR$/Data/desfacer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/desoír.html" afterPath="$PROJECT_DIR$/Data/desoír.html" />
-      <change beforePath="$PROJECT_DIR$/Data/dispoñer.html" afterPath="$PROJECT_DIR$/Data/dispoñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/doer.html" afterPath="$PROJECT_DIR$/Data/doer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/entreoír.html" afterPath="$PROJECT_DIR$/Data/entreoír.html" />
-      <change beforePath="$PROJECT_DIR$/Data/entrever.html" afterPath="$PROJECT_DIR$/Data/entrever.html" />
-      <change beforePath="$PROJECT_DIR$/Data/esquecer.html" afterPath="$PROJECT_DIR$/Data/esquecer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/facer.html" afterPath="$PROJECT_DIR$/Data/facer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/haber.html" afterPath="$PROJECT_DIR$/Data/haber.html" />
-      <change beforePath="$PROJECT_DIR$/Data/ler.html" afterPath="$PROJECT_DIR$/Data/ler.html" />
-      <change beforePath="$PROJECT_DIR$/Data/manter.html" afterPath="$PROJECT_DIR$/Data/manter.html" />
-      <change beforePath="$PROJECT_DIR$/Data/moer.html" afterPath="$PROJECT_DIR$/Data/moer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/oír.html" afterPath="$PROJECT_DIR$/Data/oír.html" />
-      <change beforePath="$PROJECT_DIR$/Data/partir.html" afterPath="$PROJECT_DIR$/Data/partir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/poñer.html" afterPath="$PROJECT_DIR$/Data/poñer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/predicir.html" afterPath="$PROJECT_DIR$/Data/predicir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/prever.html" afterPath="$PROJECT_DIR$/Data/prever.html" />
-      <change beforePath="$PROJECT_DIR$/Data/previr.html" afterPath="$PROJECT_DIR$/Data/previr.html" />
-      <change beforePath="$PROJECT_DIR$/Data/proer.html" afterPath="$PROJECT_DIR$/Data/proer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/prover.html" afterPath="$PROJECT_DIR$/Data/prover.html" />
-      <change beforePath="$PROJECT_DIR$/Data/pór.html" afterPath="$PROJECT_DIR$/Data/pór.html" />
-      <change beforePath="$PROJECT_DIR$/Data/quecer.html" afterPath="$PROJECT_DIR$/Data/quecer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/raer.html" afterPath="$PROJECT_DIR$/Data/raer.html" />
-      <change beforePath="$PROJECT_DIR$/Data/rever.html" afterPath="$PROJECT_DIR$/Data/rever.html" />
-      <change beforePath="$PROJECT_DIR$/Data/rir.html" afterPath="$PROJECT_DIR$/Data/rir.html" />
-      <change beforePath="$PROJECT_DIR$/Data/saír.html" afterPath="$PROJECT_DIR$/Data/saír.html" />
-      <change beforePath="$PROJECT_DIR$/adestramento_perfecto.html" afterPath="$PROJECT_DIR$/adestramento_perfecto.html" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.js" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.xml" afterPath="$PROJECT_DIR$/assets/xogos/base verbal_presente/actividad.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/boa mestura/actividad.js" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_condicional.js" afterPath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_condicional.js" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_perfecto.js" afterPath="$PROJECT_DIR$/assets/xogos/desinencias/actividad_perfecto.js" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/lego dos verbos/actividad.js" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_contrarreloxo/actividad.js" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/verbos irregulares_marfallada/actividad.js" />
-      <change beforePath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" afterPath="$PROJECT_DIR$/assets/xogos/vogal temática_xuntar pezas/actividad.js" />
+    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="Corrección_quen somos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements_quen_somos.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements_quen_somos.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,44 +30,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="actividad.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actividad.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="0" column="24249" lean-forward="false" selection-start-line="0" selection-start-column="24249" selection-end-line="0" selection-end-column="24249" />
-              <folding>
-                <marker date="1509367778000" expanded="true" signature="11104:11109" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="21138:21143" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="24345:24350" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="25388:25393" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="26329:26334" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="26881:26886" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="27448:27453" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="28924:28929" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="31104:31109" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="31127:31132" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="31203:31208" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="31224:31229" ph="&amp;" />
-                <marker date="1509367778000" expanded="true" signature="31247:31252" ph="&amp;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -222,65 +107,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Data/adherir.html" />
-        <option value="$PROJECT_DIR$/Data/ferir.html" />
-        <option value="$PROJECT_DIR$/Data/malferir.html" />
-        <option value="$PROJECT_DIR$/Data/mentir.html" />
-        <option value="$PROJECT_DIR$/Data/advertir.html" />
-        <option value="$PROJECT_DIR$/Data/aferir.html" />
-        <option value="$PROJECT_DIR$/Data/agredir.html" />
-        <option value="$PROJECT_DIR$/Data/arrepentir.html" />
-        <option value="$PROJECT_DIR$/Data/comedir.html" />
-        <option value="$PROJECT_DIR$/Data/competir.html" />
-        <option value="$PROJECT_DIR$/Data/concernir.html" />
-        <option value="$PROJECT_DIR$/Data/conferir.html" />
-        <option value="$PROJECT_DIR$/Data/deferir.html" />
-        <option value="$PROJECT_DIR$/Data/desapedir.html" />
-        <option value="$PROJECT_DIR$/Data/descomedir.html" />
-        <option value="$PROJECT_DIR$/Data/desempedernir.html" />
-        <option value="$PROJECT_DIR$/Data/despedir.html" />
-        <option value="$PROJECT_DIR$/Data/diferir.html" />
-        <option value="$PROJECT_DIR$/Data/discernir.html" />
-        <option value="$PROJECT_DIR$/Data/divertir.html" />
-        <option value="$PROJECT_DIR$/Data/dixerir.html" />
-        <option value="$PROJECT_DIR$/Data/enxerir.html" />
-        <option value="$PROJECT_DIR$/Data/espelir.html" />
-        <option value="$PROJECT_DIR$/Data/espir.html" />
-        <option value="$PROJECT_DIR$/Data/expedir.html" />
-        <option value="$PROJECT_DIR$/Data/impedir.html" />
-        <option value="$PROJECT_DIR$/Data/inferir.html" />
-        <option value="$PROJECT_DIR$/Data/inserir.html" />
-        <option value="$PROJECT_DIR$/Data/interferir.html" />
-        <option value="$PROJECT_DIR$/Data/inxerir.html" />
-        <option value="$PROJECT_DIR$/Data/medir.html" />
-        <option value="$PROJECT_DIR$/Data/pedir.html" />
-        <option value="$PROJECT_DIR$/Data/preferir.html" />
-        <option value="$PROJECT_DIR$/Data/preterir.html" />
-        <option value="$PROJECT_DIR$/Data/proferir.html" />
-        <option value="$PROJECT_DIR$/Data/reexpedir.html" />
-        <option value="$PROJECT_DIR$/Data/referir.html" />
-        <option value="$PROJECT_DIR$/Data/reflectir.html" />
-        <option value="$PROJECT_DIR$/Data/repetir.html" />
-        <option value="$PROJECT_DIR$/Data/suxerir.html" />
-        <option value="$PROJECT_DIR$/Data/transferir.html" />
-        <option value="$PROJECT_DIR$/Data/transgredir.html" />
-        <option value="$PROJECT_DIR$/Data/vestir.html" />
-        <option value="$PROJECT_DIR$/Data/desrevestir.html" />
-        <option value="$PROJECT_DIR$/Data/desvestir.html" />
-        <option value="$PROJECT_DIR$/Data/investir.html" />
-        <option value="$PROJECT_DIR$/Data/reinvestir.html" />
-        <option value="$PROJECT_DIR$/Data/revestir.html" />
-        <option value="$PROJECT_DIR$/Data/travestir.html" />
-        <option value="$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js" />
-        <option value="$PROJECT_DIR$/Data/Desouvir.html" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
     <exe-path />
@@ -288,66 +114,31 @@
     <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
-    <option name="y" value="23" />
-    <option name="width" value="1117" />
-    <option name="height" value="773" />
-  </component>
+  <component name="ProjectId" id="1fzbBKalH1sGEMxxswoAWEWM3Od" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ximnasio_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ximnasio_app" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="node.js.path.for.package.jscs" value="project" />
-    <property name="node.js.selected.package.jscs" value="" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="" />
-    <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.standard" value="" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -355,23 +146,19 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="JavaScript Debug.subverter.html">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/index.html" />
-    <configuration name="poder.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Irregulares/poder.html" />
-    <configuration name="subverter.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/subverter.html" />
-    <configuration name="xogar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/xogar.html" />
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="poder.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Irregulares/poder.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="subverter.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/subverter.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="xogar.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ximnasio_app/Data/Alternancia_Vocalica/xogar.html">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PhoneGap" factoryName="PhoneGap/Cordova">
       <option name="myExecutable" value="/usr/local/bin/cordova" />
       <option name="myWorkDir" value="" />
@@ -381,84 +168,31 @@
       <option name="myExtraArgs" value="" />
       <option name="hasTarget" value="false" />
       <option name="target" value="" />
+      <method v="2">
+        <option name="PhonegapTask" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
+      <method v="2" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.xogar.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.poder.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.subverter.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.xogar.html" />
+      <item itemvalue="JavaScript Debug.poder.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.subverter.html" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.subverter.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.xogar.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.poder.html" />
+      <list>
+        <item itemvalue="JavaScript Debug.subverter.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.xogar.html" />
+        <item itemvalue="JavaScript Debug.poder.html" />
       </list>
     </recent_temporary>
   </component>
@@ -468,9 +202,6 @@
       <grouper name="StatusGroupingRule" enabled="true" />
       <grouper name="FolderGroupingRule" enabled="true" />
     </groupers>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -623,13 +354,8 @@
       <workItem from="1514333119456" duration="7000" />
       <workItem from="1514496153185" duration="11000" />
       <workItem from="1514668748974" duration="22280000" />
-    </task>
-    <task id="LOCAL-00080" summary="correción dos verbos">
-      <created>1503327679509</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1503327679509</updated>
+      <workItem from="1597223741076" duration="1149000" />
+      <workItem from="1597238582672" duration="1465000" />
     </task>
     <task id="LOCAL-00081" summary="correción dos verbos">
       <created>1503336544360</created>
@@ -967,11 +693,15 @@
       <option name="project" value="LOCAL" />
       <updated>1514929783172</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Corrección_quen somos">
+      <created>1597238425286</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1597238425287</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1309742000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -982,84 +712,22 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="103" y="23" width="1117" height="773" extended-state="0" />
-    <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14872263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32300884" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31563422" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2462845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31603053" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39694658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32300884" sideWeight="0.5040936" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31563422" sideWeight="0.49590644" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31603053" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19784656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33480826" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2462845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39694658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remodelación trucos alternancia" />
     <MESSAGE value="remodelación de actividade" />
     <MESSAGE value="correcións" />
     <MESSAGE value="modificacións do TODO" />
@@ -1084,390 +752,7 @@
     <MESSAGE value="remodelación da sección procurar" />
     <MESSAGE value="corrección de verbos irregulares" />
     <MESSAGE value="correción de actividades" />
-    <option name="LAST_COMMIT_MESSAGE" value="correción de actividades" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/advertir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="351" column="255" lean-forward="false" selection-start-line="351" selection-start-column="255" selection-end-line="351" selection-end-column="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/aferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="352" column="321" lean-forward="false" selection-start-line="352" selection-start-column="321" selection-end-line="352" selection-end-column="321" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/agredir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/arrepentir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="351" column="259" lean-forward="false" selection-start-line="351" selection-start-column="259" selection-end-line="351" selection-end-column="259" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/comedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/competir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="353" column="223" lean-forward="false" selection-start-line="353" selection-start-column="223" selection-end-line="353" selection-end-column="223" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/concernir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="353" column="257" lean-forward="false" selection-start-line="353" selection-start-column="257" selection-end-line="353" selection-end-column="257" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/conferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="353" column="223" lean-forward="false" selection-start-line="353" selection-start-column="223" selection-end-line="353" selection-end-column="223" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/deferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="353" column="128" lean-forward="false" selection-start-line="353" selection-start-column="128" selection-end-line="353" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/desapedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="353" column="130" lean-forward="false" selection-start-line="353" selection-start-column="130" selection-end-line="353" selection-end-column="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/descomedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="354" column="131" lean-forward="false" selection-start-line="354" selection-start-column="131" selection-end-line="354" selection-end-column="131" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/desempedernir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="353" column="134" lean-forward="false" selection-start-line="353" selection-start-column="134" selection-end-line="353" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/despedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/diferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="353" column="253" lean-forward="false" selection-start-line="353" selection-start-column="253" selection-end-line="353" selection-end-column="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/discernir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="352" column="257" lean-forward="false" selection-start-line="352" selection-start-column="257" selection-end-line="352" selection-end-column="257" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/dixerir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/enxerir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/espelir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="352" column="128" lean-forward="false" selection-start-line="352" selection-start-column="128" selection-end-line="352" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/espir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/expedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="353" column="222" lean-forward="false" selection-start-line="353" selection-start-column="222" selection-end-line="353" selection-end-column="222" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/impedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/inferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="352" column="222" lean-forward="false" selection-start-line="352" selection-start-column="222" selection-end-line="352" selection-end-column="222" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/inserir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="353" column="253" lean-forward="false" selection-start-line="353" selection-start-column="253" selection-end-line="353" selection-end-column="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/interferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="352" column="225" lean-forward="false" selection-start-line="352" selection-start-column="225" selection-end-line="352" selection-end-column="225" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/inxerir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/medir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/pedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="352" column="249" lean-forward="false" selection-start-line="352" selection-start-column="249" selection-end-line="352" selection-end-column="249" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/preferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/preterir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="355" column="90" lean-forward="true" selection-start-line="355" selection-start-column="90" selection-end-line="355" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/proferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="352" column="129" lean-forward="false" selection-start-line="352" selection-start-column="129" selection-end-line="352" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/reexpedir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="352" column="130" lean-forward="false" selection-start-line="352" selection-start-column="130" selection-end-line="352" selection-end-column="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/referir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/reflectir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="353" column="257" lean-forward="false" selection-start-line="353" selection-start-column="257" selection-end-line="353" selection-end-column="257" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/repetir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="352" column="116" lean-forward="false" selection-start-line="352" selection-start-column="116" selection-end-line="352" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/suxerir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="352" column="253" lean-forward="false" selection-start-line="352" selection-start-column="253" selection-end-line="352" selection-end-column="253" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/transgredir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5340">
-          <caret line="356" column="132" lean-forward="false" selection-start-line="356" selection-start-column="132" selection-end-line="356" selection-end-column="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/vestir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5265">
-          <caret line="351" column="251" lean-forward="false" selection-start-line="351" selection-start-column="251" selection-end-line="351" selection-end-column="251" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/desvestir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5175">
-          <caret line="345" column="224" lean-forward="false" selection-start-line="345" selection-start-column="224" selection-end-line="345" selection-end-column="224" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/investir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5280">
-          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/revestir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5295">
-          <caret line="353" column="255" lean-forward="false" selection-start-line="353" selection-start-column="255" selection-end-line="353" selection-end-column="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/travestir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5310">
-          <caret line="354" column="135" lean-forward="false" selection-start-line="354" selection-start-column="130" selection-end-line="354" selection-end-column="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/explicacións_modelo servir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="185" column="3" lean-forward="false" selection-start-line="185" selection-start-column="3" selection-end-line="185" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/reinvestir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="352" column="131" lean-forward="false" selection-start-line="352" selection-start-column="131" selection-end-line="352" selection-end-column="131" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/desrevestir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="353" column="132" lean-forward="false" selection-start-line="353" selection-start-column="132" selection-end-line="353" selection-end-column="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/transferir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="352" column="259" lean-forward="false" selection-start-line="352" selection-start-column="259" selection-end-line="352" selection-end-column="259" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/divertir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="352" column="255" lean-forward="false" selection-start-line="352" selection-start-column="255" selection-end-line="352" selection-end-column="255" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elements_procurar_alternancia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="345" column="96" lean-forward="true" selection-start-line="345" selection-start-column="96" selection-end-line="345" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Desouvir.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="501" column="45" lean-forward="false" selection-start-line="501" selection-start-column="45" selection-end-line="501" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#h5#0;n#div#0;n#body#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/xogos/alternancia_contrarreloxo/actividad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="0" column="24249" lean-forward="false" selection-start-line="0" selection-start-column="24249" selection-end-line="0" selection-end-column="24249" />
-          <folding>
-            <marker date="1509367778000" expanded="true" signature="11104:11109" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="21138:21143" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="24345:24350" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="25388:25393" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="26329:26334" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="26881:26886" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="27448:27453" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="28924:28929" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="31104:31109" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="31127:31132" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="31203:31208" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="31224:31229" ph="&amp;" />
-            <marker date="1509367778000" expanded="true" signature="31247:31252" ph="&amp;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <MESSAGE value="Corrección_quen somos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección_quen somos" />
   </component>
 </project>
