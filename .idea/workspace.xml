@@ -363,14 +363,7 @@
       <workItem from="1597331581909" duration="212000" />
       <workItem from="1597359749122" duration="16000" />
       <workItem from="1598444834578" duration="306000" />
-      <workItem from="1598459245643" duration="378000" />
-    </task>
-    <task id="LOCAL-00085" summary="correcións de verbos">
-      <created>1503399817410</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1503399817411</updated>
+      <workItem from="1598459245643" duration="681000" />
     </task>
     <task id="LOCAL-00086" summary="correcións de verbos">
       <created>1503518558192</created>
@@ -708,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598459550024</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="Corrección_quen somos_4">
+      <created>1598459864364</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1598459864364</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TodoView">
@@ -772,9 +772,14 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="387" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1598445051202" />
-    <state x="212" y="121" key="Vcs.Push.Dialog.v2" timestamp="1597331469259">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="629" y="340" key="Github.Dialog.Accounts.Choose" timestamp="1598459981905">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="629" y="340" key="Github.Dialog.Accounts.Choose/0.23.1280.777@0.23.1280.777" timestamp="1598459981905" />
+    <state x="212" y="141" key="Vcs.Push.Dialog.v2" timestamp="1598459881964">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="212" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597331469259" />
+    <state x="212" y="141" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1598459881964" />
   </component>
 </project>
