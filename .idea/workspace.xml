@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="Corrección_quen somos_2">
-      <changelist_data name="Gabriel" email="lorientado@gmail.com" />
+    <list default="true" id="367c6bde-d3f9-4a0e-bece-2ba8eabbe658" name="Default" comment="Corrección_quen somos_3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/elements_quen_somos.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements_quen_somos.html" afterDir="false" />
     </list>
@@ -189,10 +188,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.xogar.html" />
-      <item itemvalue="JavaScript Debug.poder.html" />
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.poder.html" />
       <item itemvalue="JavaScript Debug.subverter.html" />
+      <item itemvalue="JavaScript Debug.xogar.html" />
     </list>
     <recent_temporary>
       <list>
@@ -363,13 +362,11 @@
       <workItem from="1514668748974" duration="22280000" />
       <workItem from="1597223741076" duration="1149000" />
       <workItem from="1597238582672" duration="2294000" />
-    </task>
-    <task id="LOCAL-00083" summary="novos sons verbos">
-      <created>1503336948290</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1503336948290</updated>
+      <workItem from="1597331401925" duration="147000" />
+      <workItem from="1597331581909" duration="212000" />
+      <workItem from="1597359749122" duration="16000" />
+      <workItem from="1598444834578" duration="306000" />
+      <workItem from="1598459245643" duration="102000" />
     </task>
     <task id="LOCAL-00084" summary="correcións de verbos">
       <created>1503352236190</created>
@@ -707,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597331008499</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Corrección_quen somos_3">
+      <created>1597331460040</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1597331460040</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TodoView">
@@ -735,7 +739,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correcións" />
     <MESSAGE value="modificacións do TODO" />
     <MESSAGE value="correción de abster" />
     <MESSAGE value="correción verbo abster I" />
@@ -760,12 +763,21 @@
     <MESSAGE value="correción de actividades" />
     <MESSAGE value="Corrección_quen somos" />
     <MESSAGE value="Corrección_quen somos_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrección_quen somos_1" />
+    <MESSAGE value="Corrección_quen somos_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección_quen somos_3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597310975079">
+    <state x="372" y="59" key="#Plugins" timestamp="1598459347212">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="372" y="59" key="#Plugins/0.23.1280.777@0.23.1280.777" timestamp="1598459347212" />
+    <state x="387" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598445051202">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="387" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1598445051202" />
+    <state x="212" y="121" key="Vcs.Push.Dialog.v2" timestamp="1597331469259">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="480" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597310975079" />
+    <state x="212" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597331469259" />
   </component>
 </project>
